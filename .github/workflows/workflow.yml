@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit & Push changes
         uses: actions-js/push@master
-        if: github.ref == 'refs/heads/main' && github.repository == 'wgetge/HostlistsRegistry'
+        if: github.ref == 'refs/heads/main' && github.repository == 'wgetge/adrules'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "main"
