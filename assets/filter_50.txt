@@ -2,7 +2,7 @@
 ! Title: uBlock₀ filters – Badware risks
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc. The purpose is to at least ensure a user is warned of the risks ahead.
 ! Homepage: https://github.com/uBlockOrigin/uAssets
-! Last modified: 2024-05-05T04:12:33.042Z
+! Last modified: 2024-05-05T12:16:26.830Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -538,6 +538,7 @@ thepiratebay3.com^
 ||hornysmart.link^
 ||bd4jn7dk9u.com^
 ||throb.fun^
+||throww.fun^
 ||imp2.com^
 ||love-places.ru^
 
@@ -565,7 +566,6 @@ thepiratebay3.com^
 ||gamefree.vip^
 ||galaxycheats.site^
 ||pewhack.com^
-||cheat.aeesan.com^
 ||gocrazy.gg^
 ||mrbestgame.com^
 ||tautarahack.pro^
@@ -573,10 +573,13 @@ thepiratebay3.com^
 ||insomniahack.fun^
 ||trustsoftware.net^
 ||gratisoft.pro^
-||pengwinhack.space^
 ||onecheatz.com^
 ||upgameshop.gitbook.io^
 ||s0ftware.gitbook.io^
+||whitegames.pro^
+||torontohack.fun^
+! https://cloud-folder.org/KRvjWueEcl/
+||cloud-folder.org^
 
 ! fake software updaters /redirections
 ||1perpersqe1.com^
