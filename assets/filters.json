@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1715105565346
+			"timeUpdated": 1715128522151
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -570,7 +570,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1715042558007
+			"timeUpdated": 1715128543421
 		},
 		{
 			"filterId": "HUN_hufilter",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1715123334928
+			"timeUpdated": 1715128549667
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -687,7 +687,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1715087433995
+			"timeUpdated": 1715128550256
 		},
 		{
 			"filterId": "dandelion_sprouts_anti_malware_list",
@@ -719,7 +719,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"sourceUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": 1689805499960,
-			"timeUpdated": 1715101760668
+			"timeUpdated": 1715128551324
 		},
 		{
 			"filterId": "curben_phishing_filter",
@@ -735,7 +735,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1715087435380
+			"timeUpdated": 1715128551486
 		},
 		{
 			"filterId": "staklerware_indicators_list",
