@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-09T10:12:18.545Z
+! Last modified: 2024-05-09T11:09:00.376Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,50 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405091010
+! Version: 202405091108
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||riotgive.com^
+||treesearchfeed.com^
+||riseingpooles.pro^
+||editoralra.pro^
+||chakradharreddy.com^
+||htoolsblog.com^
+||addictivecolors.com^
+||liquiditywarz.com^
+||nltreeservices.com^
+||1000impressions.com^
+||redecasacenter.com^
+||spacendecorcafe.com^
+||atherelectric.com^
+||wirs1agwzq07l.cindypamperedpets.com^
+||nimble-crepe-9cec15.netlify.app^
+||ashleyfurniturenearme.com^
+||g-gh4p.cfd^
+||protectorsensecam.xyz^
+||ludzieplue.infowright.com^
+||wiad.infowright.com^
+||wealthharbor.pro^
+||profesjdau.click^
+||heartixxay.click^
+||tech.immediate20.cloud^
+||victorwivm.click^
+||thirst4bvqz.click^
+||radiographedkawer.life^
+||ilsedoresqbuge.life^
+||boilermakingkawer.life^
+||matlabskawer.life^
+||unbastardisedkawer.life^
+||herdawzuhy.xyz^
+||kredas.xyz^
+||spellboundrealm.cfd^
+||gerasqyter.xyz^
+||secevtn.space^
+||phyllofuky.space^
+||copperfpwe.space^
+||centaurckp.space^
+||jokdasolon-invest.pro^
 ||www.allegrostroe.cyou^
 ||allegro-stroe.shop^
 ||airolaktoks.com^
