@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-10T04:12:11.481Z
+! Last modified: 2024-05-10T05:10:00.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,24 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405100410
+! Version: 202405100508
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||4690-aktualizacja-potwierdzac.gabkaj.co.pl^
+||8822-zaloguj-organizowac.gabkaj.co.pl^
+||7988-logowania-zaakceptowac.gabkaj.co.pl^
+||3382-logowaniu-zaakceptowac.gabkaj.co.pl^
+||3433-aktualizacja-dom.gabkaj.co.pl^
+||4136-poczta-zaakceptowac.gabkaj.co.pl^
+||1549-konta-uslugi.gabkaj.co.pl^
+||docusign-ecsc.pl^
+||post.pgtiger.cc^
+||findmy.id-track.info^
+||metalicbat.world^
+||4742-weryfikacja-nastepny.gabkaj.co.pl^
+||3518-logowaniu-zaakceptowac.gabkaj.co.pl^
+||youngsvillekjxer.life^
 ||zicevu.opinionjet.com^
 ||gakoha.opinionblitz.com^
 ||jeansthreads.site^
