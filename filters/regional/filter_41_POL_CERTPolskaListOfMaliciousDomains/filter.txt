@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-10T05:10:00.441Z
+! Last modified: 2024-05-10T06:13:22.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,32 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405100508
+! Version: 202405100612
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||4295-kodsms-uslugi.gabkaj.co.pl^
+||8627-logowania-wydanie.gabkaj.co.pl^
+||6037-aktualizacja-zaakceptowac.gabkaj.co.pl^
+||michalblaszczyk5.peterkoniec.pl^
+||5780-logowania-dom.gabkaj.co.pl^
+||5328-logowania-praca.gabkaj.co.pl^
+||5358-konta-zaakceptowac.gabkaj.co.pl^
+||paulinka12044.edwardmarcin.pl^
+||gc21.jakubdobro.com.pl^
+||andrzejjachymiak.michalgrab.info.pl^
+||lukaszdeszczynski.ryszardbuczek.pl^
+||bmatuszewski.natanstefan.pl^
+||grazynagorzna.stefanmariusz.pl^
+||beny1107.edwardmarcin.pl^
+||klosiu72.tadeuszklimek.pl^
+||adrianbk.stefanmariusz.pl^
+||anetkakulinska.leonwrona.pl^
+||in-posts-a.top^
+||3413-logowaniu-potwierdzac.gabkaj.co.pl^
+||5453-zaloguj-zaakceptowac.gabkaj.co.pl^
+||7722-kodsms-praca.gabkaj.co.pl^
+||4789-kod-potwierdzac.gabkaj.co.pl^
 ||4690-aktualizacja-potwierdzac.gabkaj.co.pl^
 ||8822-zaloguj-organizowac.gabkaj.co.pl^
 ||7988-logowania-zaakceptowac.gabkaj.co.pl^
