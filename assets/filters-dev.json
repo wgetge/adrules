@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1715451101484
+			"timeUpdated": 1715465286192
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1715451112448
+			"timeUpdated": 1715465297060
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1715461768088
+			"timeUpdated": 1715465310753
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
