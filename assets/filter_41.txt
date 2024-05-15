@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-15T11:08:47.503Z
+! Last modified: 2024-05-15T12:19:44.278Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,70 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405151106
+! Version: 202405151218
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||ultimatevin.com^
+||interiordesignsdecor.com^
+||subwaywallet.com^
+||homiejersey.com^
+||onetypekeerthi.com^
+||casatale.com^
+||sofasasturias.com^
+||easifixx.com^
+||plasticfishy.com^
+||whishsoft.com^
+||bancade30.com^
+||sattaresultfast.com^
+||bookleprechaun.com^
+||indusindcfd.com^
+||summitsolutionswholesale.com^
+||arab-lighthouse.com^
+||puzzlesinfotainment.com^
+||furiososbikes.com^
+||damlef.com^
+||easani.com^
+||viljavelho.com^
+||beatssofficial.com^
+||sonikaprofessionalphotography.com^
+||stpsychologists.com^
+||girlspulse.com^
+||trade14.com^
+||indinewspress.com^
+||pkludo.com^
+||nxone-mall.com^
+||universalwavecompanyltd.com^
+||unitedpowerresources.com^
+||anniversarysweeps.com^
+||blttensor.com^
+||moeriehealthy.com^
+||miotoportygie.host^
+||newsgazeta.shop^
+||pdtceindia.com^
+||oneshiksha.com^
+||athidihospitality.com^
+||khosigiatot.com^
+||thenoticememoir.pythonanywhere.com^
+||kheloindia89.com^
+||orangecountylasik.com^
+||woniiptv.com^
+||kipcleaning.com^
+||kaisenpetshome.com^
+||khusrofoundation.com^
+||abuanews.com^
+||lecremyevents.com^
+||prideofbride.com^
+||woodspole.com^
+||linkrtpasd123.com^
+||z-y0ae.lat^
+||syx297f5kz.pages.dev^
+||visualoz.com^
+||backlinkator.com^
+||dcm.8hwo.pro^
+||js4.8hwo.pro^
+||p6-r7q.lat^
+||support-business-ads.content62.site^
 ||biq.bitupes.xyz^
 ||trdrd.cuspaxek.top^
 ||a2.acroporpuc.site^
