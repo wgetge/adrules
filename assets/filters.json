@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1715992967667
+			"timeUpdated": 1716005479809
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -78,7 +78,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": 1689339206100,
-			"timeUpdated": 1715962281811
+			"timeUpdated": 1716005481753
 		},
 		{
 			"filterId": "1hosts_mini",
@@ -126,7 +126,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
 			"timeAdded": 1695055410687,
-			"timeUpdated": 1715962286003
+			"timeUpdated": 1716005485077
 		},
 		{
 			"filterId": "hagezi_ultimate",
@@ -142,7 +142,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"timeAdded": 1695056027320,
-			"timeUpdated": 1715962287961
+			"timeUpdated": 1716005486755
 		},
 		{
 			"filterId": "dan_pollocks_list",
@@ -174,7 +174,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
 			"timeAdded": 1697214465726,
-			"timeUpdated": 1715962290217
+			"timeUpdated": 1716005489795
 		},
 		{
 			"filterId": "awavenue_ads_rule",
@@ -190,7 +190,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
 			"timeAdded": 1699370433972,
-			"timeUpdated": 1715598507501
+			"timeUpdated": 1716005489894
 		},
 		{
 			"filterId": "adguard_popup_filter",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1715992978382
+			"timeUpdated": 1716005491342
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -302,7 +302,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt",
 			"timeAdded": 1692204947218,
-			"timeUpdated": 1715962293164
+			"timeUpdated": 1716005492059
 		},
 		{
 			"filterId": "hagezi_gambling_blocklist",
@@ -318,7 +318,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 			"timeAdded": 1692228213114,
-			"timeUpdated": 1715962295396
+			"timeUpdated": 1716005494104
 		},
 		{
 			"filterId": "shadowwhisperers_dating_list",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716001884516
+			"timeUpdated": 1716005505961
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -783,7 +783,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"timeAdded": 1692186669090,
-			"timeUpdated": 1715962317468
+			"timeUpdated": 1716005513534
 		},
 		{
 			"filterId": "ublock_badware_risks",
@@ -815,7 +815,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_52.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
 			"timeAdded": 1698232782837,
-			"timeUpdated": 1715922712166
+			"timeUpdated": 1716005513828
 		},
 		{
 			"filterId": "hagezi_dyndns_blocklist",
@@ -831,7 +831,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
 			"timeAdded": 1703182917830,
-			"timeUpdated": 1715922712276
+			"timeUpdated": 1716005513865
 		},
 		{
 			"filterId": "hagezi_badware_hoster_blocklist",
@@ -847,7 +847,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
 			"timeAdded": 1710348213970,
-			"timeUpdated": 1715922712389
+			"timeUpdated": 1716005513991
 		},
 		{
 			"filterId": "hagezi_the_worlds_most_abused_tlds",
