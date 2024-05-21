@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-21T08:13:21.337Z
+! Last modified: 2024-05-21T09:11:37.977Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,122 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405210812
+! Version: 202405210910
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||ceyi.rhythm5tars.com^
+||fbvp.nimprove.top^
+||met.nimprove.top^
+||toren.facst.xyz^
+||mtc.nimprove.top^
+||nan.baltez-offic.xyz^
+||yeuu.pixipl.xyz^
+||onetpl-102760.weeblysite.com^
+||vask.open-sooursee.live^
+||whats.euteschan.top^
+||fpro.nimprove.top^
+||wtsdd.mastertrd.xyz^
+||en.loyal-program.live^
+||vvcc.prodepl.top^
+||hoe.peolke.xyz^
+||vnnv.prodepl.top^
+||yometusen.roommer.xyz^
+||trew.autotrdes.top^
+||onuka.mastercasc.top^
+||heico.facst.xyz^
+||nas.pokut.xyz^
+||tem.pokut.xyz^
+||21.improvetrd.xyz^
+||vvuu.prodepl.top^
+||tedoc.autotrdes.top^
+||32.improvetrd.xyz^
+||bryn1.volop.xyz^
+||send.polstow.top^
+||fustenor.prog-x.xyz^
+||xx.maxymus.xyz^
+||elo.peolke.xyz^
+||yometio.roommer.xyz^
+||treosto.facst.xyz^
+||qw.tubur.top^
+||pin.topprogit.xyz^
+||uvvw.depprogg.top^
+||loss.baltez-offic.xyz^
+||yometo.roommer.xyz^
+||revfrv.pixipl.xyz^
+||dsw.topprogit.xyz^
+||tslm.qvelo.top^
+||uyoo.activdep.top^
+||now.koroje.top^
+||blon3.caxero.xyz^
+||goe.neaio.top^
+||wats.open-sooursee.live^
+||mttedw.nimprove.top^
+||mas.pracce.xyz^
+||rtyu.kulion.xyz^
+||uyte.activdep.top^
+||priv.autotrdes.top^
+||jgp.newaistar.top^
+||pro.brokaws.top^
+||mtrdss.nimprove.top^
+||vgfd.activdep.top^
+||pocztiapl.top^
+||verseosds.com^
+||verseosdn.com^
+||s.qwantumm.top^
+||op.qwantumm.top^
+||vii.loyal-program.live^
+||mtimprowe.nimprove.top^
+||atpw.deipwmix.org^
+||tix.neweurss.xyz^
+||cinest.runik.top^
+||qwss.spaactivs.top^
+||sprawa.versuts.top^
+||bagulina.checkty.top^
+||lae.verts.top^
+||ts4.depforma.top^
+||mex.saigow.top^
+||kk.qwantumm.top^
+||ka.qwantumm.top^
+||fas.maltre.top^
+||das.maltre.top^
+||rtyuio.thullin.xyz^
+||ster.finew.top^
+||realtimenow.shop^
+||posinpl.top^
+||facetofacepoetrys.com^
+||pon.peolke.xyz^
+||www.songmontspolska.com^
+||retroburgos.com^
+||daomocaverse.com^
+||ipva-parana.com^
+||sabsjdh8.com^
+||rooferconroetexas.com^
+||mindfulmusclemastery.com^
+||verifywholemeltextracts.com^
+||peak7exteriors.com^
+||11goat.com^
+||trcareland.com^
+||musicdetailed.com^
+||cricbuzzshops.com^
+||wickedrosethreads.com^
+||qoinbasly.com^
+||grupoljimabezerra.com^
+||carexshippinglogistics.com^
+||vtekbusinessads.com^
+||fastfireplacestore.com^
+||homecareindore.com^
+||walkwitharul.com^
+||writingadventurers.com^
+||nicoleswilpa.com^
+||worldwidewhisker.com^
+||webnetcrawler.com^
+||alexandrezara.com^
+||eggraja.com^
+||productoresmultimedia.com^
+||white-bet.com^
+||harmonpac.com^
+||visitorsindialife.com^
 ||ose.qvelo.top^
 ||xpj.qvelo.top^
 ||yermiyiz.com^
