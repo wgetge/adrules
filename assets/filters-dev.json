@@ -502,7 +502,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"sourceUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1716145651045
+			"timeUpdated": 1716404890921
 		},
 		{
 			"filterId": "IDN_abpindo",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716401618399
+			"timeUpdated": 1716404899238
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
