@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1716553046843
+			"timeUpdated": 1716574374695
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -206,7 +206,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
 			"timeAdded": 1712080012990,
-			"timeUpdated": 1716553062379
+			"timeUpdated": 1716574388941
 		},
 		{
 			"filterId": "oisd_basic",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716570598279
+			"timeUpdated": 1716574404098
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
