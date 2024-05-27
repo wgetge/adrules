@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1716779537520
+			"timeUpdated": 1716790482642
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -190,7 +190,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
 			"timeAdded": 1699370433972,
-			"timeUpdated": 1716005489894
+			"timeUpdated": 1716790496084
 		},
 		{
 			"filterId": "adguard_popup_filter",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1716779549188
+			"timeUpdated": 1716790497465
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716786646237
+			"timeUpdated": 1716790511694
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -767,7 +767,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": 1681400345355,
-			"timeUpdated": 1716703983735
+			"timeUpdated": 1716790514025
 		},
 		{
 			"filterId": "hagezi_threat_intelligence_feeds",
