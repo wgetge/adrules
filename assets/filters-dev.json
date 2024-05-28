@@ -502,7 +502,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt",
 			"sourceUrl": "https://anti-ad.net/adguard.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1716916152166
+			"timeUpdated": 1716923309134
 		},
 		{
 			"filterId": "IDN_abpindo",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716919920596
+			"timeUpdated": 1716923316803
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -767,7 +767,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": 1681400345355,
-			"timeUpdated": 1716912744025
+			"timeUpdated": 1716923318976
 		},
 		{
 			"filterId": "hagezi_threat_intelligence_feeds",
