@@ -62,7 +62,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
 			"timeAdded": 1660743805268,
-			"timeUpdated": 1716217839876
+			"timeUpdated": 1716861273961
 		},
 		{
 			"filterId": "hagezi_multinormal",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1716857056076
+			"timeUpdated": 1716861297459
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
