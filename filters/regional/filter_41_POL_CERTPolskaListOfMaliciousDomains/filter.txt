@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-05-31T07:09:59.425Z
+! Last modified: 2024-05-31T08:13:32.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,90 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202405310708
+! Version: 202405310812
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||homesinsurat.com^
+||natrixy.com^
+||mgloins.com^
+||huameiba.com^
+||screamingschool.com^
+||valuequo.com^
+||ayarbe.com^
+||weblisy.com^
+||ammansport.com^
+||himalayansilage.com^
+||xn--0xaj.com^
+||kupacini.com^
+||ecraftcentral.com^
+||jamepyo8.website^
+||hectorxx.com^
+||obiwaneth.com^
+||spoilerpoint.com^
+||brewroad.com^
+||xn--maanatours-u9a.com^
+||azimjolta.com^
+||microoapps.com^
+||playquizform.com^
+||gaomienphi.com^
+||valleyspeakers.com^
+||techhene.com^
+||dagknights.com^
+||lexsail.com^
+||martinadan.com^
+||wonderfulclockstore.com^
+||nintendoedit.com^
+||babyfli.com^
+||startsendingletters.com^
+||stateboundplayground.com^
+||oceanomucisexperience.com^
+||astacareers.com^
+||kingdarkbat.com^
+||italianrestaurantdecatur.com^
+||idealitbrands.com^
+||sunsetbeachroofer.com^
+||admissionyatra.com^
+||nilayseeds.com^
+||myqualityweightloss.com^
+||justprojector.com^
+||allestrelabets.com^
+||webricheshq.com^
+||regain-wellbeing.com^
+||networkchecks.com^
+||starbuttnakedcoffee.com^
+||pursocity.com^
+||airdrop-zeekcoin.com^
+||nch-marketing.com^
+||newagebreadwinner.com^
+||thezenearas.com^
+||aroobvpn.com^
+||omnicraftworks.com^
+||alharamaintoursandtravel.com^
+||efesbetgiris24.com^
+||shaggythefoodvilla.com^
+||mgpropiedadessanmartin.com^
+||econnectco.com^
+||mouse-tester.com^
+||kidshappyandsafe.com^
+||okgazebo.com^
+||ismagazam.com^
+||alwaysbuywithapromotion.com^
+||wilmangroupindia.com^
+||medzohub.com^
+||newportbeachroofs.com^
+||sparrowandbloom.com^
+||solicitud-creditoweb.com^
+||josiestadler.com^
+||entireresults.com^
+||shellrevier.host^
+||booblefire.fun^
+||freizertompson.site^
+||lisonmatter.site^
+||crt.dywybua5.site^
+||anposteddapps.skin^
+||nachodiper.store^
+||anclickedcapp.bond^
 ||faktycodzienne.homes^
 ||istotnefakty.homes^
 ||wydaniecodzienne.homes^
