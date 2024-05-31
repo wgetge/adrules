@@ -2,7 +2,7 @@
 ! Title: ISR: EasyList Hebrew
 ! Description: List for blocking ads in Hebrew.
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! Last modified: 2024-05-06T01:51:33.620Z
+! Last modified: 2024-05-31T15:10:36.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -284,6 +284,8 @@
 ||rpe.co.il^
 ||s-iwantyou.com^
 ||saphiretelavivisrael.com^
+||sdarot-il.org^
+||sdarot.cc^
 ||sdarotil.top^
 ||sdc.mako.co.il^
 ||sekindo.com^
