@@ -78,7 +78,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt",
 			"timeAdded": 1689339206100,
-			"timeUpdated": 1717474329674
+			"timeUpdated": 1717513840226
 		},
 		{
 			"filterId": "1hosts_mini",
@@ -142,7 +142,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"timeAdded": 1695056027320,
-			"timeUpdated": 1717474334876
+			"timeUpdated": 1717513845978
 		},
 		{
 			"filterId": "dan_pollocks_list",
@@ -174,7 +174,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
 			"timeAdded": 1697214465726,
-			"timeUpdated": 1717474337851
+			"timeUpdated": 1717513848595
 		},
 		{
 			"filterId": "awavenue_ads_rule",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1717510210479
+			"timeUpdated": 1717513866409
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -783,7 +783,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"timeAdded": 1692186669090,
-			"timeUpdated": 1717474362162
+			"timeUpdated": 1717513875876
 		},
 		{
 			"filterId": "ublock_badware_risks",
@@ -863,7 +863,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
 			"timeAdded": 1710348896473,
-			"timeUpdated": 1717474362673
+			"timeUpdated": 1717513876929
 		},
 		{
 			"filterId": "nocoin_filter_list",
