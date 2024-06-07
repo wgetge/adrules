@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-07T06:14:41.159Z
+! Last modified: 2024-06-07T07:10:17.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,44 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406070612
+! Version: 202406070708
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||gadgetwaveshop.com^
+||dholeraitzone.com^
+||vifag.com^
+||coiunmlase.com^
+||vividconstructionsolutions.com^
+||veetrust.com^
+||datagovernanceofficer.com^
+||cuddlecrawlers.com^
+||bgyfinancialservices.com^
+||uhuddigital.com^
+||jouryproducts.com^
+||aibdtv.com^
+||universalleaseapprovals.com^
+||techquetrade.com^
+||bhimavarampicklesonline.com^
+||ultrasolarsystem.com^
+||draft.xmediar.com^
+||swasthyatips.com^
+||dbkreations.com^
+||beastempires.com^
+||flavialaninibi.com^
+||luxxelyfestyle.com^
+||dukankisanka.com^
+||devicerenewed.com^
+||joguesubwaysurf.com^
+||despeguecomercial.com^
+||municsbl.com^
+||thehealthperfect.com^
+||cornerstonedream.com^
+||lemmingcapitalmanagement.com^
+||shivanshenterprise.com^
+||steamrcommunlty.com^
+||stecmrcommunity.com^
+||tylko-jedzenie.com^
 ||aliorpl.com^
 ||shelawouis.srv70583.seohost.com.pl^
 ||utterplane.online^
