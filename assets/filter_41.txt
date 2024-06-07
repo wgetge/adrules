@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-07T11:10:13.125Z
+! Last modified: 2024-06-07T12:20:04.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,30 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406071108
+! Version: 202406071218
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||crenwes.dcms.site^
+||df.netxqq.xyz^
+||kon.plprogpltes.site^
+||qon.aposiiz.com^
+||3.improvetrd.xyz^
+||22.improvetrd.xyz^
+||31101.improvetrd.xyz^
+||trdtess.improvetrd.xyz^
+||testkontopl.euclasco.xyz^
+||lon.sacors.top^
+||twoi.pixipl.xyz^
+||mame.kolotas.top^
+||allegrolokalnie-pl.id80927142.pl^
+||tuu.sjtl.lat^
+||2ot.sjtl.lat^
+||bp8.sjtl.lat^
+||cludeti.xyz^
+||03v.sjtl.lat^
+||3c5.sjtl.lat^
+||1ro.sjtl.lat^
 ||www.goodruit.com^
 ||navsankalpagro.com^
 ||edufinancehub.com^
