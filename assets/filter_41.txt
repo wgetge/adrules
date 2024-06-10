@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-10T13:13:55.567Z
+! Last modified: 2024-06-10T14:12:04.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,25 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406101312
+! Version: 202406101410
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||cyberfolks-pl-82f55d633ca.notariusztarnowskiegory.pl^
+||cyberfolks-pl-9c252959df0.notariusztarnowskiegory.pl^
+||h9h.n43t.icu^
+||checkedmixes.pro^
+||0lx.608535.xyz^
+||qqv.n43t.icu^
+||ho9.nb2i.icu^
+||3ujd3t.cc^
+||8b224ad1.augustoxs.com^
+||viewstore.site^
+||giod1n-web-app.translate.goog^
+||eumapkuexq-xn--daygbyxtxq-xn----c1ac4bxc-xn----p1ai.translate.goog^
+||www.mangoschile.com^
+||craigbe.com^
+||postan24bet.top^
 ||www.casio-cz.shop^
 ||inposta.icu^
 ||www.sitemap.luckypickraffles.com^
