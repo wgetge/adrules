@@ -142,7 +142,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_49.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"timeAdded": 1695056027320,
-			"timeUpdated": 1718079167077
+			"timeUpdated": 1718082672706
 		},
 		{
 			"filterId": "dan_pollocks_list",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1718079185809
+			"timeUpdated": 1718082691993
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -671,7 +671,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1717996256022
+			"timeUpdated": 1718082692182
 		},
 		{
 			"filterId": "urlhaus_filter_online",
@@ -719,7 +719,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"sourceUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": 1689805499960,
-			"timeUpdated": 1718061020887
+			"timeUpdated": 1718082693823
 		},
 		{
 			"filterId": "curben_phishing_filter",
@@ -847,7 +847,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
 			"timeAdded": 1710348213970,
-			"timeUpdated": 1717647159846
+			"timeUpdated": 1718082700570
 		},
 		{
 			"filterId": "hagezi_the_worlds_most_abused_tlds",
