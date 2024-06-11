@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1718043196239
+			"timeUpdated": 1718066698479
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1718053830915
+			"timeUpdated": 1718066703079
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1718053841812
+			"timeUpdated": 1718066713613
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -570,7 +570,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1718017802954
+			"timeUpdated": 1718066720607
 		},
 		{
 			"filterId": "HUN_hufilter",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1718061019239
+			"timeUpdated": 1718066727433
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -687,7 +687,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1718025237011
+			"timeUpdated": 1718066728071
 		},
 		{
 			"filterId": "dandelion_sprouts_anti_malware_list",
@@ -735,7 +735,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1718025238711
+			"timeUpdated": 1718066729258
 		},
 		{
 			"filterId": "staklerware_indicators_list",
