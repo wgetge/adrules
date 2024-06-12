@@ -254,7 +254,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt",
 			"timeAdded": 1667987017479,
-			"timeUpdated": 1718216036838
+			"timeUpdated": 1718219353709
 		},
 		{
 			"filterId": "dandelion_sprouts_anti_push_notifications",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1718216051503
+			"timeUpdated": 1718219367651
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
