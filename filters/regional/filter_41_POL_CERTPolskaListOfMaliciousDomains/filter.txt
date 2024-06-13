@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-13T07:10:22.722Z
+! Last modified: 2024-06-13T08:13:36.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,45 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406130708
+! Version: 202406130812
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||shopnigia.com^
+||cricketsleagues.com^
+||victorian-motel.com^
+||naturalnailsholland.com^
+||jessicaperezmakeup.com^
+||kasebergdesign.com^
+||ebusiness2020.com^
+||zhumoto.com^
+||treeservicewestcovinaca.com^
+||total-reliability.com^
+||youralternatelife.com^
+||chainllnklabv2.com^
+||yearlybest.com^
+||portfolio-waagency.com^
+||jobsinform.com^
+||pasigoal.com^
+||maihinduhoon.com^
+||sarapks.com^
+||narbutasglobal.com^
+||ufalinks12.com^
+||saisanskrithi.com^
+||drpaa.com^
+||dailysportsgames.com^
+||theroofspacecoworking.com^
+||greacklifestyle.com^
+||consumerratingsguide.com^
+||go-ceylon.com^
+||getpaidtospreadtheword.com^
+||conoceminicaragua.com^
+||demeetly.com^
+||zigiastudio.com^
+||support-for-business-open-appeal.abocam.com^
+||webclipo.site^
+||wonderful-swan-1fae67.netlify.app^
+||unstcktgng.stashiperoter.com^
 ||aktualnenewsy.homes^
 ||exhibitions-afisha.com^
 ||miamixrent.com^
