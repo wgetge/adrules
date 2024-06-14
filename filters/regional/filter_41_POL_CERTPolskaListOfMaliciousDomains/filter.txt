@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-14T08:13:10.035Z
+! Last modified: 2024-06-14T09:11:24.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,61 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406140812
+! Version: 202406140910
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||www.klienci-indywidualne-santander-mobile-sa.dctcbd.com^
+||ajlxg6kcg7jwdchcjppilszwm.gniewkobaranowski.pl^
+||sanjeevdixit.com^
+||goldenslotsofzeus.com^
+||sanayidetanidik.com^
+||livproo.com^
+||giftius.com^
+||ekocitytv.com^
+||lunaticgamer.com^
+||adititourstravels.com^
+||bicyclekiri.com^
+||civilarcho.com^
+||chandakgreenairyborivalieast.com^
+||lpviverdebet.com^
+||thenewyorkbusinessguide.com^
+||unlockyourdrip.com^
+||mialearner.com^
+||ramezwagdy.com^
+||cosmeticdentistmarketer.com^
+||zooindia.com^
+||foxsdencampground.com^
+||rdgproduction.com^
+||gotmosquitoes.com^
+||dxbooking.com^
+||latestupdat.com^
+||abbloggingteach.com^
+||daikotrada.com^
+||nuclearmedsystems.com^
+||colorfultireletters.com^
+||chainlnkclaims.com^
+||coachableacademy.com^
+||la-foryou.com^
+||centrodelchevrolet.com^
+||marketingparafitness.com^
+||hindinewswale.com^
+||empireconstrutores.com^
+||deathscroll.com^
+||gschs.com^
+||celebrityrelations.com^
+||oxfordlawusa.com^
+||dswiftlogistics.com^
+||converads.com^
+||hattatelefonamobil.com^
+||rpg-players.com^
+||vaidarbhi.com^
+||5p-cqo.lat^
+||webdenise.com^
+||richevn.com^
+||onuch.com^
+||freppssy4.shop^
+||eagleboxes.host^
 ||successfullifehustles.com^
 ||welcome-dfyn.com^
 ||sweetgamings.com^
