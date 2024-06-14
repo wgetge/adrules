@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1718345667529
+			"timeUpdated": 1718367496539
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1718359835676
+			"timeUpdated": 1718367501031
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -110,7 +110,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
 			"sourceUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1718363326087
+			"timeUpdated": 1718367509239
 		},
 		{
 			"filterId": "hagezi_pro",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1718359848010
+			"timeUpdated": 1718367516301
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1718363352058
+			"timeUpdated": 1718367530653
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -719,7 +719,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"sourceUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": 1689805499960,
-			"timeUpdated": 1718349075885
+			"timeUpdated": 1718367532781
 		},
 		{
 			"filterId": "curben_phishing_filter",
@@ -799,7 +799,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
 			"timeAdded": 1695145147610,
-			"timeUpdated": 1718187103235
+			"timeUpdated": 1718367538999
 		},
 		{
 			"filterId": "hagezi_encrypted_dns_vpn_tor_proxy_bypass",
