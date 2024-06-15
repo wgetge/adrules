@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-15T12:17:54.978Z
+! Last modified: 2024-06-15T13:10:44.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,36 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406151216
+! Version: 202406151308
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||b4b.k7rv.icu^
+||7eh.k7rv.icu^
+||h0m.k7rv.icu^
+||955.9odp.skin^
+||8zi.k7rv.icu^
+||ctb.9odp.skin^
+||qip.k7rv.icu^
+||vlnted-gb.id64733893.info^
+||office.garnetmountain.com^
+||aboutyoupl.vip^
+||9yd.k7rv.icu^
+||ght.k7rv.icu^
+||8wo.9odp.skin^
+||wg1.k7rv.icu^
+||zug.k7rv.icu^
+||wbq.k7rv.icu^
+||mde.9odp.skin^
+||wy5.k7rv.icu^
+||zo1.9odp.skin^
+||zlu.9odp.skin^
+||r1z.k7rv.icu^
+||yw5.k7rv.icu^
+||2ip.k7rv.icu^
+||z5e.k7rv.icu^
+||pz9.9odp.skin^
+||lwr.9odp.skin^
 ||ys2.9odp.skin^
 ||l97.k7rv.icu^
 ||skl.k7rv.icu^
