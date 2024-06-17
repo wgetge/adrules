@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-17T09:11:51.179Z
+! Last modified: 2024-06-17T10:12:44.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,36 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406170910
+! Version: 202406171010
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||realtimeliveupdates.shop^
+||emonitoringpost.xyz^
+||wydanienadmorskie.pl^
+||threecountiescycle.com^
+||plpostion.top^
+||frawlertas.com^
+||cuisinieris.info^
+||wcl.pnug.skin^
+||ov3t.icu^
+||hotelin67910.eu^
+||hotel-22705.com^
+||hotel-37387.com^
+||hotel-77153.com^
+||hotel-63314.com^
+||stella2me.wixsite.com^
+||hotel-68732.com^
+||eurmill.tilda.ws^
+||baltic-pipe.top^
+||poland365baggroup.top^
+||poland365bagsgroup.mom^
+||credifya.com^
+||sgnewcondolaunch.com^
+||howiznow.com^
+||ossdcourses.com^
+||gapthink.com^
+||tinklot.com^
 ||worlzu.com^
 ||1stkissmangas.com^
 ||daveknft.com^
@@ -2124,7 +2150,6 @@
 ||buddur.buddpower.xyz^
 ||helpwithnursingessay.com^
 ||joetracy.com^
-||www.threecountiescycle.com^
 ||secure-outsourcing.com^
 ||rugfdl.com^
 ||help-conexion.info^
