@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-17T11:09:26.194Z
+! Last modified: 2024-06-17T12:19:04.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,125 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406171108
+! Version: 202406171218
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||hx9.poy0.lat^
+||g0d.poy0.lat^
+||iwf.poy0.lat^
+||7hu.poy0.lat^
+||u4r.poy0.lat^
+||9xe.poy0.lat^
+||h1l.poy0.lat^
+||h7c.poy0.lat^
+||4zl.poy0.lat^
+||g29.poy0.lat^
+||4zv.poy0.lat^
+||gee.poy0.lat^
+||aj4.poy0.lat^
+||od3.poy0.lat^
+||2cd.poy0.lat^
+||f1a.poy0.lat^
+||nuriset.xyz^
+||720.poy0.lat^
+||fq9.poy0.lat^
+||t5q.poy0.lat^
+||mju.poy0.lat^
+||2s9.poy0.lat^
+||5ex.poy0.lat^
+||bb7.poy0.lat^
+||41n.poy0.lat^
+||v3c.poy0.lat^
+||548.poy0.lat^
+||kba.poy0.lat^
+||sl2.poy0.lat^
+||eg6.poy0.lat^
+||mfs.poy0.lat^
+||e4t.poy0.lat^
+||blz.poy0.lat^
+||948.poy0.lat^
+||if1.poy0.lat^
+||a6p.poy0.lat^
+||doladowania-orange.pforprofits.com^
+||wiresok.pics^
+||vigopubli.com^
+||itecohome.com^
+||d-gx6i.lat^
+||134.poy0.lat^
+||013.poy0.lat^
+||orongedadawane.sa.com^
+||mvo.poy0.lat^
+||orongedadawane.za.com^
+||ssatest.aadventurepark.com^
+||s8n.poy0.lat^
+||batununggal.com^
+||snippet.xmediar.com^
+||besttriad.com^
+||skytremedia.com^
+||alpha.mediadria.com^
+||clickrealtyrw.com^
+||enrgeneamy1.poweropc.com^
+||inpost-pl.jkiool.shop^
+||immediateedge.ai^
+||orlen-online.space^
+||eu.tesxappes.top^
+||qwxx.activdep.top^
+||thunderroar.xyz^
+||prk.progofficial.top^
+||fp.progofficial.top^
+||arborealarc.xyz^
+||mavav.autotrdes.top^
+||elegantglass.xyz^
+||budq.buddpower.xyz^
+||ok.sacors.top^
+||jd.itcapprog.top^
+||theatricaltreat.sbs^
+||spr.peolke.xyz^
+||new.progofficial.top^
+||emilyandcory.com^
+||icespirits.xyz^
+||h9drang3a.xyz^
+||pm.itcapprog.top^
+||np.levenprog.xyz^
+||rtyu.mastercasc.top^
+||trbess.nimprove.top^
+||stableland.bond^
+||resdd.prossaud.top^
+||coreidmnby.site^
+||performancepanorama.xyz^
+||map1emajesty.xyz^
+||tangerinetint.sbs^
+||www.immediateedgesystem.com^
+||tchanse.nimprove.top^
+||nowakost.online^
+||xisequu0.site^
+||trq.nimprove.top^
+||friendlywebspace.cam^
+||treop.nimprove.top^
+||yutiogq.xyz^
+||orlenonline.space^
+||verd1antvie1w.xyz^
+||oikk.depprogg.top^
+||firefury.xyz^
+||helloinspire.online^
+||tradpl.tesxappes.top^
+||coffeecrafts.xyz^
+||pld.progofficial.top^
+||stickable.autos^
+||mphone.newmett.xyz^
+||ger.progofficial.top^
+||turquoisevista.sbs^
+||newzs.youmanss.top^
+||wpr.peolke.xyz^
+||tone.nimprove.top^
+||nytufyo6.bond^
+||orchidoasis.cam^
+||termonastil.xyz^
+||kelvifrardbg.top^
+||rungearshop.com^
+||www.allegrok.com^
+||17-owg.lat^
 ||cieloviaja.com^
 ||alhulolalthakiyah.com^
 ||viralfreshnews.com^
