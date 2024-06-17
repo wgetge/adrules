@@ -62,7 +62,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
 			"timeAdded": 1660743805268,
-			"timeUpdated": 1718403035351
+			"timeUpdated": 1718589569608
 		},
 		{
 			"filterId": "hagezi_multinormal",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1718585266140
+			"timeUpdated": 1718589592776
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -719,7 +719,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"sourceUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": 1689805499960,
-			"timeUpdated": 1718561614937
+			"timeUpdated": 1718589594397
 		},
 		{
 			"filterId": "curben_phishing_filter",
