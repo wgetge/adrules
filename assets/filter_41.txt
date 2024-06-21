@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-21T18:14:23.885Z
+! Last modified: 2024-06-21T19:08:15.850Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,28 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406211812
+! Version: 202406211906
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||s-n53g.sbs^
+||jiju.mailpulseprso.com^
+||r-siuy.cfd^
+||eugeniewun36891-sunion15698-hinea8524.pages.dev^
+||vinted-uk.tuwebpro.shop^
+||pub-03a33c8666874bf38a1bab2576fe7c86.r2.dev^
+||topnotchcleaners.site^
+||quindara.shop^
+||currentrealtimenews.shop^
+||faktura-cfa086-home-pl.control-homepl.com^
+||www.klienci-indywidualne-santander-sa.ozcamera.com^
+||inpos.mom^
+||reynaldomunoz.com^
+||informatorosiedlowy.homes^
+||wakacje-bezpieczne.pl^
+||in-post.beauty^
+||filtrosribeirao.com^
+||pj-q7v.cfd^
 ||www.allegroaixkxmuatap.top^
 ||www.allegroaixkxmuatap.vip^
 ||www.allegroaixkxmuatap.shop^
