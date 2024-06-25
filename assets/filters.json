@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1719306668123
+			"timeUpdated": 1719310295975
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -799,7 +799,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
 			"timeAdded": 1695145147610,
-			"timeUpdated": 1719213143281
+			"timeUpdated": 1719310304057
 		},
 		{
 			"filterId": "hagezi_encrypted_dns_vpn_tor_proxy_bypass",

@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-25T09:11:07.831Z
+! Last modified: 2024-06-25T10:11:35.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,37 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406250910
+! Version: 202406251010
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||grille-outlet.com^
+||safewebplace.cam^
+||umpkir.pics^
+||stjoseynyu.cfd^
+||rystale.pics^
+||exulansis.xyz^
+||hido.mailjetstreams.com^
+||inposgte.buzz^
+||niezawodny-dzien.com^
+||rektariks.com^
+||ickrp.mauryoskar.pl^
+||tak.tradfb.top^
+||botbot.monster^
+||beletics.pics^
+||vmxebschuh.notize.fun^
+||caringwebsite.cam^
+||iuot.prodepl.top^
+||marigoldmeadow.xyz^
+||egrular.xyz^
+||unsealzvax.xyz^
+||hydrangeahav3n.xyz^
+||dsfeeafwa.euteschan.top^
+||spotlightsaga.sbs^
+||eum.plattesxes.top^
+||dotelui1.beauty^
+||mistishelp.xyz^
+||ytrew.autotrdes.top^
 ||coralcanvas.sbs^
 ||refreshmentrendezvous.sbs^
 ||brewedblm.xyz^
