@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1719306643490
+			"timeUpdated": 1719321154824
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1719306654293
+			"timeUpdated": 1719321166407
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1719317924127
+			"timeUpdated": 1719321181378
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -687,7 +687,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1719276344411
+			"timeUpdated": 1719321182308
 		},
 		{
 			"filterId": "dandelion_sprouts_anti_malware_list",
@@ -735,7 +735,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt",
 			"sourceUrl": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1719276345781
+			"timeUpdated": 1719321183611
 		},
 		{
 			"filterId": "staklerware_indicators_list",
@@ -863,7 +863,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
 			"timeAdded": 1710348896473,
-			"timeUpdated": 1719285117373
+			"timeUpdated": 1719321190712
 		},
 		{
 			"filterId": "nocoin_filter_list",
