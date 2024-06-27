@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-06-26T17:09:39.345Z
+! Last modified: 2024-06-27T16:13:05.958Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 45,456
-# Updated: 6/26/2024  11:23 (11:23 AM CST)
+# Domains: 45,457
+# Updated: 6/27/2024  10:12 (10:12 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -8476,6 +8476,7 @@
 ||clipsold.com^
 ||clitravel.com^
 ||clixnet.net^
+||cljhd52ga.com^
 ||clk2win.com^
 ||clkd33tkr.com^
 ||clkfeed.com^
