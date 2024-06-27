@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Pro++ Blocklist
 ! Description: Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-06-27T16:12:47.702Z
+! Last modified: 2024-06-27T20:10:37.751Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -32682,7 +32682,6 @@
 ||oms.chatelaine.com^
 ||chatex.com^
 ||analysis.chatglm.cn^
-||ab.chatgpt.com^
 ||chatgpt-go.online^
 ||chatgptextension.ai^
 ||chatgptextension.site^

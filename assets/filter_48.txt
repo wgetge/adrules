@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Pro Blocklist
 ! Description: Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-06-27T16:12:43.345Z
+! Last modified: 2024-06-27T20:10:33.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -28838,7 +28838,6 @@
 ||track.chateauberne-vin.com^
 ||oms.chatelaine.com^
 ||chatex.com^
-||ab.chatgpt.com^
 ||chatgpt-go.online^
 ||chatgptextension.ai^
 ||chatgptextension.site^
