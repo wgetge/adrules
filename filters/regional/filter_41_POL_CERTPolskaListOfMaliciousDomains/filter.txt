@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-27T12:19:06.831Z
+! Last modified: 2024-06-27T13:13:13.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,72 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406271218
+! Version: 202406271312
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||viviendosana.com^
+||virtuallyoperations.com^
+||cryptorar.com^
+||moerie-foru.com^
+||confortdusalon.com^
+||magnimarkets.com^
+||letest360.com^
+||atotalyoulocstudio.com^
+||mayoreoafa.com^
+||hk-celje.com^
+||technicalsinfo.com^
+||rocktokmedia.com^
+||memoonly.com^
+||wionvoltage.com^
+||anitakaz.com^
+||fcproyectos.com^
+||cinderella-store.com^
+||buzzsocialstar.com^
+||todaysfaqs.com^
+||pesaempiree.com^
+||nocropkennels.com^
+||eform-tarif.com^
+||growwithemtoss.com^
+||judosbelter.click^
+||materialswiki.com^
+||richardcardenas.com^
+||growwealthtree.com^
+||savannahcomfort.com^
+||blackfriday-best-deals.com^
+||tebumanis.com^
+||inpodst.xyz^
+||allegro.oferta68923.pl^
+||trdaqq.cuspaxek.top^
+||hubspottips.life^
+||sore-mature-bubble.glitch.me^
+||emonitors.sbs^
+||korzystne-cechy.com^
+||senior-meals.com^
+||s-taw3.sbs^
+||speciesesmarjoramed.pro^
+||facebook-site-upgrade.webflow.io^
+||allegrolokalnie.index-19313.pl^
+||freedomdesignsonline.com^
+||businessvoyage.monster^
+||plowkini.xyz^
+||trda.cuspaxek.top^
+||zenzoneliving.info^
+||nicehavenharbor.xyz^
+||ottotrenche.store^
+||hotel-34607.eu^
+||vilovetov.xyz^
+||trm.cuspaxek.top^
+||invictim.monster^
+||www.dlfinanceinsights.info^
+||hiigheestiinveestoor.space^
+||trss.cuspaxek.top^
+||damimit.xyz^
+||hotel-32217.eu^
+||hotel-57447.eu^
+||hotel-57921.eu^
+||hotel-26266.com^
+||hotel-78346.eu^
 ||hotel-72701.eu^
 ||hotel-22712.eu^
 ||hotel-16376.eu^
