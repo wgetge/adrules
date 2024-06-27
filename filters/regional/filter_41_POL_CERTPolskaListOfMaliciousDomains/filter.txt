@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-27T07:10:21.001Z
+! Last modified: 2024-06-27T08:13:46.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,39 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406270708
+! Version: 202406270812
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||jangroupss.com^
+||idolsfitnesses.com^
+||gamestroops.com^
+||lofimind.com^
+||moonital.com^
+||rjautopecas.com^
+||888goplay.com^
+||vayuputraproductions.com^
+||digitaldesignguide.com^
+||simpleenergyelectricscooter.com^
+||safeboxmoving.com^
+||jagatpuradevelopers.com^
+||safetyzoneindia.com^
+||digitalmarketinginlhr.com^
+||gadgetbud.com^
+||al-blc.cfd^
+||formopedia.com^
+||obediencesacrifice.com^
+||diazmueblesdehierro.com^
+||moralejajoven.com^
+||aimersrealty.com^
+||terapiazzz.com^
+||oliviarodrigomerchshop.com^
+||mrfluffypup.com^
+||9ljo.cfd^
+||dfn.cuwovou4.monster^
+||1dqluiqeaqx9jcntoyzz4q.on.drv.tw^
+||allatkach.com^
+||dn.soryqay2.monster^
 ||info.hids-122135.shop^
 ||7374732e6c67656e736f6c2e636f6d.hamgamtakhfif.ir^
 ||login.hamgamtakhfif.ir^
