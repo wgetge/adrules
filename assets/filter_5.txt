@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-28T06:14:22.504Z
+! Last modified: 2024-06-28T09:11:19.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202406280605
+! Version: 202406280906
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45670
-! Last modified: 2024-06-28T06:05:52+0000
+! Entries: 45677
+! Last modified: 2024-06-28T09:06:33+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -7597,6 +7597,7 @@
 ||bbc781f81e.com^
 ||bbcrgate.com^
 ||bbd834il.de^
+||bbdiknmwgyesw.com^
 ||bbdobm.com^
 ||bbelements.com^
 ||bbfnrn.xyz^
@@ -9985,6 +9986,7 @@
 ||cavecredentialdeer.com^
 ||caveestate.com^
 ||caviarconcealed.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||caxist.com^
 ||cb.baidu.com^
@@ -23738,6 +23740,7 @@
 ||kizxixktimur.com^
 ||kjacgk.xyz^
 ||kjappzvz.xyz^
+||kjdsfjisdfjr23.azurewebsites.net^
 ||kjeqga.xyz^
 ||kjgzctn.com^
 ||kjipko.xyz^
@@ -31355,6 +31358,7 @@
 ||pocrowpush.com^
 ||pod.xpress.com^
 ||podefr.net^
+||podgilyfattens.com^
 ||podlersabir.com^
 ||podosupsurge.com^
 ||podsolnu9hi10.com^
@@ -35260,6 +35264,7 @@
 ||sandtheircle.com^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanggilregard.com^
 ||sangleysoldo.com^
 ||sangogne.com^
@@ -40047,6 +40052,7 @@
 ||toquetbircher.com^
 ||torattatachan.com^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torflegorb.com^
 ||torhydona.com^
 ||torioluor.com^
@@ -43667,6 +43673,7 @@
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehugewords.com^
 ||wholenicenews.com^
