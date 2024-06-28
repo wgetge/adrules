@@ -2,7 +2,7 @@
 ! Title: uBlock₀ filters – Badware risks
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc. The purpose is to at least ensure a user is warned of the risks ahead.
 ! Homepage: https://github.com/uBlockOrigin/uAssets
-! Last modified: 2024-06-28T17:10:43.183Z
+! Last modified: 2024-06-28T19:08:54.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3052,12 +3052,6 @@ thepiratebay3.com^
 ! https://github.com/uBlockOrigin/uAssets/issues/20400
 ||ets2.gr^
 
-! Cryptocurrency Scams
-||unitradingbot.com^
-||unitradingtool.info^
-||cealits.com^
-||eventdrops.com^
-
 ! https://github.com/uBlockOrigin/uAssets/pull/21315
 ! https://bbs.kafan.cn/thread-2258753-1-1.html
 ||chromegoogle.cn^
@@ -3066,21 +3060,17 @@ thepiratebay3.com^
 ! https://bbs.kafan.cn/thread-2262861-1-1.html
 ||mk90.shop^
 
-! Cryptocurrency Scams
-||mevnow.com^
-||mevtime.com^
-||eth-mev.com^
-||nitroshiba.com^
-||blast-drops.com^
-||starkfond.net^
-||musk-project.com^
-
 ! https://github.com/uBlockOrigin/uAssets/pull/21539
 ||stalkforx.ru^
 ||stalktoolss.ru^
 ||stalkanalysis.ru^
 
 ! Cryptocurrency Scams
+||mevtime.com^
+||musk-project.com^
+||earth-ling.org^
+||pambi.tech^
+||cealits.com^
 ||pepzk-community.xyz^
 
 ||arbitragebot.team^
@@ -3466,10 +3456,6 @@ thepiratebay3.com^
 ! https://github.com/uBlockOrigin/uAssets/pull/24272
 ! https://www.bleepingcomputer.com/news/security/polyfill-claims-it-has-been-defamed-returns-after-domain-shut-down/
 ||polyfill.com^
-
-! https://sansec.io/research/polyfill-supply-chain-attack
-! https://www.bleepingcomputer.com/news/security/polyfill-claims-it-has-been-defamed-returns-after-domain-shut-down/
-||polyfill-fastly.io^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24248
 ||veilcurtin.world^
