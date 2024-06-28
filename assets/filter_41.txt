@@ -2,7 +2,7 @@
 ! Title: POL: CERT Polska List of malicious domains
 ! Description: CERT Polska deals with incidents and threats originating or aiming at systems in the .pl domain or connected to NASK's or other Polish Internet provider's network.
 ! Homepage: https://cert.pl/posts/2020/03/ostrzezenia_phishing/
-! Last modified: 2024-06-28T07:10:16.628Z
+! Last modified: 2024-06-28T08:13:10.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,10 +10,19 @@
 ! Source name: CERT Polska List of malicious domains
 ! Source: https://hole.cert.pl/domains/domains_adblock.txt
 !
-! Version: 202406280708
+! Version: 202406280812
 ! Title: CERT.PL's Warning List
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://cert.pl/news/single/ostrzezenia_phishing/
+||ldb.zubyjie3.monster^
+||dearbodylimited.com^
+||carloan7.com^
+||db-bi0.cfd^
+||dlsmarttechsolutions.com^
+||psl.jinewea7.monster^
+||sb.larefou6.monster^
+||pls.hyfotay3.monster^
+||lzc.hepikoo1.online^
 ||tayelo.trendzoneapp.com^
 ||pgepolska.cfd^
 ||dostawao1x.site^
