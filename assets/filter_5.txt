@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-06-27T21:09:36.368Z
+! Last modified: 2024-06-28T00:45:51.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202406272105
+! Version: 202406280006
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45668
-! Last modified: 2024-06-27T21:05:50+0000
+! Entries: 45670
+! Last modified: 2024-06-28T00:06:10+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -10144,6 +10144,7 @@
 ||cdn.stoic-media.com^
 ||cdn.stray228.com^
 ||cdn.studiosis.in^
+||cdn.tameti.com^
 ||cdn.track.olx.com.br^
 ||cdn.tracking.prepr.io^
 ||cdn.tsepyk.com^
@@ -16019,6 +16020,7 @@
 ||eegnoune.com^
 ||eegookiz.com^
 ||eegroosoad.com^
+||eehhabacgieacfjeaacg.world^
 ||eehuzaih.com^
 ||eejwvwoo.xyz^
 ||eekeeghoolsy.com^
