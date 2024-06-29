@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2024-06-28T04:12:53.294Z
+! Last modified: 2024-06-29T04:14:18.524Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17,10 +17,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 27 Jun 2024 23:03 UTC
-! Version: 2024.0627.2303.31
+! Last modified: 28 Jun 2024 22:51 UTC
+! Version: 2024.0628.2251.19
 ! Syntax: AdBlock
-! Number of entries: 3114
+! Number of entries: 3110
 !
 ||ns.00dani.me^
 ||cdn.0ms.dev^
@@ -1374,7 +1374,6 @@
 ||dns.karl.one^
 ||katonetwork.com^
 ||dns.kawa.tf^
-||j.kayru.org^
 ||keenow.com^
 ||keepanonymous.com^
 ||dns.keke125.com^
@@ -1550,7 +1549,6 @@
 ||dns.moonssif.com^
 ||morbitzer.de^
 ||morevpn.com^
-||doh.morizt.id^
 ||dns.moulticast.net^
 ||movieproxy.com^
 ||vpn.mozilla.org^
@@ -2824,7 +2822,6 @@
 ||dns.uplenk.com^
 ||uproxy.online^
 ||ur-browser.com^
-||uradoori.org^
 ||urban-vpn.com^
 ||url10.org^
 ||urology.wiki^
@@ -3113,7 +3110,6 @@
 ||zenmate.com^
 ||zenrows.com^
 ||zenvpn.net^
-||doh.zephyrus.id^
 ||adguard-kartoffel.zernico.de^
 ||zerotier.com^
 ||zerotunnel.com^
