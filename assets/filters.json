@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1719727998249
+			"timeUpdated": 1719738702598
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1719728010129
+			"timeUpdated": 1719738713682
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -254,7 +254,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt",
 			"timeAdded": 1667987017479,
-			"timeUpdated": 1718219353709
+			"timeUpdated": 1719738713976
 		},
 		{
 			"filterId": "dandelion_sprouts_anti_push_notifications",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1719735166199
+			"timeUpdated": 1719738728150
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",

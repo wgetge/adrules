@@ -2,7 +2,7 @@
 ! Title: No Google
 ! Description: Completely blocks all Google-related domains (including YouTube).
 ! Homepage: https://github.com/nickspaargaren/no-google
-! Last modified: 2024-06-12T19:09:13.706Z
+! Last modified: 2024-06-30T09:11:53.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -55,6 +55,7 @@
 ||chromecastexperiments.com^
 ||chromeenterprise.google^
 ||chromexperiments.com^
+||cloud.run^
 ||com.google^
 ||content-signature-chains.prod.webservices.mozgcp.net^
 ||digitalkeypairing.org^
