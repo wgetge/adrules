@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2024-06-30T04:12:16.589Z
+! Last modified: 2024-06-30T16:12:30.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 29 Jun 2024 23:07 UTC
-! Version: 2024.0629.2307.26
+! Last modified: 30 Jun 2024 15:08 UTC
+! Version: 2024.0630.1508.22
 ! Syntax: AdBlock
-! Number of entries: 9645
+! Number of entries: 9643
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -9331,7 +9331,6 @@
 ||wsc-scriptz.org^
 ||wtfnzb.pw^
 ||omg.wtftrackr.pw^
-||omg.wtftrackr.xyz^
 ||wunza.ws^
 ||wushare.com^
 ||wwatchseries.com^
@@ -9344,7 +9343,6 @@
 ||x1337x.ws^
 ||x264.me^
 ||x265movies.cc^
-||x265movies.co^
 ||tracker.x4w.co^
 ||xarcotic.com^
 ||xatab-repack.net^
