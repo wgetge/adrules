@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-02T15:10:44.815Z
+! Last modified: 2024-07-02T18:13:28.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407021506
+! Version: 202407021806
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45572
-! Last modified: 2024-07-02T15:06:13+0000
+! Entries: 45540
+! Last modified: 2024-07-02T18:06:18+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -275,6 +275,7 @@
 ||152media.com^
 ||1548164934.rsc.cdn77.org^
 ||15d113e19a.com^
+||15f7a5a67a.com^
 ||16-merchant-s.com^
 ||166f.com^
 ||1675450967.rsc.cdn77.org^
@@ -864,7 +865,6 @@
 ||4dtrk.com^
 ||4e0622e316.com^
 ||4e26d342b8.com^
-||4e5aac7959.15f7a5a67a.com^
 ||4ed196b502.com^
 ||4ed5560812.com^
 ||4ever.cc^
@@ -932,7 +932,6 @@
 ||55.uyybde07w.com^
 ||5508de0fd7.com^
 ||550a.com^
-||550b3ikb9j.com^
 ||555bbb333bbb.com^
 ||555bbb555www.com^
 ||555bbb777www.com^
@@ -1138,7 +1137,6 @@
 ||6hdw.site^
 ||6j296m8k.de^
 ||6l1twlw9fy.com^
-||6ox.de^
 ||6pal.consobaby.com^
 ||6ped2nd3yp.com^
 ||6qu5dcmyumtw.com^
@@ -1478,7 +1476,6 @@
 ||9r7i9bo06157.top^
 ||9s4l9nik.de^
 ||9t5.me^
-||9thien.com^
 ||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
 ||9v58v.com^
@@ -2139,7 +2136,6 @@
 ||aclickads.com^
 ||aclog.itmedia.co.jp^
 ||acloudvideos.com^
-||aclsx.cn^
 ||acmaknoxwo.com^
 ||acmsa.com.ar^
 ||acneforums.com^
@@ -4577,7 +4573,6 @@
 ||alitui.weibo.com^
 ||alive-ua.com^
 ||alivebald.com^
-||alivecheery.com^
 ||alivedriftcommandment.com^
 ||aliwjo.com^
 ||aliyothvoglite.top^
@@ -6579,7 +6574,6 @@
 ||aupteens.com^
 ||aurousroseola.com^
 ||aursaign.net^
-||aurtoodse.com^
 ||ausoafab.net^
 ||ausomsup.net^
 ||auspiceguile.com^
@@ -7440,7 +7434,6 @@
 ||bdg-analytics.appspot.com^
 ||bdgg.qjy168.com^
 ||bdjdpyrt.xyz^
-||bdjfea.cn^
 ||bdjs.daziba.cn^
 ||bdjs.guangyuanol.cn^
 ||bdjs.uimg.cn^
@@ -10465,7 +10458,6 @@
 ||cimm.top^
 ||cimoghuk.net^
 ||cindyintim.de^
-||cinedaily.com^
 ||cineface.com^
 ||cinema3satu.com^
 ||cinemabio.com^
@@ -12363,7 +12355,6 @@
 ||d0efb7d9aeb478d.com^
 ||d0main.ru^
 ||d0p21g2fep.com^
-||d0wnload1x11.com^
 ||d1.1ppt.com^
 ||d1.3158.cn^
 ||d1.5h.com^
@@ -14565,7 +14556,6 @@
 ||distributionfray.com^
 ||distributionrealmoth.com^
 ||distributiontomatoes.com^
-||districtacrid.com^
 ||districtm.ca^
 ||districtshortmetal.com^
 ||distrustacidaccomplish.com^
@@ -17991,7 +17981,6 @@
 ||followmalnutritionjeanne.com^
 ||follyeffacegrieve.com^
 ||folmetor.com^
-||fomentirrite.top^
 ||fomulex.com^
 ||fondfelonybowl.com^
 ||fondlescany.top^
@@ -19272,7 +19261,6 @@
 ||glouxaih.net^
 ||glouzokrache.com^
 ||gloveroadmap.com^
-||glovesusage.com^
 ||glovet.xyz^
 ||glowdot.com^
 ||glowingnews.com^
@@ -20665,7 +20653,6 @@
 ||highperformancecpmgate.com^
 ||highperformancecpmnetwork.com^
 ||highperformancedformats.com^
-||highperformancedisplaycontent.com^
 ||highperformancedisplayformat.com^
 ||highperformancegate.com^
 ||highprofitnetwork.com^
@@ -21579,7 +21566,6 @@
 ||ikengoti.com^
 ||ikhwantetch.top^
 ||ikiif.com^
-||ikjnbvf.de^
 ||ikonatozee.top^
 ||ikouthaupi.com^
 ||ikrail.com^
@@ -22279,7 +22265,6 @@
 ||intro4ads.com^
 ||intruderalreadypromising.com^
 ||intrustedzone.site^
-||intuitionguffaw.com^
 ||intuitiontrenchproduces.com^
 ||inuedidgmapla.com^
 ||inumbreonr.com^
@@ -25303,7 +25288,6 @@
 ||lsgpxqe.com^
 ||lsgwkbk.com^
 ||lsjne.com^
-||lstkadfnevu.com^
 ||lstonorallantyne.com^
 ||lsuws.com^
 ||ltassrv.com.s3.amazonaws.com^
@@ -25641,7 +25625,6 @@
 ||mailboxmileageattendants.com^
 ||mailderef.mail.com^
 ||mailfdf.com^
-||maillovelove.net^
 ||mailmanuptown.com^
 ||mailmunch.s3.amazonaws.com^
 ||mailwithcash.com^
@@ -26448,7 +26431,6 @@
 ||miaouedcrevass.com^
 ||miarroba.com^
 ||miayarus.com^
-||mibmcbm.com^
 ||micastpyridic.com^
 ||micechillyorchard.com^
 ||micghiga2n7ahjnnsar0fbor.com^
@@ -28348,7 +28330,6 @@
 ||novitrk8.com^
 ||novostimira.biz^
 ||novostisporta.info^
-||nowadaysgrin.com^
 ||nowforfile.com^
 ||nowlooking.net^
 ||nowspots.com^
@@ -28973,7 +28954,6 @@
 ||okxaplomkpca.com^
 ||okxqmiagltpe.com^
 ||ol.dundeesmemo.com^
-||olabdsjovla.com^
 ||olakoudos.xyz^
 ||olaplog.smartmediarep.com^
 ||olatumal.com^
@@ -31565,7 +31545,6 @@
 ||pqomnfbg.com^
 ||pqzjki.cn^
 ||pr-bh.ybp.yahoo.com^
-||pr-star.de^
 ||pr.ikovrov.ru^
 ||pr.nss.netease.com^
 ||pr.rusmed.ru^
@@ -32721,7 +32700,6 @@
 ||qdzyspjx.com^
 ||qe0ckm024b.com^
 ||qebuoxn.com^
-||qeclsl.com^
 ||qeedaa.xyz^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
@@ -32836,7 +32814,6 @@
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
 ||qtuzpoopwv.com^
-||qtyerected.top^
 ||qu96.com^
 ||quacktypist.com^
 ||quagfa.com^
@@ -34074,7 +34051,6 @@
 ||rghqrj.xyz^
 ||rgpujh.xyz^
 ||rgrd.xyz^
-||rgsiuevpupqz.com^
 ||rgtcqif.com^
 ||rgvqcsxqge.com^
 ||rhendam.com^
@@ -35357,7 +35333,6 @@
 ||scoopauthority.com^
 ||scoopmaria.com^
 ||scootcomely.com^
-||scootermonkmortify.com^
 ||scopefile.com^
 ||scopelight.com^
 ||score-feed.com^
@@ -35589,7 +35564,6 @@
 ||selectr.net^
 ||selectthrow.com^
 ||selecttopon.com^
-||selfassuredcriticism.pro^
 ||selfemployedbalconycane.com^
 ||selfemployedreservoir.com^
 ||selfevidentvisual.com^
@@ -37068,7 +37042,6 @@
 ||spermwhale.rowansimpson.com^
 ||spermwhale.thankbox.co^
 ||sperpledisman.top^
-||spervicear.com^
 ||spezialreporte.de^
 ||spheralfreres.com^
 ||spheredkapas.com^
@@ -37359,7 +37332,6 @@
 ||stankyrich.com^
 ||stansoam.com^
 ||stapespotherb.com^
-||staplecups.com^
 ||stapledsaur.top^
 ||star-advertising.com^
 ||star-clicks.com^
@@ -40974,7 +40946,6 @@
 ||tubecrack.com^
 ||tubecup.net^
 ||tubecute.com^
-||tubeeden.com^
 ||tubeelite.com^
 ||tubeicy.com^
 ||tubelevel.com^
@@ -41510,7 +41481,6 @@
 ||uncrampflans.top^
 ||uncrobator.com^
 ||uncrownarmenic.com^
-||undams.com^
 ||unddeliv.com^
 ||under2given.com^
 ||underaccredited.com^
@@ -44640,7 +44610,6 @@
 ||xs213.javgg.club^
 ||xserve.zapurl.cc^
 ||xsfajf.xyz^
-||xsjc4smhbyjf.com^
 ||xskctff.com^
 ||xsrs.com^
 ||xstalkx.ru^
@@ -45226,7 +45195,6 @@
 ||zaxonoax.com^
 ||zazerygu.pro^
 ||zazufi.com^
-||zbnfhsk.com^
 ||zbxtcwi.xyz^
 ||zbzbzb.xyz^
 ||zcaadfl.com^
