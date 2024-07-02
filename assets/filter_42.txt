@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-01T15:11:13.665Z
+! Last modified: 2024-07-02T00:46:18.922Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 45,501
-# Updated: 7/1/2024  09:57 (9:57 AM CST)
+# Domains: 45,504
+# Updated: 7/1/2024  18:11 (6:11 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15013,6 +15013,7 @@
 ||fbconsumerreview.com^
 ||fbebe71ece.com^
 ||fbmedia-bls.com^
+||fbmediafor.com^
 ||fb-online.ru^
 ||fbreco.it^
 ||fburl.fun^
@@ -22434,6 +22435,7 @@
 ||klnttracker.com^
 ||klsdee.com^
 ||klvg.eu^
+||km14hkusz.com^
 ||kmarogiveaways.com^
 ||kmisln.com^
 ||kmmx49.com^
@@ -39863,6 +39865,7 @@
 ||tamerliqus.com^
 ||tamesecretion.com^
 ||tamesurf.com^
+||tameti.com^
 ||tamicytug.com^
 ||taminystopgap.com^
 ||tamperdepreciate.com^
