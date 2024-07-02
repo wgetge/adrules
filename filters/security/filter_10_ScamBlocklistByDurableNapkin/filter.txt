@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2024-07-01T05:11:16.770Z
+! Last modified: 2024-07-02T05:11:30.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -214,6 +214,7 @@
 ||dreamgreenshoe.com^
 ||dreamstees.com^
 ||duitpanas.top^
+||dunkansp.info^
 ||dxraceroutlet.com^
 ||earth-ling.org^
 ||easynatures.com^
@@ -224,7 +225,6 @@
 ||ekommmedia.com^
 ||elitestrustonline.com^
 ||ellezz.com^
-||elonspace.org^
 ||elonweb.org^
 ||emberio.com^
 ||en407etr.com^
@@ -392,6 +392,7 @@
 ||kmsofficial.org^
 ||kmspi.co^
 ||kmspico-official.org^
+||kmspico.io^
 ||kmspico.ws^
 ||kmspicoofficial.com^
 ||knightmods.com^
@@ -408,6 +409,7 @@
 ||legarralazcoz.com^
 ||lemstore.com^
 ||lericettedifrancy74.com^
+||letrantrunghieu.com^
 ||letteringift.com^
 ||levelbash.com^
 ||librilibs.com^
@@ -499,7 +501,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -531,6 +532,7 @@
 ||navi94.com^
 ||navi96.com^
 ||navi97.com^
+||navi98.com^
 ||navi99.com^
 ||nbdiscount.com^
 ||neozor.com^
