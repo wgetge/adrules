@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-02T00:46:18.922Z
+! Last modified: 2024-07-02T21:10:12.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 45,504
-# Updated: 7/1/2024  18:11 (6:11 PM CST)
+# Domains: 45,515
+# Updated: 7/2/2024  15:22 (3:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -7012,6 +7012,8 @@
 ||bvmc9il.com^
 ||bwinpoker24.com^
 ||bwmvzwkbqlwlv.top^
+||bxcyuuh32sd.com^
+||bxhe981nss.com^
 ||bydebatablesale.com^
 ||bydusclopsa.com^
 ||byebyeads.org^
@@ -22767,6 +22769,7 @@
 ||lapsedplunger.com^
 ||lapsephototroop.com^
 ||laptweakbriefly.com^
+||lapwmx10-secondary.z13.web.core.windows.net^
 ||lapypushistyye.com^
 ||larati.net^
 ||larchentreeman.com^
@@ -23841,6 +23844,7 @@
 ||lowleafeontor.com^
 ||lowlifeimprovedproxy.com^
 ||lowlifesalad.com^
+||lowmachampa.com^
 ||lowpedalhumidity.com^
 ||lowrance.top^
 ||lowremoraidon.com^
@@ -25389,6 +25393,7 @@
 ||moanhaul.com^
 ||moaningbeautifulnobles.com^
 ||moaningtread.com^
+||moarainoan.com^
 ||mob-api.net^
 ||mobengine.xyz^
 ||mobexpectationofficially.com^
@@ -29019,6 +29024,7 @@
 ||nwsmovdaily.com^
 ||nwsmovies.com^
 ||nwstbstwrld.com^
+||nwstpwrld.com^
 ||nwtrk.com^
 ||nwwrtbbit.com^
 ||nxhgsyd.icu^
@@ -30382,6 +30388,7 @@
 ||parkautomaticallyinfallible.com^
 ||parkcandy2.xyz^
 ||parkcandy3.xyz^
+||parkcandy4.xyz^
 ||parkcircularpearl.com^
 ||parkdues.com^
 ||parkdumbest.com^
@@ -33602,7 +33609,9 @@
 ||realmsham.com^
 ||realnetnews.com^
 ||real-ninedating2.com^
+||realrocknow.com^
 ||realsh.xyz^
+||realspustnow.com^
 ||realtime-bid.com^
 ||realtracs.com^
 ||realtracs.net^
@@ -36424,6 +36433,7 @@
 ||secalinonyxis.com^
 ||seccohomeservicesmarketing.com^
 ||seccomarketingservices.com^
+||sechunsaisir.com^
 ||secludealcoholoverwhelm.com^
 ||secludeaudio.com^
 ||secludechurch.com^
@@ -40675,6 +40685,7 @@
 ||thsubjectindividualthand.pw^
 ||thterras.com^
 ||thubanoa.com^
+||thuftetsoomt.com^
 ||thugkinup.com^
 ||thugsponsor.com^
 ||thumbcrookdrown.com^
