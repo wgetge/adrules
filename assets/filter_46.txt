@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2024-07-01T03:12:19.830Z
+! Last modified: 2024-07-03T15:10:57.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 30 Jun 2024 22:37 UTC
-! Version: 2024.0630.2237.42
+! Last modified: 03 Jul 2024 14:35 UTC
+! Version: 2024.0703.1435.24
 ! Syntax: AdBlock
-! Number of entries: 9644
+! Number of entries: 9722
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -157,8 +157,10 @@
 ||13377x.tw^
 ||1337x.am^
 ||1337x.app^
+||1337x.bio^
 ||1337x.buzz^
 ||1337x.com^
+||1337x.help^
 ||1337x.is^
 ||1337x.link^
 ||1337x.se^
@@ -167,6 +169,7 @@
 ||1337x.to^
 ||1337x.tw^
 ||1337x.wtf^
+||1337xproxies.com^
 ||1337xto.to^
 ||1337xto.xyz^
 ||1377x.is^
@@ -2439,6 +2442,7 @@
 ||demonii.com^
 ||open.demonii.si^
 ||demoniptv.tv^
+||demonoid.bio^
 ||demonoid.com^
 ||demonoid.is^
 ||demonoid.ph^
@@ -2544,6 +2548,7 @@
 ||divinestresser.com^
 ||divxatope.com^
 ||divxstreaming.rip^
+||divxtotal.bio^
 ||divxtotal.com^
 ||divxtotal.la^
 ||divxtotal3.net^
@@ -3090,6 +3095,7 @@
 ||extinf.com^
 ||extmatrix.com^
 ||extratorrent.ag^
+||extratorrent.bio^
 ||extratorrent.cc^
 ||extratorrent.com^
 ||extratorrent.st^
@@ -3112,6 +3118,8 @@
 ||eztv.re^
 ||eztv.tf^
 ||eztv.wf^
+||eztv.wiki^
+||eztv.work^
 ||eztv.yt^
 ||eztv-torrent.com^
 ||eztvefnet.org^
@@ -3685,6 +3693,7 @@
 ||fromhot.com^
 ||fromhot.to^
 ||fromhots.com^
+||fromusa.ru^
 ||rutorrent.frontline-mod.com^
 ||frostwire.com^
 ||frozen-layer.com^
@@ -4284,6 +4293,7 @@
 ||helltorrents.com^
 ||henbt.com^
 ||tracker.hentai.gg^
+||hentaibreast.com^
 ||hentaisun.com^
 ||hentaiwatch.tv^
 ||herobit.org^
@@ -4849,6 +4859,7 @@
 ||kickasstorrent.cr^
 ||kickasstorrent.eu^
 ||kickasstorrentcr.top^
+||kickasstorrents.bio^
 ||kickasstorrents.cr^
 ||kickasstorrents.pw^
 ||kickasstorrents.to^
@@ -5085,6 +5096,7 @@
 ||limetor.com^
 ||limetor.pro^
 ||limetorrent.cc^
+||limetorrent.live^
 ||limetorrent.ws^
 ||limetorrent.xyz^
 ||limetorrents.asia^
@@ -5092,6 +5104,8 @@
 ||limetorrents.buzz^
 ||limetorrents.cc^
 ||limetorrents.co^
+||limetorrents.cyou^
+||limetorrents.icu^
 ||limetorrents.info^
 ||limetorrents.lol^
 ||limetorrents.online^
@@ -5256,6 +5270,7 @@
 ||magnet2torrent.com^
 ||magnet2torrent.me^
 ||magnet4you.me^
+||magnetdl.bio^
 ||magnetdl.com^
 ||magnetdl.org^
 ||magnetfox.org^
@@ -6056,6 +6071,7 @@
 ||nwanime.tv^
 ||nxbrew.com^
 ||nxtgn.org^
+||nyaa.bio^
 ||nyaa.eu^
 ||nyaa.net^
 ||nyaa.si^
@@ -6457,6 +6473,7 @@
 ||pirateportal.xyz^
 ||pirateproxy.best^
 ||pirateproxy.cc^
+||pirateproxy.cfd^
 ||pirateproxy.click^
 ||pirateproxy.cloud^
 ||pirateproxy.fi^
@@ -6642,6 +6659,7 @@
 ||proxifiedpiratebay.org^
 ||proxtpb.art^
 ||proxy.ru^
+||proxy-bay.click^
 ||proxy-bay.mov^
 ||proxy247.art^
 ||proxybay.bz^
@@ -6849,6 +6867,7 @@
 ||rarbg.gg^
 ||rarbg.live^
 ||rarbg.me^
+||rarbg.store^
 ||rarbg.to^
 ||rarbg.tw^
 ||rarbg2018.org^
@@ -7048,6 +7067,7 @@
 ||rutor.info^
 ||rutor.is^
 ||rutor.org^
+||rutracker.bio^
 ||rutracker.net^
 ||rutracker.nl^
 ||rutracker.org^
@@ -7975,6 +7995,7 @@
 ||techanywhere.com^
 ||techbigs.com^
 ||www.techmediatune.com^
+||techreviewscorner.com^
 ||techzero.cn^
 ||tecknat.net^
 ||teentorrents.com^
@@ -8125,6 +8146,7 @@
 ||thepiratebaya.com^
 ||thepiratebayorg.org^
 ||thepiratebayproxylist.se^
+||thepiratebays.bio^
 ||thepiratebays.com^
 ||thepiratebays.info^
 ||thepiratebays.wiki^
@@ -8148,6 +8170,7 @@
 ||horriblesubs.theproxy.app^
 ||viprow.theproxy.app^
 ||cricfree.theproxya.net^
+||theproxybay.ga^
 ||therarbg.com^
 ||tracker.therarbg.to^
 ||theromdepot.com^
@@ -8305,6 +8328,7 @@
 ||torrent411.to^
 ||torrent4you.me^
 ||torrent4you.org^
+||torrent9.bio^
 ||torrent9.biz^
 ||torrent9.blue^
 ||torrent9.fm^
@@ -8372,9 +8396,11 @@
 ||torrentfilmes.net^
 ||torrentfrancais.com^
 ||torrentfreak.com^
+||torrentfunk.bio^
 ||torrentfunk.com^
 ||torrentfunk2.com^
 ||torrentgaga.com^
+||torrentgalaxy.bio^
 ||torrentgalaxy.mx^
 ||torrentgalaxy.org^
 ||torrentgalaxy.to^
@@ -8517,6 +8543,7 @@
 ||torrentz.com^
 ||torrentz.io^
 ||torrentz.ws^
+||torrentz2.bio^
 ||torrentz2.cc^
 ||torrentz2.is^
 ||torrentz2.nz^
@@ -8553,6 +8580,7 @@
 ||tpb.monster^
 ||tpb.one^
 ||tpb.party^
+||tpb.quest^
 ||tpb.re^
 ||tpb.surf^
 ||tpb.wtf^
@@ -9417,6 +9445,7 @@
 ||open.xxtor.com^
 ||xxx-tracker.com^
 ||xxxadulttorrent.org^
+||xxxclub.to^
 ||xxxtor.com^
 ||xxxtorrents.pro^
 ||bt1.xxxxbt.cc^
@@ -9458,23 +9487,38 @@
 ||alanb.yi.org^
 ||shadowshq.yi.org^
 ||yidio.com^
+||yify.cam^
 ||yify.cc^
+||yify.club^
+||yify.dev^
+||yify.la^
+||yify.lol^
+||yify.love^
+||yify.ms^
+||yify.one^
+||yify.re^
+||yify.sbs^
+||yify.world^
 ||yify-movie.com^
 ||yify-movies.net^
+||yify-movies.vip^
 ||yify-movies-torrents.com^
 ||yify-torrent.cc^
 ||yify-torrent.org^
 ||yify-torrents.com^
 ||yifyhdtorrent.com^
+||yifymovies.bio^
 ||yifymovies.fun^
 ||yifymovies.xyz^
 ||yifymovietorrent.com^
+||yifyproxies.com^
 ||yifysub.net^
 ||yifysubtitles.me^
 ||yifysubtitles.vip^
 ||yifytorrent.cc^
 ||yifytorrent.vip^
 ||yifytorrents.net^
+||yifytv.bio^
 ||ymovies.se^
 ||ymovies.stream^
 ||ymovies.to^
@@ -9530,6 +9574,7 @@
 ||yts.am^
 ||yts.autos^
 ||yts.digital^
+||yts.health^
 ||yts.io^
 ||yts.la^
 ||yts.lat^
@@ -9541,6 +9586,7 @@
 ||yts.pl^
 ||yts.pm^
 ||yts.re^
+||yts.rest^
 ||yts.rs^
 ||yts.to^
 ||yts.vc^
@@ -9548,16 +9594,47 @@
 ||yts.yt^
 ||yts.zone^
 ||yts-movie.cc^
+||yts-movie.live^
+||yts-mx.club^
+||yts-mx.co^
+||yts-mx.me^
+||yts-official.com^
 ||yts-torrents.org^
+||yts-yify.me^
 ||yts-yify.xyz^
+||yts1.zone^
+||ytsag.bio^
+||ytsam.bio^
+||ytsautos.bio^
 ||ytshindi.xyz^
+||ytsio.bio^
+||ytsmovies.bio^
 ||ytsmovietorrent.com^
+||ytsmx.art^
+||ytsmx.biz^
+||ytsmx.cc^
+||ytsmx.lol^
+||ytsmx.store^
+||ytsmx.wiki^
+||ytsmx2.me^
+||ytsmxmovies.me^
+||ytson.vip^
+||ytsrs.bio^
+||ytss.bio^
+||ytss.info^
+||ytss.pro^
 ||ytsstreaming.com^
 ||ytstorrent.com^
 ||ytstorrentyts.com^
+||ytstv.bio^
+||ytstv.info^
 ||ytstv.me^
 ||ytstvmovies.xyz^
+||ytstvseries.bio^
 ||ytsyify.club^
+||ytsyify.info^
+||ytsyify.net^
+||ytsyify.one^
 ||yubraca.net^
 ||yugenani.me^
 ||yui-nya.com^
@@ -9655,6 +9732,7 @@
 ||tracker-v6.zooki.xyz^
 ||zoomtorrents.com^
 ||zooqle.com^
+||zooqle.ink^
 ||zoozle.org^
 ||zorrostream.org^
 ||zorrostream.site^
