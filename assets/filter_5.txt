@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-03T07:10:06.991Z
+! Last modified: 2024-07-03T09:11:20.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407030634
+! Version: 202407030906
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45465
-! Last modified: 2024-07-03T06:34:13+0000
+! Entries: 45443
+! Last modified: 2024-07-03T09:06:10+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -130,7 +130,6 @@
 ||0n-line.tv^
 ||0op8kh.cn^
 ||0p1ohj2f5f.ru^
-||0pyn37dv3m.com^
 ||0q5joc.cn^
 ||0redirb.com^
 ||0redirc.com^
@@ -820,7 +819,6 @@
 ||44ffd27303.com^
 ||452tapgn.de^
 ||45cf2c258c.a272118d17.com^
-||463fca0d34.com^
 ||466f89f4d1.com^
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
@@ -915,6 +913,7 @@
 ||5201l41kuvl7.top^
 ||5241.it^
 ||52dvzo62i.com^
+||52ee3dc5fe.com^
 ||532xcxypmpnp.com^
 ||539f346355.com^
 ||53c2dtzsj7t1.top^
@@ -1051,7 +1050,6 @@
 ||648c44a31f.com^
 ||648d969d69.com^
 ||649ce954a0.com^
-||64edfecf07.52ee3dc5fe.com^
 ||64p3am9x95ct.com^
 ||654b11e34e.2eb4977fca.com^
 ||65566a6ab6.com^
@@ -4149,7 +4147,6 @@
 ||afiliapub.click^
 ||afkearupl.com^
 ||afloatroyalty.com^
-||aflsj.com^
 ||afm01.com^
 ||afnyfiexpecttha.info^
 ||afoaglux.com^
@@ -5548,7 +5545,6 @@
 ||anysolely.com^
 ||anythingamg.org^
 ||anytimesand.com^
-||anyunwl04.com^
 ||anywaybreeches.com^
 ||anywaysreives.com^
 ||anywhereconvince.com^
@@ -6763,7 +6759,6 @@
 ||ayads.co^
 ||ayaghlq.com^
 ||ayahspollent.top^
-||ayboll.com^
 ||aycrxa.com^
 ||aydandelion.com^
 ||ayensexilic.com^
@@ -9168,7 +9163,6 @@
 ||bycelebian.com^
 ||bycxhgrp.xyz^
 ||bydcxdy.cn^
-||bydebatablesale.com^
 ||bydebd.xyz^
 ||bydusclopsa.com^
 ||bydzfldt.xyz^
@@ -14251,7 +14245,6 @@
 ||dig.ultimedia.com^
 ||digestionethicalcognomen.com^
 ||digestionheartlesslid.com^
-||dighojatho.com^
 ||dightedhereto.top^
 ||digi.vinut.com.vn^
 ||digiads.tv^
@@ -14739,7 +14732,6 @@
 ||doappcloud.com^
 ||doathair.com^
 ||doblazikena.com^
-||dobrnovosti.com^
 ||doc830ytc7pyp.cloudfront.net^
 ||dochmiiresidue.com^
 ||dockaround.com^
@@ -15166,7 +15158,6 @@
 ||drunkendecembermediocre.com^
 ||drunkindigenouswaitress.com^
 ||drust-gnf.com^
-||druttlelimbec.digital^
 ||drydrum.com^
 ||dryerslegatos.com^
 ||drylnk.com^
@@ -15698,7 +15689,6 @@
 ||ecudisrush.live^
 ||ecwmvlhy.com^
 ||ed.druggertruckle.com^
-||ed028aa9c4.com^
 ||eda153603c.com^
 ||edaciousedaciousflaxalso.com^
 ||edaciousedaciousindexesbrief.com^
@@ -15864,7 +15854,6 @@
 ||efvsyhbf.xyz^
 ||egalitysarking.com^
 ||egazedatthe.xyz^
-||egglessunfrees.uno^
 ||eggsiswensa.com^
 ||eggsreunitedpainful.com^
 ||egissoma.top^
@@ -23639,7 +23628,6 @@
 ||kobeden.com^
 ||kocairdo.net^
 ||kodmagic1.me^
-||kofirusy.pro^
 ||kogtrmjz.xyz^
 ||kogutcho.net^
 ||koi.artsvp.co^
@@ -25622,7 +25610,6 @@
 ||majorityfestival.com^
 ||majorlink.club^
 ||majorlinker.com^
-||majormedialink.com^
 ||majorpushme1.com^
 ||majorpushme2.com^
 ||majorpushme3.com^
@@ -28253,7 +28240,6 @@
 ||noureewo.com^
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
-||nouveau-digital.com^
 ||nouvelobs.s3-website-eu-west-1.amazonaws.com^
 ||novadune.com^
 ||novanet.vn^
@@ -30310,7 +30296,6 @@
 ||peisantcorneas.com^
 ||pejzeexukxo.com^
 ||pekcbuz.com^
-||pelagictanjib.com^
 ||pelamydlours.com^
 ||pelliancalmato.com^
 ||pelorusgravest.top^
@@ -31227,7 +31212,6 @@
 ||pondinternet.com^
 ||pondov.cfd^
 ||pongidsrunback.com^
-||ponierpeewees.digital^
 ||ponk.pro^
 ||ponosenvy.top^
 ||pontiflex.com^
@@ -35998,7 +35982,6 @@
 ||shuffele.com^
 ||shughaxiw.com^
 ||shuglaursech.com^
-||shugnais.net^
 ||shugraithou.com^
 ||shukriya90.com^
 ||shukselr.com^
@@ -36651,7 +36634,6 @@
 ||somethingrealisticzero.com^
 ||sometimesmonstrouscombined.com^
 ||somewhatwideslimy.com^
-||somvprqshxr.com^
 ||son-in-lawmorbid.com^
 ||sonalrecomefu.info^
 ||sonalrecomefuk.info^
@@ -37003,7 +36985,6 @@
 ||spinbox1.com^
 ||spindlyrebegin.top^
 ||spinna.online^
-||spinna.shop^
 ||spinraised.com^
 ||spiralextratread.com^
 ||spiralsad.com^
@@ -39057,7 +39038,6 @@
 ||terttalkinhitin.pro^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||tesousefulhead.info^
-||tessratans.com^
 ||test.besstidniki.ru^
 ||test.sexeanonyme.com^
 ||test.shrinkbit.in^
@@ -41949,7 +41929,6 @@
 ||v20.cnnd.vn^
 ||v225.ksbw.com^
 ||v2st.shinobi.jp^
-||v4yleins27hv.com^
 ||v6rxv5coo5.com^
 ||v9banners-com.cdn.ampproject.org^
 ||v9banners.com^
@@ -44040,7 +44019,6 @@
 ||wvvkxni.com^
 ||wvwl.cn^
 ||wvwqywz.cn^
-||wvxcdtuhcagistb.xyz^
 ||wvyqks.xyz^
 ||ww.0prn.com^
 ||ww.cvideos.stream^
