@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-04T16:12:19.656Z
+! Last modified: 2024-07-04T17:10:06.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407041607
+! Version: 202407041627
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45644
-! Last modified: 2024-07-04T16:07:04+0000
+! Entries: 45641
+! Last modified: 2024-07-04T16:27:30+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -7345,7 +7345,6 @@
 ||bavxuhaxtqi.com^
 ||bawdybeast.com^
 ||bawickie.com^
-||bawixi.xyz^
 ||bawlerhanoi.website^
 ||baxascpkean.com^
 ||baxotjdtesah.com^
@@ -16152,7 +16151,6 @@
 ||enclosedswoopbarnacle.com^
 ||encodehelped.com^
 ||encodeinflected.com^
-||encoilinwove.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
 ||encouragedrealityirresponsible.com^
@@ -24751,7 +24749,6 @@
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
-||lma.npaw.com^
 ||lmepbq.com^
 ||lmfehr.xyz^
 ||lmlmvip.com^
