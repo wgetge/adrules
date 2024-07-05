@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Pro++ Blocklist
 ! Description: Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-07-05T04:14:19.577Z
+! Last modified: 2024-07-05T15:10:33.546Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jul 2024 01:50 UTC
-! Version: 2024.0705.0150.51
+! Last modified: 05 Jul 2024 13:15 UTC
+! Version: 2024.0705.1315.14
 ! Syntax: AdBlock
-! Number of entries: 179138
+! Number of entries: 179166
 !
 ||0.org^
 ||0.to^
@@ -4984,6 +4984,7 @@
 ||97cc7b61f4.com^
 ||97d73lsi.com^
 ||97da4337b5.com^
+||97ii.cn^
 ||97paa.com^
 ||97sm.com^
 ||9800.com^
@@ -4996,7 +4997,6 @@
 ||986qka.cn^
 ||98765.pw^
 ||987a70dd0c.com^
-||988s82r.com^
 ||98c5d5c5087704477f90dde5d99b24d6fa5408bf9c77c9843d03b3e5.com^
 ||pihxmq.98doci.com^
 ||98f68cf54e.com^
@@ -6432,6 +6432,7 @@
 ||accompanycollapse.com^
 ||accompanydope.com^
 ||accompanyingjean.com^
+||accompanyingparameters.com^
 ||accomplicemiracle.com^
 ||accomplicepeach.com^
 ||accomplishedacquaintedbungalow.com^
@@ -6670,6 +6671,7 @@
 ||acorneroft.org^
 ||acornexhaustpreviously.com^
 ||acornfacilitatechecking.com^
+||acornfarmerconnate.com^
 ||acornpointlodge.com^
 ||metric.build.acorns.com^
 ||acostaom.com^
@@ -6895,6 +6897,7 @@
 ||actscattydecode.com^
 ||analytics.actsministrieschristianevangelism.org^
 ||retirementliving.actsretirement.org^
+||actthrilled.com^
 ||l.actu.fr^
 ||utiq.actu.fr^
 ||tr.actu-companeo.com^
@@ -7507,6 +7510,7 @@
 ||addictionhelpcenter.com^
 ||addictivedjdesigns.com^
 ||addictivetechnologies.com^
+||addictrelive.com^
 ||analytics.addigitech.com^
 ||addin.name^
 ||addingappointedprecede.com^
@@ -9106,6 +9110,7 @@
 ||adrock.ru^
 ||adrocket.com^
 ||pro.adrofx.com^
+||adroitcertain.com^
 ||adroitdeceitcongestion.com^
 ||adroition.net^
 ||adroitontoconstraint.com^
@@ -10001,6 +10006,8 @@
 ||trk.advancedtrkr.com^
 ||advanceencumbrancehive.com^
 ||advancementalong.com^
+||advancementcircuscaptured.com^
+||advancementgreeted.com^
 ||advancementpains.com^
 ||advancenative.com^
 ||advancenopregnancy.com^
@@ -10111,6 +10118,7 @@
 ||adverticus.de^
 ||advertise.com^
 ||advertise.ru^
+||advertiseconclusiveactual.com^
 ||advertiseimmaculatecrescent.com^
 ||advertiseireland.com^
 ||advertisementbanners.com^
@@ -15421,6 +15429,7 @@
 ||tracking.press.amnesty.org^
 ||amnestycredentialsapple.com^
 ||amnestygall.com^
+||amnestyhailstone.com^
 ||amnet.tw^
 ||amnew.net^
 ||jujtcq.amnibus.com^
@@ -15637,6 +15646,7 @@
 ||www-sadobe.anabuki-community.com^
 ||anacampaign.com^
 ||anadignity.com^
+||anadissolvedless.com^
 ||anaemiaalmostforests.com^
 ||anaemiaperceivedverge.com^
 ||gecko.anagodeck.com^
@@ -15933,6 +15943,7 @@
 ||analytics.angelone.in^
 ||angelsaidthe.info^
 ||adverts.angelstudios.com^
+||angerfondnessspecified.com^
 ||angersimultaneoustotally.com^
 ||track.anghami.com^
 ||metrics.angi.com^
@@ -16112,6 +16123,7 @@
 ||annaviyar.com^
 ||annddis.site^
 ||annedouglas.com^
+||annerhymenude.com^
 ||anneskyscrapergreedy.com^
 ||annesuspense.com^
 ||analytics.annewenkel.com^
@@ -16293,6 +16305,7 @@
 ||antennafutilecomplement.com^
 ||antennamarsh.com^
 ||antennaputyoke.com^
+||antennascan.com^
 ||antennash.com^
 ||antennasync.me^
 ||antennawritersimilar.com^
@@ -17512,6 +17525,7 @@
 ||discover.aptly.de^
 ||aptlycover.com^
 ||aptlydoubtful.com^
+||aptlytree.com^
 ||analytics.aptobase.plus^
 ||sentry.aptoide.com^
 ||smooth-storage.aptoma.no^
@@ -17753,6 +17767,7 @@
 ||sstats2.architecturaldigest.com^
 ||stats2.architecturaldigest.com^
 ||architecturecultivated.com^
+||architecturediscussdifferently.com^
 ||architectureholes.com^
 ||earwig.architecturesofhiding.com^
 ||analytics.architektur-bartmann.com^
@@ -17760,7 +17775,6 @@
 ||sentry.archive.org^
 ||analytics.us.archive.org^
 ||ia800400.us.archive.org^
-||ia803402.us.archive.org^
 ||ia803405.us.archive.org^
 ||analytics.archive-it.org^
 ||five.partner.archive-it.org^
@@ -20993,10 +21007,12 @@
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||transitiv-adserver-api.azurewebsites.net^
 ||ueisnifferengine2.azurewebsites.net^
+||valid-check-tl.azurewebsites.net^
 ||valo-telemetry.azurewebsites.net^
 ||hosts.vggwebsitetrackingprod.azurewebsites.net^
 ||vodus-api.azurewebsites.net^
 ||vodus-api-serverless.azurewebsites.net^
+||webgalahsllc.azurewebsites.net^
 ||window-shoppers.azurewebsites.net^
 ||wompanalytics.azurewebsites.net^
 ||azurinebioptic.top^
@@ -24800,6 +24816,7 @@
 ||qysnzg.bien-zenker.de^
 ||analytics.bienenpaten.de^
 ||track.bienestarysalud.fun^
+||bienlinea.com^
 ||lp.bienvivretoujours.com^
 ||bieqpf.cn^
 ||mooieplaatjes.bierdopje.com^
@@ -26415,6 +26432,7 @@
 ||popunhot1.blogspot.com^
 ||r-analytics.blogspot.ru^
 ||simplified-analytics.blogspot.in^
+||soapmaking.blogspot.com^
 ||toithichdoc.blogspot.com^
 ||tramerodemelerimiz.blogspot.com^
 ||videoid10006367.blogspot.com^
@@ -30638,7 +30656,6 @@
 ||zudopk.callondoc.com^
 ||callousannounced.com^
 ||callousbrake.com^
-||callouting.com^
 ||tracking.callpotential.com^
 ||callprintingdetailed.com^
 ||callrail.com^
@@ -39151,6 +39168,7 @@
 ||elqtracking.hub-group.co.uk^
 ||elqtracking.hubfinancialsolutions.co.uk^
 ||web.hubfinancialsolutions.co.uk^
+||hungerford.co.uk^
 ||matomo.hungryapp.co.kr^
 ||huqindustries.co.uk^
 ||hurricane-tracking.co.uk^
@@ -39516,6 +39534,7 @@
 ||a8.mamacosme.co.jp^
 ||a8cv.mamarket.co.jp^
 ||tracking.mandg.co.uk^
+||maniajeans.co.il^
 ||cellar-analytics.mapion.co.jp^
 ||marbil24.co.za^
 ||marchen-toy.co.jp^
@@ -44177,7 +44196,6 @@
 ||aminks.underarmour.com.tr^
 ||dfigxb.underarmour.com.mx^
 ||hhwcqa.underarmour.com.br^
-||uniaoabc.com.br^
 ||unicainstrumentacao.com.br^
 ||unioneconsultoria.com.br^
 ||ads.universia.com.br^
@@ -54932,6 +54950,7 @@
 ||droppingforests.com^
 ||droppingprofessionmarine.com^
 ||dropsclank.com^
+||datacapture.dropsolid.com^
 ||dropspam.com^
 ||dropswithdrew.com^
 ||ad.droptheknow.com^
@@ -55885,6 +55904,7 @@
 ||clnbze.dziennikpolski24.pl^
 ||clnbze.dziennikzachodni.pl^
 ||dzigzdbqkc.com^
+||dzijggsdx.com^
 ||dzjnejsffqqih.com^
 ||dzjv9gbu8a.com^
 ||dzjzg.com^
@@ -56744,6 +56764,7 @@
 ||eclicks.cn^
 ||eclickz.com^
 ||track.eclipse-chaser.com^
+||eclipsisnp.com^
 ||analytics.eclipso.de^
 ||track.offer.eclisse-fr.com^
 ||eclk.club^
@@ -62935,7 +62956,6 @@
 ||download.favorit-network.com^
 ||favoriteipast.com^
 ||favoritetonic.com^
-||favorking.net^
 ||a8cv.favorric.com^
 ||favorscenes.com^
 ||favourablerecenthazardous.com^
@@ -71375,7 +71395,6 @@
 ||glisteningguide.com^
 ||glisteningsign.com^
 ||analytics.glitch.cool^
-||cdn.glitch.global^
 ||glitchtec.com^
 ||glitnoraffiliates.com^
 ||glitter-girls.net^
@@ -75317,6 +75336,7 @@
 ||gw100-10.com^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||analytics.gwa-abfallkalender.de^
 ||gwallet.com^
 ||gwarantwojaprzyszlosc.site^
@@ -82609,7 +82629,6 @@
 ||immediateedge.cloud^
 ||immediateedgeaustralia.com^
 ||immediateedgepro.com^
-||immediateegde.store^
 ||immediateenigma.com^
 ||immediateeurax.ai^
 ||immediateeurax360.com^
@@ -89092,6 +89111,7 @@
 ||jygiizv.icu^
 ||jygotubvpyguak.com^
 ||jyhfuqoh.info^
+||jyisloa.top^
 ||o1.jyjyj.cn^
 ||o2.jyjyj.cn^
 ||jyk.jp^
@@ -101043,6 +101063,7 @@
 ||mconso.fr^
 ||mcontigo.com^
 ||mcoreads.com^
+||mcovipqaxq.com^
 ||trk.elq.mcphersonoil.com^
 ||mcppsh.com^
 ||mcprofits.com^
@@ -104949,6 +104970,7 @@
 ||tr.mhwinesestates.moethennessy.com^
 ||tr.news.moethennessy.com^
 ||tr.thisiseurope.moethennessy.com^
+||matomo.moetiknaardedokter.nl^
 ||tracking.moetiknaardedokter.nl^
 ||moevideo.biz^
 ||moevideo.com^
@@ -106889,6 +106911,7 @@
 ||smetrics.multikino.pl^
 ||multikonline.ru^
 ||multilinkhost.com^
+||usuarios.multimania.es^
 ||multimater.com^
 ||multinews.me^
 ||mto.multiopen.cn^
@@ -118490,6 +118513,7 @@
 ||s.onlineornot.com^
 ||track.onlineoversight.com^
 ||callback.onlinepbx.ru^
+||keitarotds777.onlinepharmacy24h.net^
 ||onlinepieniadze.site^
 ||onlineplus.click^
 ||onlinepluss.com^
@@ -125133,6 +125157,7 @@
 ||playsound.xyz^
 ||static.playspace.com^
 ||playspeculationnumerals.com^
+||playstation.rent^
 ||ad.playstation.net^
 ||metrics.aem.playstation.com^
 ||smetrics.aem.playstation.com^
@@ -128600,7 +128625,6 @@
 ||psaruvoo.com^
 ||psasoshosurvey.space^
 ||track.psatcrm.com^
-||psatorsi.com^
 ||psaudous.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
@@ -130829,6 +130853,7 @@
 ||ar.quadient.com^
 ||cx.quadient.com^
 ||tracking.quadient.com^
+||servinform.quadientcloud.eu^
 ||quadmetrics.com^
 ||quadran.eu^
 ||raspnd.quadratec.com^
@@ -142184,6 +142209,7 @@
 ||track.shop-shop.store^
 ||shop-sis.com^
 ||shop146.com^
+||shop2024online.ru^
 ||izegag.shop24direct.de^
 ||shop2market.com^
 ||shop3377.com^
@@ -156293,6 +156319,7 @@
 ||analytics.tinyman.org^
 ||sp.tinymce.com^
 ||api-v3.tinypass.com^
+||buy.tinypass.com^
 ||dashboard.tinypass.com^
 ||experience.tinypass.com^
 ||id.tinypass.com^
@@ -163337,6 +163364,7 @@
 ||track.us.org^
 ||trk.us.com^
 ||worldcupjerseys.us.com^
+||yeezyboost-350.us.com^
 ||yeezyboost380.us.com^
 ||yeezysboost350-v2.us.com^
 ||mucho.us-assistance.org^
@@ -163963,6 +163991,7 @@
 ||analytics.v1.ru^
 ||luckshow.v1.cn^
 ||luckstatic.v1.cn^
+||v12-cars-for-sale.com^
 ||v124mers.com^
 ||v12group.com^
 ||v12groupinc.com^
@@ -167805,6 +167834,7 @@
 ||vsnoon.com^
 ||analytics.vspdirect.com^
 ||secure.vspdirect.com^
+||vsqovxf.icu^
 ||vssidgov.com^
 ||vstats.me^
 ||vstats.net^
@@ -171403,7 +171433,6 @@
 ||tag.winister.app^
 ||winitnow.mobi^
 ||winitout.com^
-||marketing.net.wink.es^
 ||anijjm.winkelstraat.nl^
 ||metrics.winkelstraat.nl^
 ||winkexpandingsleigh.com^
@@ -174866,6 +174895,7 @@
 ||xuwfmhh.icu^
 ||xuyanlong1.cn^
 ||xuywofqewwyasil.xyz^
+||xuzsdn.xyz^
 ||api.ad.xv555.com^
 ||xvapp02.com^
 ||xvbcjh.xyz^
@@ -178992,6 +179022,7 @@
 ||zwinky.com^
 ||api.zwizzarmyknife.com^
 ||zwjaoni.cn^
+||zwlxnj.xyz^
 ||zwmkfoo.cn^
 ||zwnoeqzsuz.com^
 ||piwik.zwolle.nl^
@@ -179099,7 +179130,6 @@
 ||tracking.zyro.com^
 ||chanlemomo.zyrosite.com^
 ||unlockdienthoai.zyrosite.com^
-||zyrself.com^
 ||analytics.zyrtec.com^
 ||analytics.zyrtecprofessional.com^
 ||zys13.top^
