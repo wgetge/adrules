@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1720152875792
+			"timeUpdated": 1720156242961
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -671,7 +671,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
 			"timeAdded": 1622639343000,
-			"timeUpdated": 1720069920271
+			"timeUpdated": 1720156243030
 		},
 		{
 			"filterId": "urlhaus_filter_online",
@@ -783,7 +783,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"timeAdded": 1692186669090,
-			"timeUpdated": 1720152883962
+			"timeUpdated": 1720156250893
 		},
 		{
 			"filterId": "ublock_badware_risks",
@@ -863,7 +863,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
 			"timeAdded": 1710348896473,
-			"timeUpdated": 1720152884591
+			"timeUpdated": 1720156251183
 		},
 		{
 			"filterId": "nocoin_filter_list",
