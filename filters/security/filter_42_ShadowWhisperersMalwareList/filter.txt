@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-03T17:10:15.772Z
+! Last modified: 2024-07-05T17:10:50.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 45,617
-# Updated: 7/3/2024  12:03 (12:03 PM CST)
+# Domains: 45,626
+# Updated: 7/5/2024  12:05 (12:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2052,6 +2052,7 @@
 ||abelestheca.com^
 ||abelfaria.pt^
 ||abenteuer-zu-zweit.com^
+||aberk.site^
 ||abesblog.com^
 ||abes.co^
 ||abes.net^
@@ -22755,6 +22756,7 @@
 ||lanceforthwith.com^
 ||lancetrollobjects.com^
 ||landerhd.com^
+||landingpageredirect1.com^
 ||landingpagesecure.com^
 ||landing-push.net^
 ||landlorddiscoveringsubscribe.com^
@@ -23023,6 +23025,7 @@
 ||leetcoaxal.com^
 ||leezeemu.com^
 ||leezookukaiy.com^
+||le-film.org^
 ||leftempower.com^
 ||leftoverdense.com^
 ||leftoverstatistics.com^
@@ -25365,6 +25368,7 @@
 ||mkgj53d.com^
 ||mkihakfuzv.com^
 ||mkkolerosoft.com^
+||mkmyday.com^
 ||mktsrc.com^
 ||ml0z14azlflr.com^
 ||ml8730.com^
@@ -38275,6 +38279,7 @@
 ||specialdating.net^
 ||specialdeals22.xyz^
 ||special-discounts.club^
+||specialdreamdeals.com^
 ||special-for.me^
 ||specialfrugality.com^
 ||specialisthuge.com^
@@ -39970,6 +39975,7 @@
 ||talktomeplease.biz^
 ||tallwhilstinventory.com^
 ||tallysaturatesnare.com^
+||taltsa.com^
 ||tamerliqus.com^
 ||tamesecretion.com^
 ||tamesurf.com^
@@ -42140,6 +42146,7 @@
 ||tyerecentlyh.autos^
 ||tygorn.gives^
 ||tyingentered.com^
+||tyingree.com^
 ||tylocintriones.com^
 ||tymd83trk.com^
 ||typerealisepredict.com^
@@ -44726,6 +44733,7 @@
 ||wrapdime.com^
 ||wrappeddimensionimpression.com^
 ||wrappedproduct.com^
+||wrdpresuu.com^
 ||wreckgroupads.com^
 ||wreckingplain.com^
 ||wrenchfavourablespear.com^
@@ -45272,6 +45280,7 @@
 ||yourfilebox.com^
 ||yourfiledownloader.com^
 ||yourfileinfo.com^
+||yourfirstvisits.com^
 ||yourforth.com^
 ||yourfreeonlineforms.com^
 ||yourfreepdfconverternow.com^
