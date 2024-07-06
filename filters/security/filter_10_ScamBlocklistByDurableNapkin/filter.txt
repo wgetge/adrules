@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2024-07-05T05:10:43.029Z
+! Last modified: 2024-07-06T05:10:50.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -122,7 +122,6 @@
 ||buzzazone.com^
 ||by-emmamuller.de^
 ||c.dreamdating1.fun^
-||c3scores.com^
 ||campingsurfshop.com^
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
@@ -147,6 +146,7 @@
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
+||ckkebt.shop^
 ||clearance-bike.com^
 ||clemoa.com^
 ||cluckergifts.ecwid.com^
@@ -188,6 +188,7 @@
 ||danainstan.xyz^
 ||danapintar.club^
 ||danylevych.com^
+||dash.pocketuniverse.app^
 ||dashracegear.net^
 ||dat-ing.site^
 ||dataid-subsidies.click^
@@ -236,6 +237,7 @@
 ||equiwarmpro.co^
 ||ercnnier.com^
 ||esl-gaming.com^
+||eslplayingleague.com^
 ||eudoraz.com^
 ||evangeliostore.com^
 ||eviralstore.com^
@@ -259,11 +261,13 @@
 ||faze11.com^
 ||faze19.com^
 ||faze2.com^
+||faze21.com^
 ||faze24.com^
 ||faze3.com^
 ||faze35.com^
 ||faze4.com^
 ||faze40.com^
+||faze42.com^
 ||faze47.com^
 ||faze5.com^
 ||faze60.com^
@@ -504,8 +508,6 @@
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi40.ru^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -522,12 +524,14 @@
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
+||navi74.com^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
 ||navi81.com^
 ||navi86.ru^
 ||navi88.com^
+||navi91.com^
 ||navi94.com^
 ||navi96.com^
 ||navi97.com^
@@ -583,7 +587,6 @@
 ||officialkmspico.com^
 ||oflike.com^
 ||ogogear.com^
-||ohmysweetromancespot.life^
 ||okdebrid.com^
 ||oldcube.com^
 ||online-binomo.com^
@@ -605,6 +608,7 @@
 ||pambi.tech^
 ||pandzee.com^
 ||parcelprocessingredelivery1.info^
+||parisiporlin-ktki.kemkes.go.id^
 ||pateim.com^
 ||path2zillion.com^
 ||peppatees.com^
@@ -626,7 +630,6 @@
 ||pinjamuang.top^
 ||pjs.outlet.com^
 ||plutostars.com^
-||pn10.xyz^
 ||polish-money-matters.blogspot.com^
 ||popeurope.com^
 ||poppee.online^
@@ -735,6 +738,7 @@
 ||sugarandpearl.com^
 ||suitablepartner.life^
 ||supercutestuff.com^
+||superofferte.shop^
 ||supperbrand.company.site^
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
@@ -795,12 +799,14 @@
 ||twiiiter.com^
 ||twinsbio.com^
 ||twitterr.com^
+||uange.shop^
 ||uangmudahapp.com^
 ||uangqu.online^
 ||ultimate-tech-products.myshopify.com^
 ||ultraboxlab.com^
 ||ultrasonica.info^
 ||unifully.com^
+||unitedglobal-logistics.com^
 ||universityofqatarrectorate.godaddysites.com^
 ||unkinerecle.com^
 ||uplevelreward.com^
