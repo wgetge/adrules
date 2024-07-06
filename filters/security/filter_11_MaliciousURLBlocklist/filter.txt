@@ -2,7 +2,7 @@
 ! Title: Malicious URL Blocklist (URLHaus)
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
 ! Homepage: https://urlhaus.abuse.ch/
-! Last modified: 2024-07-06T00:44:51.999Z
+! Last modified: 2024-07-06T13:10:35.225Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 ! Source: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
 !
 ! Title: Malicious URL Blocklist (AdGuard Home)
-! Updated: 2024-07-06T00:09:29Z
+! Updated: 2024-07-06T12:09:07Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -30,6 +30,7 @@
 ||1717.1000uc.com^
 ||172-105-66-118.ip.linodeusercontent.com^
 ||172-232-175-155.ip.linodeusercontent.com^
+||172-245-112-195.cprapid.com^
 ||173-255-238-129.ip.linodeusercontent.com^
 ||188882.000webhostapp.com^
 ||195-15-201-129.dc3-a.pub1.etik-cloud.com^
@@ -67,7 +68,6 @@
 ||a.438574893.xyz^
 ||a.884736279.xyz^
 ||a.iruko.top^
-||a0932621.xsph.ru^
 ||a0938042.xsph.ru^
 ||a0940704.xsph.ru^
 ||a0942874.xsph.ru^
@@ -110,6 +110,7 @@
 ||adbfhum.com^
 ||adjefjeo.com^
 ||adjxmex.website^
+||adobefallshomes.com^
 ||adobetools.ucoz.net^
 ||adsl-37.37.6.37.tellas.gr^
 ||advising-receipts.com^
@@ -139,6 +140,7 @@
 ||alealealpargatas.com^
 ||alebtechnologie.com^
 ||aliam.ir^
+||almrwad.com^
 ||alphaumi.com^
 ||alsiga.com^
 ||alwmu.sticky.oystergardening.name^
@@ -178,6 +180,7 @@
 ||asbc.weae.v5.mrmpzjjhn3sgtq5w.pro^
 ||asd.com.pk^
 ||asdqmdo.cn^
+||asdsadasrdc.ug^
 ||asdsdgsdgdfbsfd.cam^
 ||asdvejc.com^
 ||asdvger.com^
@@ -284,6 +287,7 @@
 ||botnettajima.ddns.net^
 ||bots.gxz.me^
 ||bql.glue.oystergardening.net^
+||bratiop.ru^
 ||brikule.cz^
 ||brow-ser-update.top^
 ||bruiserbodies.com^
@@ -305,6 +309,7 @@
 ||bzo.demo.betterbuiltdogs.com^
 ||bzwl888.sbs^
 ||c4musqgiix.zvmdyjjavbo9au.ru^
+||caca.szcoolgame.com^
 ||cadenaderegalos.com^
 ||cajasnq.cn^
 ||cajgtus.com^
@@ -345,6 +350,7 @@
 ||changeswithflowers.shop^
 ||changetheworldwithflowers.shop^
 ||cheatroom.shop^
+||check-time.ru^
 ||chemsentinel.com^
 ||chemsky.tn^
 ||chf.pool.hjdeboer.com^
@@ -432,9 +438,11 @@
 ||defgyma.com^
 ||dejdl.register.arpsychotherapy.com^
 ||delight.mv^
+||delpas.it^
 ||democrat.badgrand.com^
 ||dev-xlss.pantheonsite.io^
 ||devaccrocs.allianceconsultants.net^
+||dgkhj.ru^
 ||dhcp-206-248-59-5.metro86.ru^
 ||dhcp-211-248-59-5.metro86.ru^
 ||dhlawfirm.site^
@@ -457,6 +465,7 @@
 ||dl.aginjector.com^
 ||dl.poupli.net^
 ||dmhumm439dmpr.cloudfront.net^
+||dmyxmv.notasdigitalmax.com^
 ||dnftm.sh^
 ||dnvk1.info^
 ||docker.tomchat.asia^
@@ -707,14 +716,12 @@
 ||hunarghar.org.pk^
 ||huntingservices.blob.core.windows.net^
 ||hutch.duniareligi.com^
-||huureiirre.website^
 ||hvg.si^
 ||hwthurmann.de^
 ||hycy.patent.international-med.com^
 ||hye.sticky.oystergardening.name^
 ||hylwy.result.garrettcountygranfondo.org^
 ||hyundaidiamante.com^
-||i-like-hokku.co.ua^
 ||i.thietke.in^
 ||ia800400.us.archive.org^
 ||ia803405.us.archive.org^
@@ -724,11 +731,13 @@
 ||icarusairlines.com^
 ||icul.anesthetics.biomedzglobal.com^
 ||ideanet.co.in^
+||identificatie-login.com^
 ||ideosphere.in^
 ||idpro7273.online^
 ||iespppomabamba.edu.pe^
 ||igi.patent.international-med.com^
 ||ihox.partners.gloriadeicr.com^
+||immobilien-spektrum.de^
 ||imtoken8.cc^
 ||imtokenn.vip^
 ||imtokeon.com^
@@ -746,6 +755,8 @@
 ||invoicetrycloudflare.com^
 ||iojhfyughnklnjb.shop^
 ||ip.tvguzel.com^
+||ip245.ip-51-89-34.eu^
+||ip253.ip-51-81-235.us^
 ||iqfup.glue.oystergardening.net^
 ||irfanrashid.com^
 ||ironmus.com^
@@ -760,7 +771,6 @@
 ||izap.sticky.oystergardening.name^
 ||jaipurstylo.com^
 ||jasarenovasibangunrumahmalang.com^
-||java.okczb.top^
 ||jdap.register.arpsychotherapy.com^
 ||jdhanec.com^
 ||jdwzze.xyz^
@@ -777,7 +787,6 @@
 ||jobsportal360.com^
 ||joccupationalscience.org^
 ||joeltrip.com^
-||johnnyyyzzeeebii.serv00.net^
 ||jointings.org^
 ||jonathantwo.com^
 ||jonmesserartwork.com^
@@ -808,9 +817,9 @@
 ||kebabcheats.ru^
 ||kebfuzeswiglet.sbs^
 ||kede.co.kr^
-||kenesrakishev.net^
 ||kenjyuu.za.com^
 ||kes1ljwb7u.cv2qil2savvgpk.ru^
+||kfdhsa.ru^
 ||kforganico.ru.com^
 ||kij.register.arpsychotherapy.com^
 ||kipaak.com^
@@ -869,7 +878,6 @@
 ||library.arihantmbainstitute.ac.in^
 ||licocojambamarketplace.com^
 ||lifeartfertility.co.za^
-||lindnerelektroanlagen.de^
 ||linktoxic34.com^
 ||linkvilleplayers.org^
 ||linux.sun-asterisk.info^
@@ -908,6 +916,7 @@
 ||mahadukan.com^
 ||maheegroup.com^
 ||mahmoud-radwan.com^
+||mail.pastratas.ac.ug^
 ||mail.unicbit.net^
 ||mainhotel5may.blogspot.com^
 ||malayska.ug^
@@ -915,6 +924,7 @@
 ||manbaulhudaasia.aliyy.my^
 ||mantaline.one^
 ||manuurulwaahid.sch.id^
+||marksidfg.ug^
 ||marksidfgs.ug^
 ||marvelesol.com^
 ||maso.ge^
@@ -983,7 +993,6 @@
 ||myaccountstart.blob.core.windows.net^
 ||mydesinger.com^
 ||myfeifei121.top^
-||mynestudiocontable.com^
 ||myoptimasunlab.com^
 ||myquickandeasy.com^
 ||myra.re^
@@ -999,7 +1008,6 @@
 ||nbjo.fans.smalladventureguide.com^
 ||nbvand.cn^
 ||nebulaquestcorporation.cc^
-||neosusu01.netlify.app^
 ||nerve.untergrund.net^
 ||net-killer.bobungbu.com^
 ||net-killer.ddns.net^
@@ -1023,6 +1031,7 @@
 ||nexoproducciones.cl^
 ||nextoneup.shop^
 ||nickicecream.gr^
+||nicoslag.ru^
 ||ninadroid.ir^
 ||nitio.com^
 ||nlqbgkl5.org^
@@ -1030,13 +1039,12 @@
 ||nobledeals.co.ke^
 ||nocrynetworking.duckdns.org^
 ||node.xevo-host.de^
-||noithaticon.vn^
 ||note.padd.cn.com^
 ||novelblack.org^
 ||npwfg.demo.betterbuiltdogs.com^
 ||nqld.register.arpsychotherapy.com^
 ||ns1.koleso.tc^
-||ns2.timecheck.ug^
+||ns2.badhabits.ug^
 ||nservercom.store^
 ||nubsibote.su^
 ||nvw.demo.betterbuiltdogs.com^
@@ -1078,6 +1086,7 @@
 ||packetinfo.com^
 ||pagamento.afya.com.br^
 ||page.wedl3.com^
+||paipaisdvzxc.ru^
 ||palberryslicker.sbs^
 ||palharesinformatica.com.br^
 ||panakalresidence.com^
@@ -1085,8 +1094,10 @@
 ||pantherropes.com^
 ||pantyl.com^
 ||park-your-track.com^
+||partaususd.ru^
 ||parthait.com^
 ||passion4dance.ru.com^
+||pastrasasca.ug^
 ||patriziamarazzi.com^
 ||pavicomsa.com^
 ||pbf.loans.fishingreelinvestments.com^
@@ -1107,12 +1118,14 @@
 ||phytoplantis.com^
 ||pic.ng-api-001.xyz^
 ||pic.shouhucj.com^
-||piramidglobaltobacco.id^
+||pineappletech.ae^
 ||playerenterprises.org^
+||playwell.ug^
 ||plekemwq.com^
 ||plesiosauroid.sbs^
 ||plksdnh.com^
 ||plyagoogle.sa.com^
+||pns.org.pk^
 ||pofix.red^
 ||polatfamilyengine.com^
 ||ponyevent.vn^
@@ -1152,6 +1165,7 @@
 ||pvre.colo.oystergarden.net^
 ||pxp.location.oysterfloats.us^
 ||qcollect.co.za^
+||qd34gf23ewrfsd1233.ru^
 ||qdlcq.honors.howamerica.com^
 ||qeintechnologies.com^
 ||qeobm.pool.hjdeboer.com^
@@ -1171,6 +1185,8 @@
 ||quks.colo.oystergarden.net^
 ||quotesparade.com^
 ||quw.result.garrettcountygranfondo.org^
+||qwertasd.ru^
+||qwerty12346.ru^
 ||qwjsame.com^
 ||qxrt.distributors.commdistinc.com^
 ||qxsbcmuf.com^
@@ -1183,6 +1199,7 @@
 ||ralucamihaela.ro^
 ||ramirex.ro^
 ||ranchoboscardin.com.br^
+||rasetllis.in.net^
 ||raw.mezo-api.xyz^
 ||rbo.loans.fishingreelinvestments.com^
 ||rcyt.patent.international-med.com^
@@ -1205,7 +1222,6 @@
 ||rightwaycleaninginc.com^
 ||rjjewelpk.com^
 ||rockcreekdds.com^
-||roofing.galacticleads.com^
 ||rootme.xyz^
 ||rooty.cc^
 ||roundcube.custommarinesvcs.com^
@@ -1223,6 +1239,7 @@
 ||s3r.io^
 ||s77.san2.xyz^
 ||sa.columbrara.za.com^
+||saf-oil.ru^
 ||safeautomationbd.com^
 ||sainzim.co.za^
 ||saitraif.ru^
@@ -1257,7 +1274,6 @@
 ||server.kovey-net.ru^
 ||server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru^
 ||server.toeicswt.co.kr^
-||servisaludocupacional.pe^
 ||sessosesso.it^
 ||sex.secure-cyber-security-rebirthltd.su^
 ||sf-1300355179.cos.ap-shanghai.myqcloud.com^
@@ -1366,11 +1382,13 @@
 ||take3llcphotobooth.com^
 ||tatuhirdavat.com^
 ||taxdocview.com^
+||taxinhanhlongan.com^
 ||tcgervthytrec.space^
 ||tdecu.top^
 ||techniguitare.com^
 ||techseasoning.com^
 ||tecni-soft.com^
+||telegram.ninja^
 ||telnet.8b8n.com^
 ||templarstore.com^
 ||template.majestic-corporation.com^
@@ -1396,9 +1414,13 @@
 ||threemanshop.com^
 ||thrivetrail.org^
 ||thrthjjuyklliihgh.com^
+||thuexeditinh365.click^
 ||tiktok.coachesinspain.comstatic^
 ||tiktok.florenda.com^
 ||timeandremind.com^
+||timebound.ug^
+||timecheck.ug^
+||timekeeper.ug^
 ||tirtaningnusantara.com^
 ||tjrivbgnjkdigghhkkl.com^
 ||tk.coachesinspain.com^
@@ -1418,18 +1440,22 @@
 ||tpb.patent.international-med.com^
 ||tpu.schedule.golfballnutz.com^
 ||tracking-alert.org^
+||tradeinsights.net^
 ||trailers24.eu^
 ||transfer.adttemp.com.br^
 ||travelwithmanta.co.za^
+||triathlethe.ug^
 ||triujbnkrjtuigtjgivg.com^
 ||trollsburninginhell.com^
 ||trusted-spot.com^
 ||tsk.loans.fishingreelinvestments.com^
 ||tsygjd.cn^
 ||tt.coachesinspain.com^
+||tugusino.ru^
 ||tulips4change.shop^
 ||tumanovalekcey.github.io^
 ||turkishmarinesurvey.com^
+||tuskslacx.ug^
 ||tutycholid.com^
 ||tv.surebettr.com^
 ||tv.yayins.com^
@@ -1456,7 +1482,6 @@
 ||upr.lk^
 ||upstatesunflowerfestival.com^
 ||uqysu.pages.microcloud360.com^
-||urbantiara.com^
 ||usapq.softether.net^
 ||ustqj.anesthetics.biomedzglobal.com^
 ||uujuk.patent.international-med.com^
@@ -1506,6 +1531,8 @@
 ||vn.dadanpro.com^
 ||vnfreetourguides.com^
 ||vnviet.org^
+||vps-a907fa49.vps.ovh.ca^
+||vps-da6bdd26.vps.ovh.us^
 ||vps.rebirth-network.su^
 ||vps718926.ovh.net^
 ||vridhifashions.com^
@@ -1525,6 +1552,7 @@
 ||webtoolbox.site^
 ||wecancity.org^
 ||wednesdayyyymangeo.duckdns.org^
+||wellplayed.ug^
 ||weloisaqueirozwe.from-nh.com^
 ||wfno.djul.v5.mrmpzjjhn3sgtq5w.pro^
 ||wfy.glue.oystergardening.net^
@@ -1534,6 +1562,7 @@
 ||white.carsmartag.com^
 ||whitesecurity.xyz^
 ||wikkt.com^
+||windowshealth.link^
 ||wisdomlawacademy.com^
 ||wiz.sticky.oystergardening.name^
 ||woermashunfac.top^
@@ -1555,6 +1584,7 @@
 ||xbwh.demo.betterbuiltdogs.com^
 ||xdje.sticky.oystergardening.name^
 ||xdpbb.glue.oystergardening.net^
+||xelientinhmiennam.com^
 ||xeuh.rqtp.v5.mrmpzjjhn3sgtq5w.pro^
 ||xga.glue.oystergardening.net^
 ||xiangshunjy.com^
@@ -1590,8 +1620,10 @@
 ||ysdjsrf.com^
 ||ysgvqw.cn^
 ||yusjfnf.com^
+||yyyyvps.cn^
 ||yzkzixun.com^
 ||yzvg.fans.smalladventureguide.com^
+||z.shavsl.com^
 ||z0h5zwqcnshucs3mbk.ppyqeptelvilg7o.ru^
 ||zahramsatya.ddns.net^
 ||zakk.co.za^
@@ -1622,4 +1654,5 @@
 ||zuhauseliving.com^
 ||zvb.glue.oystergardening.net^
 ||zxjh.colo.oystergarden.net^
+||zxvbcrt.ug^
 ||zyb.ac^
