@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Pro Blocklist
 ! Description: Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-07-06T11:09:04.185Z
+! Last modified: 2024-07-06T16:10:57.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Jul 2024 08:52 UTC
-! Version: 2024.0706.0852.06
+! Last modified: 06 Jul 2024 13:49 UTC
+! Version: 2024.0706.1349.19
 ! Syntax: AdBlock
-! Number of entries: 154687
+! Number of entries: 154686
 !
 ||0.org^
 ||0.to^
@@ -6874,6 +6874,7 @@
 ||shop.adamjk.com^
 ||adammap.com^
 ||adamoads.com^
+||adamov.name^
 ||analytics.adams.sh^
 ||adamsfilms.com^
 ||adamsupportgroup.org^
@@ -8996,7 +8997,6 @@
 ||adsready.com^
 ||adsreference.com^
 ||adsreklamizm.ga^
-||adsreklamizm.tk^
 ||adsrevenue.net^
 ||adsring.com^
 ||adsroller.com^
@@ -10529,6 +10529,7 @@
 ||agsagxgwoaqw.com^
 ||agsbmiphaadj.com^
 ||agsgovsat.com^
+||stats.agsmaim.it^
 ||agt.net^
 ||agtech-x.com^
 ||metrics.agtechnavigator.com^
@@ -21525,7 +21526,6 @@
 ||ztbbpz.betten.de^
 ||bettentacruela.com^
 ||analytics.better.com^
-||better-might.pro^
 ||better-replay.com^
 ||betteradsystem.com^
 ||betterbanners.org^
@@ -25710,6 +25710,7 @@
 ||t.bukalapak.com^
 ||analytics.bukanter.de^
 ||bukash2jf8jfpw09.com^
+||bukmekerzerkalo.net^
 ||rikki.bukvaved.net^
 ||bukwnlpk4k.ru^
 ||bulbazaurus.site^
@@ -30835,7 +30836,6 @@
 ||clickbar.ir^
 ||clickbaza.com^
 ||clickbet88.com^
-||clickbigo.com^
 ||clickbooth.com^
 ||clickboothlnk.com^
 ||clickbrainiacs.com^
@@ -30959,7 +30959,6 @@
 ||clicktag.de^
 ||clicktale.com^
 ||cdn.clicktale.net^
-||s.clicktale.net^
 ||clickterra.net^
 ||code.clicktex.ru^
 ||s.clicktex.ru^
@@ -43271,7 +43270,6 @@
 ||dawmal.com^
 ||stats.dawn.md^
 ||dawn3host.com^
-||dawndadmark.live^
 ||dawnfilthscribble.com^
 ||tracking.dawnsecrets.com^
 ||dawplm.com^
@@ -47303,6 +47301,7 @@
 ||secure1.desjardinsgeneralinsurance.com^
 ||deskbabes.com^
 ||deskfrontfreely.com^
+||matomo.deskline.net^
 ||desklks.com^
 ||matomo.deskly.live^
 ||desktoptrack.com^
@@ -47931,7 +47930,6 @@
 ||dich-vu-the-vdiamond-vpbank.com^
 ||dich-vu-update-vpbank.com^
 ||dicheeph.com^
-||dichhancomee.site^
 ||dichoabs.net^
 ||dichvu-dien-mayxanh.com^
 ||analytics.dicide.de^
@@ -48565,7 +48563,6 @@
 ||discordpeckplaying.com^
 ||discordturkiye.com^
 ||discordyourselvescamping.com^
-||discorg.gg^
 ||discospiritirresponsible.com^
 ||www2.discountairintake.com^
 ||www1.discountautomirrors.com^
@@ -52111,7 +52108,6 @@
 ||ecpshapm.xyz^
 ||pubs.ecranfantastique.net^
 ||ecrwqu.com^
-||ecstale.com^
 ||ecstaticquiltrye.com^
 ||a8clk.ectool.jp^
 ||ectyet.top^
@@ -57300,6 +57296,8 @@
 ||fbc-algo.com^
 ||fbc-edge.com^
 ||fbcctf.com^
+||xy.fbcdn.net^
+||xz.fbcdn.net^
 ||fbcdn2.com^
 ||fbconversions.com^
 ||fbd.de^
@@ -62379,7 +62377,6 @@
 ||gasasphrad.com^
 ||som.gaservesamerica.com^
 ||gasesgroup.com^
-||gasgacorterus.com^
 ||gaskinneepour.com^
 ||gasolinefax.com^
 ||gasolinerent.com^
@@ -66476,7 +66473,6 @@
 ||more.groups.be^
 ||groupsrider.com^
 ||grousanttrk.com^
-||groutsfaham.top^
 ||grouvuwoace.com^
 ||grova.buzz^
 ||grova.xyz^
@@ -72482,7 +72478,6 @@
 ||ztyumn.ifeng.com^
 ||c0.ifengimg.com^
 ||y3.ifengimg.com^
-||ifewo.xyz^
 ||analytics.ifg.io^
 ||jhm3.ifgexecutive.com^
 ||ifgrbq.com^
@@ -73846,6 +73841,7 @@
 ||track.info.infectiousdiseaseadvisor.com^
 ||infectiousmedia.com^
 ||infeebasr.com^
+||infeed.app^
 ||infeetnigh.site^
 ||receiver-metis.infeng.site^
 ||inferclick.com^
@@ -80566,7 +80562,6 @@
 ||kfh378.com^
 ||kfhoun7sr9vjhunitrdaiiya39lkjnyuilplsae4fk.org^
 ||kfiopkln.com^
-||kfiupggnofpqs.com^
 ||kfjhd.com^
 ||kfjpren.xyz^
 ||kfjslid.top^
@@ -82465,7 +82460,6 @@
 ||kyemwo.xyz^
 ||analytics.kyero.com^
 ||kygftx.xyz^
-||kyislod.top^
 ||adserver.day.kyiv.ua^
 ||collector.kyivstar.ua^
 ||kyjhuflgtl.xyz^
@@ -90530,7 +90524,6 @@
 ||analytics.meituan.net^
 ||data-sdk-uuid-log.d.meituan.net^
 ||dreport.meituan.net^
-||hreport.meituan.com^
 ||report.meituan.com^
 ||cloudcollect.meitudata.com^
 ||meitubeauty.meitudata.com^
@@ -106873,6 +106866,7 @@
 ||web.e.panmacmillan.com^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panopticon.com^
 ||ads11.panoramaaudiovisual.com^
 ||swebanalytics.panoramafirm.pl^
 ||panoramicplane.com^
@@ -117316,14 +117310,11 @@
 ||reklamcsere.hu^
 ||reklamdor.com^
 ||reklamdsp.com^
-||reklamgoooogle.ga^
-||reklamgoooogle.gq^
 ||reklamgoooogle.ml^
 ||reklamgoooogle.tk^
 ||reklamko.pro^
 ||reklamnative.com^
 ||reklamoloji.com^
-||reklamonline.site^
 ||reklamonlines.site^
 ||reklampiksel.com^
 ||reklamport.com^
@@ -125775,6 +125766,7 @@
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
 ||skumcobpink.com^
+||analytics.skuola.net^
 ||uudbvq.skuola.net^
 ||analytics.skwatt.com^
 ||skwfupp.com^
@@ -128485,7 +128477,8 @@
 ||spotify-desktop.com^
 ||metric.spotifyforbrands.com^
 ||spotifypremiumaccounts.info^
-||spotim.market^
+||ghb.spotim.market^
+||player.spotim.market^
 ||spotlessabridge.com^
 ||spotlessstamp.com^
 ||spotlightmusicnj.com^
@@ -133827,6 +133820,7 @@
 ||static.terratraf.io^
 ||panel.terrawinds.com^
 ||stats.terre-compagne.fr^
+||stats.terredargine.it^
 ||app.go.terremark.com^
 ||static.terrhq.ru^
 ||terribledeliberate.com^
@@ -136526,6 +136520,7 @@
 ||x6.tonosama.jp^
 ||plausible.tonpoo.org^
 ||tonsilyearling.com^
+||tonsofdirt.com^
 ||analytics.tonstudio-classic-recordings.de^
 ||tontrinevengre.com^
 ||analytics.tonwerte.net^
@@ -141610,6 +141605,7 @@
 ||urwb.ru^
 ||uryle.ru^
 ||adidas-neo.us.com^
+||air-jordan.us.com^
 ||cheap-jordanshoes.us.com^
 ||cheap-mlbjerseys.us.com^
 ||cheapnfljerseysstore.us.com^
@@ -141632,6 +141628,7 @@
 ||mbtoutlet.us.com^
 ||mbtshoescheap.us.com^
 ||michaelkorsoutlets.us.com^
+||newbalance-outlet.us.com^
 ||newenglandpatriotsjerseys.us.com^
 ||nikeshoesoutlet.us.com^
 ||offwhites.us.com^
@@ -148145,6 +148142,7 @@
 ||analytics.wifi4games.com^
 ||analytics.wifins.com^
 ||wifiprotector.com^
+||wifisworking.com^
 ||wifizone.org^
 ||wifly.net^
 ||wigetmedia.com^
@@ -150949,6 +150947,7 @@
 ||xn--raw-yi4b3nx003ao4i.com^
 ||xn--screnshot-iib.net^
 ||analytics.xn--shopkche-b6a.de^
+||xn--sssy7vrppusjyv0a.com^
 ||xn--swt207gl1hzc.net^
 ||a8clk.xn--t8jx01hmvbgye566gd1f.com^
 ||analytics.xn--ttc-mnster-eeb.de^
@@ -154708,5 +154707,3 @@
 ||zzzkd.com^
 ||zzznews.ru^
 ||metric.zzzquil.com^
-||xy.fbcdn.net^
-||xz.fbcdn.net^
