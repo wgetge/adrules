@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Normal Blocklist
 ! Description: Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2024-07-06T05:10:27.987Z
+! Last modified: 2024-07-06T11:09:00.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 06 Jul 2024 01:32 UTC
-! Version: 2024.0706.0132.31
+! Last modified: 06 Jul 2024 08:39 UTC
+! Version: 2024.0706.0839.56
 ! Syntax: AdBlock
-! Number of entries: 138144
+! Number of entries: 138136
 !
 ||0-02.net^
 ||0008d6ba2e.com^
@@ -2252,6 +2252,7 @@
 ||analytics.45.ru^
 ||t.451.io^
 ||452tapgn.de^
+||453130fa9e.com^
 ||4567.org^
 ||459bfb9e58.com^
 ||45ba1be349.com^
@@ -3019,7 +3020,6 @@
 ||688de7b3822de.com^
 ||ak9.6895588.com^
 ||689c5de254.com^
-||68a9i9w.com^
 ||68amt53h.de^
 ||68aq8q352.com^
 ||68d6b65e65.com^
@@ -7020,7 +7020,6 @@
 ||vadt.adsafeprotected.com^
 ||vafw.adsafeprotected.com^
 ||vans.adsafeprotected.com^
-||vapixel.adsafeprotected.com^
 ||vast.adsafeprotected.com^
 ||vastpixel3.adsafeprotected.com^
 ||vavideo.adsafeprotected.com^
@@ -10678,7 +10677,6 @@
 ||amarantinefarms.com^
 ||amarceusan.com^
 ||amare.agency^
-||amareklamizm.gq^
 ||amareklamizm.ml^
 ||amarfa.ir^
 ||amari-ama.com^
@@ -34798,6 +34796,7 @@
 ||yrszy.com.cn^
 ||yw800.com.cn^
 ||metric.zalora.com.my^
+||track.zapimoveis.com.br^
 ||zapmeta.com.pl^
 ||om.zdnet.com.au^
 ||1.zhev.com.cn^
@@ -39241,6 +39240,7 @@
 ||insights.decathlon.net^
 ||ixrzwf.decathlon.be^
 ||spoluhraci.decathlon.cz^
+||insights.v3.decathlon.net^
 ||images.decaturish.com^
 ||decaytreacherous.com^
 ||decbusi.com^
@@ -52056,6 +52056,7 @@
 ||februaryexclusion.com^
 ||februaryinjectionproudly.com^
 ||februarynip.com^
+||febtzd.xyz^
 ||fecebook.com^
 ||finley.fecinc.com^
 ||fedapush.net^
@@ -55185,7 +55186,6 @@
 ||frj635.com^
 ||frjelsoieapoas.shop^
 ||frmsafe.com^
-||frobbseener.site^
 ||frockswatpelt.com^
 ||frocogue.store^
 ||frodx.com^
@@ -57520,6 +57520,7 @@
 ||ggttbe961.shop^
 ||ggttmu853.shop^
 ||ggwcash.com^
+||ggwifobvx.com^
 ||test.open.ggwpacademy.com^
 ||ggxcoez.com^
 ||ggxt.net^
@@ -60069,7 +60070,6 @@
 ||groovyornament.com^
 ||gropecemetery.com^
 ||gropefore.com^
-||gropvis.online^
 ||grortalt.xyz^
 ||analytics.grosse-poren-verfeinern-verkleinern.de^
 ||grossedoicks.com^
@@ -60330,6 +60330,7 @@
 ||gsuxyg.xyz^
 ||gswtol.com^
 ||gsxbxvd.cn^
+||gsywcc.xyz^
 ||gszetzdm.xyz^
 ||gt5tiybvn.com^
 ||gta5hack.com^
@@ -62215,7 +62216,6 @@
 ||hemineedunks.com^
 ||hemisphereilliterate.com^
 ||smetrics.hemlibra.com^
-||hemmoneschee.site^
 ||hemnes.win^
 ||hemtatch.net^
 ||sstats.hemtex.com^
@@ -64503,7 +64503,6 @@
 ||smetrics.huffingtonpost.es^
 ||sli.huffpost.com^
 ||huffson-delivery.com^
-||huge-gay-cock.com^
 ||hugedi.com^
 ||hugelyantony.com^
 ||hugelyimmovable.com^
@@ -68065,7 +68064,6 @@
 ||cdn.investingchannel.com^
 ||icapp-cdn.investingchannel.com^
 ||investingops.com^
-||investinyta.com^
 ||ad.investmap.pl^
 ||metrics.investmentnews.com^
 ||smetrics.investmentnews.com^
@@ -69370,6 +69368,7 @@
 ||tr.ipsos-surveys.com^
 ||ipsowrite.com^
 ||iptautup.com^
+||iptuy.cn^
 ||iptvcolombia.com^
 ||track.ipurewell.com^
 ||ipuss.tv^
@@ -74788,6 +74787,7 @@
 ||kyemwo.xyz^
 ||analytics.kyero.com^
 ||kygftx.xyz^
+||kyislod.top^
 ||adserver.day.kyiv.ua^
 ||collector.kyivstar.ua^
 ||kyjhuflgtl.xyz^
@@ -76836,6 +76836,7 @@
 ||analytics.liiv.solutions^
 ||liivecams.com^
 ||lijit.com^
+||lijlrz.xyz^
 ||stats.lik.fr^
 ||button.like.co^
 ||like-baloon-leaf.com^
@@ -84198,7 +84199,6 @@
 ||uifesg.modulor.de^
 ||bear.modulr.design^
 ||moe.video^
-||moead.xyz^
 ||js.moeamv.com^
 ||analytics.moebel-koehler.de^
 ||cvtspo.moebel24.de^
@@ -88512,7 +88512,6 @@
 ||news-rojaxa.com^
 ||analytics.news-sap.com^
 ||news-site1.xyz^
-||news-spot.live^
 ||bxumze.news-star.com^
 ||news-surgut.ru^
 ||news-tamumu.cc^
@@ -91675,6 +91674,7 @@
 ||olevole.ru^
 ||metrics.olgaintimates.com^
 ||smetrics.olgaintimates.com^
+||olgcpwc.icu^
 ||olgknseruf.com^
 ||olibes.com^
 ||a8.olightstore.jp^
@@ -92226,7 +92226,6 @@
 ||onlinefinanceworld.com^
 ||onlinefinans.site^
 ||onlineflix.pl^
-||onlinegiris-reklamm-vakifbank-web.cf^
 ||cgicounter.onlinehome.de^
 ||analytics.onlinemarketingtechs.com^
 ||onlinepieniadze.site^
@@ -95761,7 +95760,6 @@
 ||cdn-cf-staging.permutive.com^
 ||matomo.pernod-ricard.io^
 ||peroiramus.me^
-||perousiithy.site^
 ||perperarenail.com^
 ||perpetrateabsolute.com^
 ||perpetratejewels.com^
@@ -97069,7 +97067,6 @@
 ||platesnervous.com^
 ||platesworked.com^
 ||platform-hetcash.com^
-||platform-onlinereklam-vakif-com.tk^
 ||e2.platform88798.com^
 ||platformallowingcame.com^
 ||platformcoop.net^
@@ -103807,7 +103804,6 @@
 ||rekipion.com^
 ||rekl1.com^
 ||ad.reklam.xyz^
-||reklam-bimcell.tk^
 ||r.reklam1.com^
 ||r.reklam2.com^
 ||r.reklam3.com^
@@ -111208,7 +111204,6 @@
 ||sinuatemedia.com^
 ||sinwebads.com^
 ||sioccu.com^
-||sioond.site^
 ||axp.siouxlandproud.com^
 ||sipibowartern.com^
 ||sippansy.com^
@@ -121481,7 +121476,6 @@
 ||zjzste.tom-tailor.de^
 ||tomadamsenergy.com^
 ||web.web.tomasiauto.com^
-||tomasubiera.com^
 ||tomaszrabinski.pl^
 ||tomatoartschool.com^
 ||tomatoescampusslumber.com^
@@ -125137,7 +125131,6 @@
 ||umtrack.com^
 ||umtudo.com^
 ||umuotov.com^
-||forms.umusic-online.com^
 ||us.umusic-online.com^
 ||umusjdiehxbn.com^
 ||analytics.umwebops.org^
@@ -129768,7 +129761,6 @@
 ||ads.vsi4kibri4ki.com^
 ||v.vsimasd.pw^
 ||vsk522.com^
-||vskfeduxg.xyz^
 ||vsl-history.be^
 ||vsmokhklbw.com^
 ||vsnoon.com^
