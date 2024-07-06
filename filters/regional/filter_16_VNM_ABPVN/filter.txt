@@ -2,7 +2,7 @@
 ! Title: VNM: ABPVN List
 ! Description: List for blocking ads on Vietnamese websites
 ! Homepage: http://abpvn.com/
-! Last modified: 2024-06-30T16:12:34.855Z
+! Last modified: 2024-07-06T17:08:27.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17732,6 +17732,7 @@
 0.0.0.0 outwoodeuropa.com
 0.0.0.0 ovariesutopia.com
 0.0.0.0 overcomeobduratestandstill.com
+0.0.0.0 overcrowdsillyturret.com
 0.0.0.0 overdonereciprocalimpure.com
 0.0.0.0 overlettolt.com
 0.0.0.0 overlivestrongergruel.com
@@ -18555,6 +18556,7 @@
 0.0.0.0 rutpunishsnitch.com
 0.0.0.0 ruwertur.com
 0.0.0.0 ruwjkygaxo.com
+0.0.0.0 ruwoxglzab.com
 0.0.0.0 ruzwraxcugta.com
 0.0.0.0 rvrpushserv.com
 0.0.0.0 rweqklxctunjy.com
