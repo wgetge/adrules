@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1720527594407
+			"timeUpdated": 1720548820710
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1720545066987
+			"timeUpdated": 1720548854169
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -767,7 +767,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware",
 			"timeAdded": 1681400345355,
-			"timeUpdated": 1720537863642
+			"timeUpdated": 1720548857344
 		},
 		{
 			"filterId": "hagezi_threat_intelligence_feeds",
