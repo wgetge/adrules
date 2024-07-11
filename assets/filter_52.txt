@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass
 ! Description: Prevent methods to bypass your DNS, blocks encrypted DNS, VPN, TOR, Proxies. Prevention of bypassing is not guaranteed.
 ! Homepage: https://github.com/hagezi/dns-blocklists#bypass
-! Last modified: 2024-07-10T04:14:43.436Z
+! Last modified: 2024-07-11T04:14:26.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -17,10 +17,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 09 Jul 2024 22:32 UTC
-! Version: 2024.0709.2232.14
+! Last modified: 10 Jul 2024 22:27 UTC
+! Version: 2024.0710.2227.38
 ! Syntax: AdBlock
-! Number of entries: 3100
+! Number of entries: 3102
 !
 ||ns.00dani.me^
 ||cdn.0ms.dev^
@@ -830,6 +830,7 @@
 ||vpschito.duckdns.org^
 ||dukun.de^
 ||dutchproxy.nl^
+||dns.dyn1.de^
 ||ueni.dyndns.org^
 ||gustamadh.dynv6.net^
 ||vpn.dzarlax.dev^
@@ -2498,6 +2499,7 @@
 ||tx.teradns.org^
 ||uk.teradns.org^
 ||dns.tesem.dog^
+||cloud.tezoi.com^
 ||thankvpn.com^
 ||the-cloak.com^
 ||thebestproxy.info^
