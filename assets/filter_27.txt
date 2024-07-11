@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-11T00:47:12.837Z
+! Last modified: 2024-07-11T03:13:44.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407110007
+! Version: 202407110307
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 182298
-! Last modified: 2024-07-11T00:07:22+0000
+! Entries: 182296
+! Last modified: 2024-07-11T03:07:09+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -21936,7 +21936,6 @@
 ||ataxiasfaulds.shop^
 ||atbdkmt.xyz^
 ||atbells576.square.site^
-||atbif.cn^
 ||atbottacademy.in^
 ||atcco-sa.com^
 ||atcelebitor.com^
@@ -47914,7 +47913,6 @@
 ||damrt.fr^
 ||damselfly.clk.click^
 ||damselfly.vegenook.com^
-||damu.trade5gateway.com^
 ||damurge.baby^
 ||dan-evepuppylove.com^
 ||dan.bitupes.xyz^
@@ -93821,6 +93819,7 @@
 ||lampguitardailyes.pro^
 ||lampka-serwisy.com^
 ||lamplightbackwardflightes.pro^
+||lamplighters.store^
 ||lamplow.com^
 ||lamplynx.com^
 ||lampofandas.pro^
@@ -114947,6 +114946,7 @@
 ||nwamu.mooo.com^
 ||nwaou.rosslynleather.com^
 ||nwejuljibczi.com^
+||nwemnd.com^
 ||nweow8.mariostrategy.my.id^
 ||nwhoxwpuj6.com^
 ||nwmnd.com^
@@ -149364,7 +149364,6 @@
 ||ss.gerenjianli.com^
 ||ss.knet.cn^
 ||ss.musthird.com^
-||ss.nwemnd.com^
 ||ss.sonshiplevesel.com^
 ||ss.ting55.com^
 ||ss.tiscali.it^
@@ -176800,7 +176799,6 @@
 ||wzdq.cn^
 ||wzdzht7am5.com^
 ||wzefi.duckdns.org^
-||wzglad-396690-raport.info03.pl^
 ||wzjijia.com^
 ||wzjs.cdn.bcebos.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -177308,6 +177306,7 @@
 ||xiazai2.net^
 ||xiazailou.co^
 ||xiazhai.tuizhong.com^
+||xiba.richquickcart.com^
 ||xibanyaliuxue365.com^
 ||xibao100.com^
 ||xibfnb.xyz^
@@ -181675,7 +181674,6 @@
 ||znajdzdowod.click^
 ||znajdziemyodnajdzmy.rest^
 ||znajdziemyone.homes^
-||znajdziemytajemnica.homes^
 ||znajdziemytelewizyjne.rest^
 ||znajdzswojfilm.pl^
 ||znaknaniebie.click^
