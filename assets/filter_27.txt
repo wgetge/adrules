@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-12T09:11:49.095Z
+! Last modified: 2024-07-12T12:19:32.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407120907
+! Version: 202407121207
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 182881
-! Last modified: 2024-07-12T09:07:44+0000
+! Entries: 182912
+! Last modified: 2024-07-12T12:07:27+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -993,6 +993,7 @@
 ||13.sub-75-198-89.myvzw.com^
 ||130.red-88-30-9.staticip.rima-tde.net^
 ||130.sub-70-222-227.myvzw.com^
+||130724.com^
 ||1307777787-7caouzfrdq-bj.scf.tencentcs.com^
 ||130gelh8q.de^
 ||131.sub-75-249-142.myvzw.com^
@@ -6925,7 +6926,6 @@
 ||aatradersllc.com^
 ||aaucwbe.com^
 ||aauhjgmnb2.pages.dev^
-||aaui.infoprog.xyz^
 ||aaukqiooaseseuke.org^
 ||aavc.com^
 ||aavelocker.com^
@@ -14909,6 +14909,7 @@
 ||alebebbmail.com^
 ||alebilet-1-bc49e8.ingress-erytho.ewp.live^
 ||alebilet.com^
+||alebilet.id677.pl^
 ||alebilet.info^
 ||alebilet.pl-oferta4303620.shop^
 ||alebradazan.com^
@@ -26685,7 +26686,6 @@
 ||beansarcasm.com^
 ||beanscoin.com^
 ||beap-bc.yahoo.com^
-||beapetallergyhelpone.live^
 ||beaprepaidphoneok.live^
 ||bear-preservative.webnode.co.uk^
 ||bear.builtbyborda.com^
@@ -32262,6 +32262,7 @@
 ||brealtime.com^
 ||breamn.com^
 ||breastactivesdigest.com^
+||breastandbel.com^
 ||breastaugmentationsite.com^
 ||breastfeedingdelightedtease.com^
 ||breastfeedingminutepond.com^
@@ -52905,6 +52906,7 @@
 ||dlive.pagesjaunes.fr^
 ||dljnq.yt^
 ||dljobflow.info^
+||dljobwave.info^
 ||dlkjgjmy.com^
 ||dlksn.yt^
 ||dll-files-fixer.com^
@@ -57081,6 +57083,7 @@
 ||econnectco.com^
 ||econobriefing.online^
 ||econocom-france.fr^
+||economic-day.mediareard.com^
 ||economic-news.co^
 ||economicalerts.com^
 ||economicecholine.online^
@@ -57364,6 +57367,7 @@
 ||educationalapricot.com^
 ||educationalroot.com^
 ||educationcharter.net^
+||educationedcomparisoned.pro^
 ||educationflair.com^
 ||educationforyouclub.com^
 ||educationgk.com^
@@ -58704,6 +58708,7 @@
 ||emonitoring-pocztac.cyou^
 ||emonitoring-pocztal.cyou^
 ||emonitoring-pocztapl.cyou^
+||emonitoring-poczwjpl.cyou^
 ||emonitoring-polska.top^
 ||emonitoring.aposte.buzz^
 ||emonitoring.aposte.top^
@@ -64949,7 +64954,6 @@
 ||fin.ovh^
 ||fin.progofficialit.top^
 ||fin.tips^
-||fin.usxs.top^
 ||final-technology.com^
 ||finalblip.live^
 ||finalblogger.com^
@@ -65050,6 +65054,7 @@
 ||finansowanie-podobroty.pl^
 ||finansowaniepoland.online^
 ||finansoweigraszki.net^
+||finanspapier.com^
 ||finansypolska.online^
 ||finantiaes.com^
 ||finantous.com^
@@ -69143,6 +69148,7 @@
 ||g6fitness.com^
 ||g6nx2.shop^
 ||g6raq2ms602g.top^
+||g6sfsc.cfd^
 ||g6tk.com^
 ||g7-chauffeur.fr^
 ||g7-france.fr^
@@ -79241,6 +79247,7 @@
 ||holonpbi.net^
 ||holooly.net^
 ||holspostcardhat.com^
+||holstertear.store^
 ||holstinin.com^
 ||holternet.de^
 ||holtoncrosshomes.com^
@@ -83883,6 +83890,7 @@
 ||indonesiavolcano.com^
 ||indooritalian.com^
 ||indoorsarmory.net^
+||indoorsha.com^
 ||indoredigitalinstitute.com^
 ||indoreefs.com^
 ||indorpboxi.com^
@@ -84674,6 +84682,7 @@
 ||inpos8.club^
 ||inposa.xyz^
 ||inposac.com^
+||inposdht.buzz^
 ||inposetple.top^
 ||inposetplf.life^
 ||inposetplq.life^
@@ -85052,6 +85061,7 @@
 ||inposts.club^
 ||inposts.digital^
 ||inposts.lol^
+||inposts.me^
 ||inposts.quest^
 ||inposts.sbs^
 ||inpostsaa.top^
@@ -91401,6 +91411,7 @@
 ||kidmake.com^
 ||kidmanual.net^
 ||kidnapdilemma.com^
+||kidochukwu.com^
 ||kids-in-sandbox.com^
 ||kids-space.ru^
 ||kids.nt.am^
@@ -94811,6 +94822,7 @@
 ||laviago.com^
 ||lavicor.com.ar^
 ||laviestmouvais.com^
+||lavillamedusa.com^
 ||lavina.us^
 ||lavishnessoverboard.com^
 ||lavisterstore.xyz^
@@ -97506,6 +97518,7 @@
 ||lmwmm.com^
 ||lmxiqf.icu^
 ||lmzme.ritual-construction-kit.com^
+||ln-post-24.one^
 ||ln.ac.th^
 ||ln.is^
 ||ln.run^
@@ -100571,6 +100584,7 @@
 ||m3.net^
 ||m3.wtf^
 ||m32.media^
+||m3acig.sbs^
 ||m3global.io^
 ||m3lev-pl-com-versi0n5876t8xzmaiu28kaskgab84av2jb.pages.dev^
 ||m3lmtk.com^
@@ -100583,9 +100597,11 @@
 ||m4thslot.com^
 ||m4x8ndwhed9.com^
 ||m5.66077.cn^
+||m5wetv.sbs^
 ||m6500.top^
 ||m65ln.com^
 ||m6690.top^
+||m6jhol.sbs^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m6r.eu^
 ||m73lae5cpmgrv38.com^
@@ -100594,6 +100610,7 @@
 ||m7diode.com^
 ||m7dqah.hbg.hebdenbridgedental.co.uk^
 ||m7kq9r.jik.thetreecentre.com^
+||m7md-zeid.com^
 ||m7mype.cmbtn.combertonplaygroup.co.uk^
 ||m81jmqmn.ru^
 ||m88.com^
@@ -104349,6 +104366,7 @@
 ||mentalincomprehensiblealien.com^
 ||mentallycare.com^
 ||mentallyissue.com^
+||mentalne-zwyciestwo.com^
 ||mentalpowerbase.de^
 ||mentaltreatmentace.com^
 ||mentalwellbeing.xyz^
@@ -107734,6 +107752,7 @@
 ||monialun.letycjamia.pl^
 ||monicagranitesandmarbles.com^
 ||monicakids.com^
+||monicuper.site^
 ||monidopo.bee.pl^
 ||monikastogowska.pl^
 ||monikawein.de^
@@ -110502,6 +110521,7 @@
 ||n7pusher.com^
 ||n85853.cn^
 ||n85x1f.angell.vantagetennis.com^
+||n8llnd.sbs^
 ||n9qyb.csb.app^
 ||n9s74npl.de^
 ||n9shteam2.top^
@@ -113261,6 +113281,7 @@
 ||nezygmobha.com^
 ||nf-e.pro^
 ||nf1nknlw.mateforevents.com^
+||nf2wim.cfd^
 ||nfa.jd.com^
 ||nfaagro.com^
 ||nfarm.org^
@@ -114914,6 +114935,7 @@
 ||noworriesbz.com^
 ||nowoscilipca.com^
 ||nowosciswiatowe.click^
+||nowosciwlipcu.com^
 ||nowoscwiadomosc.click^
 ||nowpestcontrol.com^
 ||nowpresi.duckdns.org^
@@ -115638,6 +115660,7 @@
 ||o-cean-fortune.biz^
 ||o-cean-fortune.com^
 ||o-drugs.com^
+||o-lx.8052364.xyz^
 ||o-oo.ooo^
 ||o.027eat.com^
 ||o.go2yd.com^
@@ -127114,6 +127137,7 @@
 ||porusuifiu.info^
 ||porvootransitioncare.com^
 ||porwani.you2.pl^
+||porwapp.com^
 ||porywtworczy.click^
 ||porz.bosd.online^
 ||pos-kupang.com^
@@ -130552,6 +130576,7 @@
 ||pub-a577515d72a645ff8d5dfe7a41395536.r2.dev^
 ||pub-a61402240e084b22a6793d1e7f992623.r2.dev^
 ||pub-a743116c8e2c4e96a84b80074d5b01c1.r2.dev^
+||pub-a77c4e61473d4261894cb4327dfe6c52.r2.dev^
 ||pub-a7aa109e9db04b97ba2fc89747a05209.r2.dev^
 ||pub-a96228e0527c4d0483187c45bd05c483.r2.dev^
 ||pub-aab7835b1dcb49c096247b818ca97402.r2.dev^
@@ -157977,6 +158002,7 @@
 ||theimmediate-genesis.com^
 ||theimmediate-momentum.com^
 ||theimmediatecoraldex.com^
+||theimmediateursa.com^
 ||theimmediatex.com^
 ||theimmortaldynasty.com^
 ||theimporex.com^
@@ -159948,6 +159974,7 @@
 ||todogfooddealsusasok.live^
 ||todoke.org^
 ||todolize.com^
+||todopelos.site^
 ||todotrafo.com.ar^
 ||todownload.com^
 ||todtview.com^
@@ -163448,6 +163475,7 @@
 ||trungtamgarena.com^
 ||trungtamnguyenkim.com.vn^
 ||trunkplay.com^
+||trunksescomparisoned.pro^
 ||trunksingtangentes.pro^
 ||truns.formsok.xyz^
 ||truoctran.com^
@@ -171833,6 +171861,7 @@
 ||vwegihahkos.com^
 ||vwff.fr^
 ||vwfppr.xyz^
+||vwgp.amog.skin^
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
 ||vwmjkl.icu^
@@ -173641,6 +173670,7 @@
 ||weidenerkammerchor.de^
 ||weidianyuedu.com^
 ||weighertutania.com^
+||weightedpremiereing.pro^
 ||weightfeathersoffhand.com^
 ||weightgroup.com^
 ||weightingpremiereed.pro^
@@ -181432,6 +181462,7 @@
 ||zaulaips.com^
 ||zauroczonyprzezyciami.click^
 ||zauroczonyzyciem.click^
+||zauropodsmile.space^
 ||zauthuvy.com^
 ||zavariushoponline.com^
 ||zavexelaz.live^
