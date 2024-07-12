@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-12T00:46:12.287Z
+! Last modified: 2024-07-12T03:12:15.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407120007
+! Version: 202407120307
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 182767
-! Last modified: 2024-07-12T00:07:14+0000
+! Entries: 182768
+! Last modified: 2024-07-12T03:07:09+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -65650,6 +65650,7 @@
 ||fjs-fra.de^
 ||fjshxzyyxgs.cn^
 ||fjuldivid.info^
+||fjulwhale.info^
 ||fjxgbplqiuatbzo-dot-charming-sky-2700.appspot.com^
 ||fjxstt.xyz^
 ||fjxyo.com^
@@ -117237,6 +117238,7 @@
 ||olx.hit.gemius.pl^
 ||olx.id647821647841.pl^
 ||olx.ink^
+||olx.jxtploij.shop^
 ||olx.market-following.pw^
 ||olx.mastra.top^
 ||olx.mirror-left.pw^
@@ -173508,7 +173510,6 @@
 ||wegastroky.com^
 ||wegetpaid.net^
 ||wegoatit.com^
-||wegotakedistime.ru^
 ||wegotmedia.com^
 ||wegovyfrance.fr^
 ||wegowan.com^
