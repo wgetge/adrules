@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-12T12:19:46.592Z
+! Last modified: 2024-07-12T15:10:48.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407121207
+! Version: 202407121507
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
 ! Entries: 45902
-! Last modified: 2024-07-12T12:07:35+0000
+! Last modified: 2024-07-12T15:07:51+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
