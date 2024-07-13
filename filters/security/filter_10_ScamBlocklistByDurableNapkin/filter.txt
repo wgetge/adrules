@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2024-07-12T05:10:48.208Z
+! Last modified: 2024-07-13T05:10:40.974Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -47,7 +47,6 @@
 ||anydebrid.com^
 ||anywherepastry.top^
 ||app.jameswoof.com^
-||apsehick.date^
 ||arduino.uk.eu.org^
 ||army-shop.onshopbase.com^
 ||arnoldgloverruss58.myshopify.com^
@@ -73,7 +72,7 @@
 ||balticpipe.wordpress.com^
 ||baroconcept.com^
 ||bcb.game^
-||bcm8.shop^
+||beacon.apsehick.date^
 ||beaswan.com^
 ||beautysolution24.com^
 ||beecrave.com^
@@ -156,6 +155,7 @@
 ||chikepod.com^
 ||chipcy.com^
 ||chipteeamz.com^
+||cinela.us^
 ||cipustar.com^
 ||cition.info^
 ||cityofdream.co.uk^
@@ -223,6 +223,7 @@
 ||dogparadisestore.com^
 ||dolomiteoutlet.com^
 ||dolystore.com^
+||dompetaman.live^
 ||dopestore.pl^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -304,6 +305,7 @@
 ||free.nf^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
+||freedomgift50.com^
 ||freegiftscards.shop^
 ||frest.info^
 ||friday89.com^
@@ -428,6 +430,7 @@
 ||librilibs.com^
 ||lifestyletrading.co.za^
 ||lifewonderland.com^
+||ligerking.com^
 ||likenu.se^
 ||limitalfresco.com^
 ||linkshe.com^
@@ -467,6 +470,7 @@
 ||mila-vica.de^
 ||miles.plumenetwork.xyz^
 ||milgenial.uy^
+||miningco.site^
 ||miucart.com^
 ||mizunsports.com^
 ||moddetail.com^
@@ -488,6 +492,7 @@
 ||nalzahqp.page.link^
 ||natilove.com^
 ||nationaladvancegroup.com^
+||natistore.us^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
@@ -509,13 +514,13 @@
 ||navi32.com^
 ||navi33.com^
 ||navi35.com^
+||navi35.ru^
 ||navi36.ru^
 ||navi38.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -566,6 +571,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip33.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -600,7 +606,6 @@
 ||oldcube.com^
 ||olymptrade-qid.com^
 ||olymptrade.com^
-||oncloudrun.shop^
 ||online-binomo.com^
 ||onlineadid.com^
 ||onlinehome.us^
@@ -697,6 +702,7 @@
 ||shoeaddic.com^
 ||shop.spreadshirt.com^
 ||shopee1666.com^
+||shopperexpress.shop^
 ||shopraidlight.com^
 ||shopsyracuseonline.com^
 ||shoptcuhornedonline.com^
@@ -711,7 +717,6 @@
 ||sligen.com^
 ||smartokids.com^
 ||smartpower4all.org^
-||smartpurchase.website^
 ||snaklenest.com^
 ||snowroxy.com^
 ||sodipi.com^
@@ -751,7 +756,6 @@
 ||sugarandpearl.com^
 ||suitablepartner.life^
 ||supercutestuff.com^
-||superofferte.shop^
 ||supperbrand.company.site^
 ||supreme-adblocker.net^
 ||survivalcatsupply.com^
@@ -768,7 +772,6 @@
 ||tecappcloud.com^
 ||tee24h.com^
 ||teearrow.com^
-||teeboss.us^
 ||teemax.store^
 ||teenimo.com^
 ||teevpower.com^
@@ -782,7 +785,6 @@
 ||thehardcorehabits.com^
 ||thekeilas.com^
 ||themountainus.com^
-||themountainwarehouse.com^
 ||theniemannbest.com^
 ||theonepercentcommunity.com^
 ||theoutdoorsgear.com^
@@ -848,6 +850,7 @@
 ||walkinshoe.com^
 ||watchmark.shop^
 ||wavetshirt.com^
+||wealthsimple.login1-id.com^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^
