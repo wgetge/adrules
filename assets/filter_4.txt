@@ -2,7 +2,7 @@
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2024-07-01T23:10:39.856Z
+! Last modified: 2024-07-14T20:10:23.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1940,7 +1940,6 @@
 0.0.0.0 etdeposit-interac.com
 0.0.0.0 etransfer-23799.com
 0.0.0.0 etribunaldunet.fr
-0.0.0.0 eu2.contabostorage.com
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
 0.0.0.0 eurospoprt.fr
