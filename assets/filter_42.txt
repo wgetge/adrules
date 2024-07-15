@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-15T18:14:11.535Z
+! Last modified: 2024-07-15T19:09:44.562Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 46,011
-# Updated: 7/15/2024  12:53 (12:53 PM CST)
+# Domains: 46,014
+# Updated: 7/15/2024  13:19 (1:19 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -9524,6 +9524,7 @@
 ||convertpdftoword.co^
 ||convertrz-search.com^
 ||convert-search.com^
+||convertwithwave.com^
 ||convertyourfiletab.com^
 ||conveysunflower.com^
 ||convictedshrill.com^
@@ -17457,6 +17458,7 @@
 ||getseavailan.xyz^
 ||getsecureapp1.com^
 ||getsecureapp3.com^
+||getsecurify.com^
 ||getsecuritysuite.com^
 ||getseekappz1.com^
 ||getseekappz2.com^
@@ -36943,6 +36945,7 @@
 ||securewebsiteaccess.com^
 ||secureyourdatabase.com^
 ||secure-your-home.com^
+||securifyguard.com^
 ||securifythis.com^
 ||security-advise.com^
 ||securitycheck.network^
