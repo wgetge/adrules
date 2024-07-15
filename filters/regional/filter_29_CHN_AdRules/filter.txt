@@ -2,7 +2,7 @@
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2024-07-15T00:49:53.326Z
+! Last modified: 2024-07-15T02:04:09.860Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,7 +16,7 @@
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
 ! Total count: 122428
-! Update: 2024-07-15 08:04:16(GMT+8)
+! Update: 2024-07-15 08:55:29(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
