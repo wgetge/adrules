@@ -2,7 +2,7 @@
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2024-07-15T02:04:09.860Z
+! Last modified: 2024-07-15T06:16:58.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -15,8 +15,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Total count: 122428
-! Update: 2024-07-15 08:55:29(GMT+8)
+! Total count: 122432
+! Update: 2024-07-15 13:20:55(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -3181,6 +3181,7 @@
 ||9tn.cc^
 ||9tp9jd4p.de^
 ||9tumza4dp4o9.com^
+||9uwe.papilliondairyqueen.com^
 ||9v58v.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
@@ -40261,7 +40262,6 @@
 ||fecerismasker.com^
 ||fedapush.net^
 ||fedassuagecompare.com^
-||feddiy.com^
 ||federal.external.xerox.com^
 ||federalcertainty.com^
 ||fedex-rescheduel-date.com^
@@ -51115,6 +51115,7 @@
 ||hyrankhit.meldingcloud.com^
 ||hyrcanquittor.com^
 ||hyrcycmtckbcpyf.xyz^
+||hyretuu.top^
 ||hyrewusha.pro^
 ||hysdknb.com^
 ||hysonsregrown.top^
@@ -55024,6 +55025,7 @@
 ||iteneanrhina.com^
 ||iterable.convoy.com^
 ||itespurrom.com^
+||iteyi.xyz^
 ||itfarm.com^
 ||itgiblean.com^
 ||itgiftcards.com^
@@ -55471,6 +55473,7 @@
 ||jarteerteen.com^
 ||jarvispopsu.com^
 ||jas.indeednps.com^
+||jasdz1.cn^
 ||jashautchord.com^
 ||jasheest.xyz^
 ||jaspercrozes.com^
@@ -71494,9 +71497,7 @@
 ||navi24.com^
 ||navi24.ru^
 ||navi25.ru^
-||navi28.ru^
 ||navi3.com^
-||navi3.ru^
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
@@ -86274,6 +86275,7 @@
 ||roaringcash.com^
 ||roastoup.com^
 ||roataisa.net^
+||robalmeister.workers.dev^
 ||robarfacebook.com^
 ||robartwitter.com^
 ||robazi.xyz^
@@ -108970,6 +108972,7 @@
 ||trending-video.com^
 ||trendingnewstv.com^
 ||trendingpatrol.com^
+||trendingpicker.com^
 ||trendingviralvids.info^
 ||trendmd.com^
 ||trendmouthsable.com^
@@ -119294,6 +119297,7 @@
 ||xmfhcmyznalbfi.com^
 ||xmgysweb.com^
 ||xmhgwmdjhul.com^
+||xmhszb.xyz^
 ||xmjajv.xyz^
 ||xmjnohwneqe.com^
 ||xmkbrfyu.cn^
