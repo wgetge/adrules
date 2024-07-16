@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-16T03:14:57.215Z
+! Last modified: 2024-07-16T16:12:28.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 46,016
-# Updated: 7/15/2024  22:13 (10:13 PM CST)
+# Domains: 46,026
+# Updated: 7/16/2024  11:08 (11:08 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3485,6 +3485,7 @@
 ||amon.su^
 ||amoraldesperateavailable.com^
 ||amorallibrarysmother.com^
+||amore-seitensprung.de^
 ||amorouslimitsbrought.com^
 ||amorousstableminister.com^
 ||amorphousankle.com^
@@ -4261,6 +4262,7 @@
 ||asiahure.com^
 ||asiandate.com^
 ||asianstreaming.com^
+||asiapervers.com^
 ||asia-porn.tv^
 ||asiascouts.eu^
 ||asiashow911.com^
@@ -5533,6 +5535,7 @@
 ||bentliarpomposity.com^
 ||bentonuncage.com^
 ||benumelan.com^
+||benutzerregistrierung.com^
 ||beonline.pw^
 ||beparaspr.com^
 ||bepityetheric.com^
@@ -12085,6 +12088,7 @@
 ||discretionrochesterowen.com^
 ||discretiontinge.com^
 ||discretionwhirlwind.com^
+||discretzone.eu^
 ||discriminationprovide.com^
 ||discussedfacultative.com^
 ||discussedirrelevant.com^
@@ -18798,6 +18802,7 @@
 ||handymanlipsballast.com^
 ||handymanprivately.com^
 ||handymansurrender.com^
+||handy-sprung.de^
 ||handy-tab.com^
 ||hangnailamplify.com^
 ||hangnailhasten.com^
@@ -34327,6 +34332,7 @@
 ||registercherryheadquarter.com^
 ||registerfilms1.shop^
 ||registerswoop.com^
+||registracije-korisnika.com^
 ||regretfactor.com^
 ||regretfulfaultsabound.com^
 ||regrettablemorallycommitment.com^
@@ -38571,6 +38577,7 @@
 ||spankalternate.com^
 ||spankdrearystroll.com^
 ||spankprecedeevent.com^
+||spannerbilder.de^
 ||spannercombined.com^
 ||spannercopyright.com^
 ||spanworker.com^
@@ -38587,6 +38594,7 @@
 ||sparrowfencingnumerous.com^
 ||spasibovam39.ru^
 ||spasmodictripscontemplate.com^
+||spass-zu-zweit.com^
 ||spatingaegina.com^
 ||spattepush.com^
 ||spatteramazeredundancy.com^
@@ -39182,6 +39190,7 @@
 ||steerseejoa.com^
 ||steessay.com^
 ||stefanload.club^
+||steffi4u.net^
 ||steghaiwhy.com^
 ||steinfqwe6782beck.com^
 ||stekraucmauk.com^
@@ -41364,6 +41373,7 @@
 ||toasterbutler.com^
 ||toastsoothetold.com^
 ||toateeli.net^
+||toavauwoaque.com^
 ||tobaccocentgames.com^
 ||tobaccosturgeon.com^
 ||tobaitsie.com^
