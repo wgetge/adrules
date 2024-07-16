@@ -2,7 +2,7 @@
 ! Title: Scam Blocklist by DurableNapkin
 ! Description: List for blocking untrustworthy websites
 ! Homepage: https://github.com/durablenapkin/scamblocklist
-! Last modified: 2024-07-15T05:11:13.446Z
+! Last modified: 2024-07-16T05:10:38.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -24,7 +24,6 @@
 ||5wzgtq8dpk.com^
 ||65spy7rgcu.com^
 ||93mobiles.com^
-||9uwe.papilliondairyqueen.com^
 ||9vyzdk8.lvditoys.com^
 ||9vzn29.98kk89.com^
 ||aadirone.cc^
@@ -33,6 +32,7 @@
 ||affordableforyouusa5.godaddysites.com^
 ||ahenana.com^
 ||akebicycle.com^
+||aldi-life.vip^
 ||aliseshop.com^
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||allergyfl.com^
@@ -175,6 +175,7 @@
 ||com-id16313.info^
 ||com-id1800853.com^
 ||com-id23901.info^
+||com-id25106619.top^
 ||com-id334112.com^
 ||compoundexotics.com^
 ||cooeedesignshop.com^
@@ -223,7 +224,6 @@
 ||dogparadisestore.com^
 ||dolomiteoutlet.com^
 ||dolystore.com^
-||dompetaman.live^
 ||dopestore.pl^
 ||draxu.com^
 ||dreamgreenshoe.com^
@@ -462,6 +462,7 @@
 ||meaningift.com^
 ||megoindonesia.com^
 ||meminjamsaya.com^
+||mercyzone.com^
 ||metachartview.com^
 ||microgull.com^
 ||microngroup.pro^
@@ -515,7 +516,6 @@
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
-||navi38.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
@@ -533,6 +533,7 @@
 ||navi66.ru^
 ||navi67.com^
 ||navi67.ru^
+||navi69.ru^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
@@ -808,7 +809,6 @@
 ||tpqcywcx.page.link^
 ||trade-skins.net^
 ||treasurefan.com^
-||trendingpicker.com^
 ||trendsharks.com^
 ||treverschmelerkris18.myshopify.com^
 ||tripinpremiumsnacks.com^
@@ -852,7 +852,6 @@
 ||walkinshoe.com^
 ||watchmark.shop^
 ||wavetshirt.com^
-||wealthsimple.login1-id.com^
 ||werfew.com^
 ||westernhats.net^
 ||wezpod.com^
