@@ -2,7 +2,7 @@
 ! Title: AWAvenue Ads Rule
 ! Description: Use Adblock syntax to fight against various advertising SDKs in Android applications from the network level , prevent them from loading.
 ! Homepage: https://awavenue.top/
-! Last modified: 2024-07-09T01:59:21.535Z
+! Last modified: 2024-07-17T06:14:49.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,7 +13,7 @@
 !Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 !版本号: 1.5.0-release-Patch
-!上次更新日期: 2024-07-09
+!上次更新日期: 2024-07-17
 
 !项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -440,6 +440,7 @@
 ||scs.openspeech.cn^
 ||sdk-ab-config.qquanquan.com^
 ||sdk-cache.video.ptqy.gitv.tv^
+||sdk.1rtb.net^
 ||sdk.cferw.com^
 ||sdk.e.qq.com^
 ||sdk.hzsanjiaomao.com^

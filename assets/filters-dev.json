@@ -14,7 +14,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
 			"sourceUrl": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
 			"timeAdded": 1404115015843,
-			"timeUpdated": 1721177247581
+			"timeUpdated": 1721196876292
 		},
 		{
 			"filterId": "1hosts_lite",
@@ -190,7 +190,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
 			"timeAdded": 1699370433972,
-			"timeUpdated": 1720490361536
+			"timeUpdated": 1721196889939
 		},
 		{
 			"filterId": "adguard_popup_filter",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1721193057533
+			"timeUpdated": 1721196905679
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
