@@ -2,7 +2,7 @@
 ! Title: Malicious URL Blocklist (URLHaus)
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
 ! Homepage: https://urlhaus.abuse.ch/
-! Last modified: 2024-07-17T00:47:57.427Z
+! Last modified: 2024-07-17T13:14:22.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 ! Source: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
 !
 ! Title: Malicious URL Blocklist (AdGuard Home)
-! Updated: 2024-07-17T00:09:53Z
+! Updated: 2024-07-17T12:09:31Z
 ! Expires: 1 day (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -44,6 +44,7 @@
 ||2mo.com^
 ||34.174.126.34.bc.googleusercontent.com^
 ||34.red-88-28-217.staticip.rima-tde.net^
+||360down7.miiyun.cn^
 ||45-142-212-183.cprapid.com^
 ||461digital.com^
 ||5-157-110-232.dyn.eolo.it^
@@ -152,6 +153,7 @@
 ||aosafrica.co.za^
 ||aosishome.one^
 ||api-ms.cobainaja.id^
+||api.52kkg.com^
 ||api.discreetshare.com^
 ||api.ewfiles.su^
 ||apibnng.servehttp.com^
@@ -247,6 +249,7 @@
 ||bishopberrian.com^
 ||bissecci.org^
 ||bitforje.com^
+||bitkiselurunsiparis.com^
 ||bitpie.lol^
 ||blackhattoolz.com^
 ||ble.pages.microcloud360.com^
@@ -425,7 +428,6 @@
 ||dcpanel.squezz.com^
 ||de.healthandwellnessblog.za.com^
 ||de.musicproduction.ru.com^
-||dead-cheap-doma.in^
 ||deadvogados.com^
 ||dealerpertamini.com^
 ||deauduafzgezzfgm.top^
@@ -560,16 +562,13 @@
 ||exilum.com^
 ||expersecure.com^
 ||extraiptv.giize.com^
-||ezz.ust.cx^
 ||f.123654987.xyz^
 ||f.alie3ksggg.com^
 ||factorylifes.net^
 ||facturas.duratex.com.mx^
 ||famesa.com.ar^
-||fanconom.shop^
 ||faturasgerada.s3.us-east-005.backblazeb2.com^
 ||fbmarket-place.info^
-||fbu.register.arpsychotherapy.com^
 ||fcelr.team.jessicabarrett.com^
 ||fdayv.fans.smalladventureguide.com^
 ||feckwear.com^
@@ -602,7 +601,6 @@
 ||flexiblemaria.com^
 ||flm2.vip^
 ||flowers4theworld.shop^
-||flowers4world.shop^
 ||fluggis.com^
 ||flyxz.top^
 ||fmxiz.sticky.oystergardening.name^
@@ -642,9 +640,7 @@
 ||getbot-com.pages.dev^
 ||ghuytyh45.duckdns.org^
 ||gifdemo.com^
-||giftsendercapital.com^
 ||gig.fastbutters.com^
-||gihibml.org^
 ||gjhfhgdg.insane.wang^
 ||gkw.glue.oystergardening.net^
 ||glo4.ink^
@@ -669,6 +665,7 @@
 ||hd.hdweb2.pw^
 ||hdqndkf.com^
 ||hdqwrd.vip^
+||heinltd.top^
 ||heko.ro^
 ||hellsday-client.shop^
 ||helpcenter.cyou^
@@ -807,7 +804,6 @@
 ||kartsiotis.net^
 ||kasjqsd.com^
 ||kathatours.com^
-||kayomirai.kro.kr^
 ||kdnewsindia.com^
 ||kdtx.pages.microcloud360.com^
 ||kebfuzeswiglet.sbs^
@@ -865,6 +861,7 @@
 ||lgdvg.parish.chuathuongxot.org^
 ||lgulr.team.jessicabarrett.com^
 ||lh.yjjxz.com^
+||library.arihantmbainstitute.ac.in^
 ||licocojambamarketplace.com^
 ||lifeartfertility.co.za^
 ||lindnerelektroanlagen.de^
@@ -962,10 +959,10 @@
 ||mizpuraciculukavcu.ba^
 ||mmaemojo.hopto.org^
 ||mnbgba.ac.ug^
+||mnqd.schedule.golfballnutz.com^
 ||mobiera.ro^
 ||monarambientes.com^
 ||mondaynoip.ddnsking.com^
-||moninediy.com^
 ||monkeybeta.com^
 ||monoblocked.com^
 ||moodle1.feja111.de^
@@ -1082,7 +1079,6 @@
 ||onesmartiptv.com^
 ||onlinemybook.blob.core.windows.net^
 ||opdal050.ru.com^
-||opolis.io^
 ||orderhalalfoods.com^
 ||originalconceptsinc.ru.com^
 ||orlandovargas.pro^
@@ -1097,7 +1093,6 @@
 ||p-lux1.pcloud.com^
 ||p3c0der.github.io^
 ||p784bb7f1.toymnt01.ap.so-net.ne.jp^
-||packetinfo.com^
 ||pagamento.afya.com.br^
 ||page.wedl3.com^
 ||paipaisdvzxc.ru^
@@ -1174,6 +1169,7 @@
 ||pvp-rivals.com^
 ||pvre.colo.oystergarden.net^
 ||pxp.location.oysterfloats.us^
+||qcollect.co.za^
 ||qeintechnologies.com^
 ||qeobm.pool.hjdeboer.com^
 ||qgf338jtt8tty7rx.myfritz.net^
@@ -1226,7 +1222,6 @@
 ||rjjewelpk.com^
 ||rockcreekdds.com^
 ||rolqo.parish.chuathuongxot.org^
-||roofing.galacticleads.com^
 ||rootme.xyz^
 ||rooty.cc^
 ||rosmetic.com^
@@ -1244,7 +1239,6 @@
 ||s77.san2.xyz^
 ||sa.columbrara.za.com^
 ||safeautomationbd.com^
-||sainzim.co.za^
 ||saitraif.ru^
 ||salamatbartar.com^
 ||samqwnxw.com^
@@ -1334,7 +1328,6 @@
 ||southstar.com.tw^
 ||sp-1300355179.cos.ap-shanghai.myqcloud.com^
 ||spaceframe.mobi.space-frame.co.za^
-||speedy34.myvnc.com^
 ||sportvision.app^
 ||spotslfy.com^
 ||springs-citation-house-congressional.trycloudflare.com^
@@ -1394,6 +1387,7 @@
 ||taxinhanhlongan.com^
 ||tcgervthytrec.space^
 ||tdecu.top^
+||techniguitare.com^
 ||techseasoning.com^
 ||tecni-soft.com^
 ||tejarat-gram.com^
@@ -1440,7 +1434,6 @@
 ||tomitakaengenharia.com.br^
 ||tongzhiz3.cn^
 ||topdoms.su^
-||topgamecheats.dev^
 ||topinoxsenegal.com^
 ||toptradingoption.com^
 ||totalhorsehealth.com^
@@ -1450,7 +1443,6 @@
 ||tpb.patent.international-med.com^
 ||tpu.schedule.golfballnutz.com^
 ||tracking-alert.org^
-||trailers24.eu^
 ||transfer.adttemp.com.br^
 ||travelwithmanta.co.za^
 ||triujbnkrjtuigtjgivg.com^
@@ -1478,8 +1470,6 @@
 ||unmmx.patent.international-med.com^
 ||uop.anesthetics.biomedzglobal.com^
 ||up-game.shop^
-||upd112.appspot.com^
-||upd5.pro^
 ||update.cg100iii.com^
 ||updates.ultimate-fakkers.co.network^
 ||updationoflionkingofjungle.duckdns.org^
@@ -1525,7 +1515,6 @@
 ||vip.manhquyen.xyz^
 ||vipvpn.mdii.xyz^
 ||vitrine.izaragency.com^
-||vivki.epiddserica.com^
 ||vjaqws.com^
 ||vjhdkfjddksdv.com^
 ||vjwmaster.duckdns.org^
@@ -1608,6 +1597,7 @@
 ||xn42553358.servegame.com^
 ||xn47552056.servegame.com^
 ||xod.anesthetics.biomedzglobal.com^
+||xss.ls^
 ||xtdp.pages.microcloud360.com^
 ||xwmf.glue.oystergardening.net^
 ||xysk5eeyj0j5n.xyz^
@@ -1617,7 +1607,6 @@
 ||y.shavsl.com^
 ||yahyacarpet.com^
 ||yarasports.com^
-||yawwacorp.uk^
 ||yayj.parish.chuathuongxot.org^
 ||yedva.register.arpsychotherapy.com^
 ||yff.parish.chuathuongxot.org^
