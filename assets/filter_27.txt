@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-18T00:46:23.412Z
+! Last modified: 2024-07-18T03:12:43.158Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407180007
+! Version: 202407180306
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 180713
-! Last modified: 2024-07-18T00:07:03+0000
+! Entries: 180715
+! Last modified: 2024-07-18T03:06:56+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -154998,6 +154998,7 @@
 ||telkom.online^
 ||tell.miltontech.com^
 ||tell.zarcahealth.com^
+||tellatruats.site^
 ||tellawahonline.com^
 ||tellegram.online^
 ||telligenc.rest^
@@ -171679,6 +171680,7 @@
 ||weldingpins.click^
 ||weldjet.com^
 ||weldon.fr^
+||weldscrub.sbs^
 ||weledying-jessed.com^
 ||welfarefit.com^
 ||welgro.com.au^
