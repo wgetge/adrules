@@ -2,7 +2,7 @@
 ! Title: CHN: anti-AD
 ! Description: List for blocking ads in the Chinese region. Aims at privacy protection.
 ! Homepage: https://anti-ad.net/
-! Last modified: 2024-07-18T04:13:41.229Z
+! Last modified: 2024-07-18T10:11:32.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,13 +11,13 @@
 ! Source: https://anti-ad.net/adguard.txt
 !
 !Title: anti-AD for AdGuard
-!Version: 20240718034517079045528
-!Last modified: Thu Jul 18 03:45:17 UTC 2024
-!Updated: 2024-07-18T03:45:17+00:00
+!Version: 20240718092854541373270
+!Last modified: Thu Jul 18 09:28:54 UTC 2024
+!Updated: 2024-07-18T09:28:54+00:00
 !Expires: 4 days
 !Homepage: https://anti-ad.net/
 !!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
-!Total lines: 99703
+!Total lines: 99708
 @@||ad.azure.com^
 @@||ads.taboola.com^
 @@||chart-embed.service.newrelic.com^
@@ -14581,6 +14581,9 @@
 ||boostog.net^
 ||share.boostorder.com^
 ||polhvf.bootbarn.com^
+||bootcdn.cn^
+||bootcdn.net^
+||bootcss.com^
 ||bootharchie.com^
 ||smetrics.boothehvac.com^
 ||bootstrap-framework.org^
@@ -80896,6 +80899,8 @@
 ||static-cnt.bid^
 ||static-sb.com^
 ||static-srv.com^
+||staticfile.net^
+||staticfile.org^
 ||px.staticfiles.at^
 ||staticiv.com^
 ||staticjs.cn^
