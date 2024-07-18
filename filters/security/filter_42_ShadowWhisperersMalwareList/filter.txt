@@ -2,7 +2,7 @@
 ! Title: ShadowWhisperer's Malware List
 ! Description: Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites
 ! Homepage: https://github.com/ShadowWhisperer/BlockLists
-! Last modified: 2024-07-18T16:12:48.417Z
+! Last modified: 2024-07-18T21:10:17.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -13,8 +13,8 @@
 #
 #    File: Malware
 #    Info: Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites
-# Domains: 46,064
-# Updated: 7/18/2024  11:05 (11:05 AM CST)
+# Domains: 46,069
+# Updated: 7/18/2024  15:30 (3:30 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1270,10 +1270,14 @@
 ||69c28fb7f4.com^
 ||69-cash.com^
 ||69cash.com^
+||69-cash.cz^
+||69-cash.eu^
+||69cash.eu^
 ||69cash-mobile.com^
 ||69cashmobile.com^
 ||69-cash.net^
 ||69cash.net^
+||69cash.pl^
 ||69ed4fcc9d.com^
 ||69luder.com^
 ||69trk.com^
@@ -37306,6 +37310,7 @@
 ||sexglrls.com^
 ||sexhoporn.uno^
 ||sex-kiss.com^
+||sexkontakt.mobi^
 ||sexkontakt-tip.de^
 ||sexkontakty.com^
 ||sexmaniack.com^

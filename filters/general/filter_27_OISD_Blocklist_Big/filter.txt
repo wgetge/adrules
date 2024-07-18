@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-18T18:14:17.175Z
+! Last modified: 2024-07-18T21:09:44.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407181807
+! Version: 202407182107
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 181061
-! Last modified: 2024-07-18T18:07:13+0000
+! Entries: 181082
+! Last modified: 2024-07-18T21:07:00+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -3365,6 +3365,7 @@
 ||4332.ws^
 ||4338705c.montagnolitransportes.com^
 ||435072835117215-dot-wetransfer-auth-file-343.appspot.com^
+||4354-nowicki-bogusz.stprl.pl^
 ||4354-pl.brizy.site^
 ||435thoms2007reunion.myteamtoolbar.com^
 ||4367f4a8a8d5520d4056cfa11e10e24d.movxt.pl^
@@ -15342,6 +15343,7 @@
 ||allegro.net^
 ||allegro.ochrona24-7.pl^
 ||allegro.oferta-premium24.pl^
+||allegro.oferta2183.pl^
 ||allegro.oferta247.pl^
 ||allegro.p24-v9ca71.pl^
 ||allegro.pl-9534.pl^
@@ -23647,6 +23649,7 @@
 ||b0nf1rebl1ss.xyz^
 ||b0oie4xjeb4ite.com^
 ||b0omr3wn6u4b.com^
+||b0opf0gpwd2ilm0dl50bm1sdwqg9noe1ebq24lj6bmidx.erwinolenjs.eu^
 ||b1-data.ads.heytapmobi.com^
 ||b1.alo.bg^
 ||b1.b2b168.com^
@@ -25824,6 +25827,7 @@
 ||basketballphantom.com^
 ||basketballroom.com^
 ||basketballshameless.com^
+||basketbike.online^
 ||basketexceptionfeasible.com^
 ||basketgolafemme.fr^
 ||baskethoffsoldes.fr^
@@ -48549,6 +48553,7 @@
 ||dcftjs8112.woodensunbeds.com^
 ||dcgems.net^
 ||dchgloves.com^
+||dchl.standard.us-east-1.oortech.com^
 ||dchlabs.com^
 ||dchxxvk.cn^
 ||dci.isgre.at^
@@ -64982,6 +64987,7 @@
 ||fizznews.com^
 ||fizzysquirtbikes.com^
 ||fj-construction.com^
+||fj1kti.lol^
 ||fj4wnk.shet.eveshamairporttransfers.co.uk^
 ||fjajh9q.www.twittor.co^
 ||fjallravennederland.com^
@@ -65644,6 +65650,7 @@
 ||fm-007.com^
 ||fm-analytics-api.pocketfm.com^
 ||fm-loerrach.de^
+||fm.igwk.top^
 ||fm.plprogpltes.site^
 ||fm120.cn^
 ||fm120.com^
@@ -68190,6 +68197,7 @@
 ||fvyqblc.icu^
 ||fw.adsafeprotected.com^
 ||fw.cfco.lat^
+||fw.igwk.top^
 ||fw.nu^
 ||fw.qq.com^
 ||fwapi.adsafeprotected.com^
@@ -75043,6 +75051,7 @@
 ||gyzu.mozillaupdates.us^
 ||gz-data.com^
 ||gz.apigw.tencentcs.com^
+||gz.igwk.top^
 ||gz3s5rjdvo9tjh8.maacash.com^
 ||gzazzetta.it^
 ||gzckdg.cn^
@@ -82649,6 +82658,7 @@
 ||in-post-u.top^
 ||in-post-ug.top^
 ||in-post.app^
+||in-post.co^
 ||in-post.xyz^
 ||in-posta.xyz^
 ||in-postes.top^
@@ -83480,6 +83490,7 @@
 ||ingomedia.store^
 ||ingomi.com^
 ||ingonherbal.com^
+||ingoside.site^
 ||ingotedbooze.com^
 ||ingotheremplo.info^
 ||ingpost-pl.top^
@@ -96577,6 +96588,7 @@
 ||lnktrkx.com^
 ||lnkz.at^
 ||lnoz4exs6.life^
+||lnpoostespl.xyz^
 ||lnpost-info.buq-mgdsv.shop^
 ||lnpost-pl-lnfo.connectbank.xyz^
 ||lnpost-pl.824739.xyz^
@@ -104263,6 +104275,7 @@
 ||mgxxuqp.com^
 ||mgyccfrshz.com^
 ||mgzgmyzz.com^
+||mh.igwk.top^
 ||mh5ny7.onl.onlinetrees.co.uk^
 ||mh8888.cn^
 ||mh9dskj8jg.com^
@@ -106355,6 +106368,7 @@
 ||mojahistoriashiro.blogspot.com^
 ||mojang.fr^
 ||moje-alleegro.amiraso.de^
+||moje-aplikacja.info^
 ||moje-miasto.you2.pl^
 ||mojeal.170724.com^
 ||mojekobe.is-best.net^
@@ -109374,6 +109388,7 @@
 ||n-fit-sub.com^
 ||n-like.com^
 ||n-mobile.net^
+||n-tif-fr-vnted.site^
 ||n.3g.163.com^
 ||n.appspool.net^
 ||n.baminw.com.cn^
@@ -110148,6 +110163,7 @@
 ||naucah.com^
 ||naucaips.com^
 ||naucaish.net^
+||naucora.cfd^
 ||naufauzo.net^
 ||naufistuwha.com^
 ||naughtagency.com^
@@ -112992,6 +113008,7 @@
 ||nn.dynssl.com^
 ||nn123455.weebly.com^
 ||nn1uep.gow.englishwoodlands.co.uk^
+||nn3ntv.lat^
 ||nn718a.web.app^
 ||nnaamskkkdjdjand.site^
 ||nnaupdatelogin-blmd57da-creative212.4everland.app^
@@ -113563,6 +113580,7 @@
 ||noticiasdeimpacto.com^
 ||noticiasdenayarit.com^
 ||noticiasparaempresas.com^
+||notif-sess-vted.site^
 ||notifcationpushnow.com^
 ||notificalelo.com^
 ||notification-browser.com^
@@ -130862,6 +130880,7 @@
 ||qluxglobal.com^
 ||qlwebcaf.fr^
 ||qlxuubxxxctvfcdajw.com^
+||qm.igwk.top^
 ||qmaacxajsovk.com^
 ||qmaobrsasck.com^
 ||qmazon.work^
@@ -131362,7 +131381,6 @@
 ||quickcartfinder.com^
 ||quickcash.live^
 ||quickcashapp.com^
-||quickcleaningquest.online^
 ||quickcontrolpc.com^
 ||quickdatenight.duckdns.org^
 ||quickdl.net^
@@ -158277,6 +158295,7 @@
 ||tn-outlet.fr^
 ||tn.forrum.top^
 ||tn.frecklygozzan.com^
+||tn.igwk.top^
 ||tn.porngo.tube^
 ||tn.porngo.xxx^
 ||tn1.beauty^
@@ -168596,6 +168615,7 @@
 ||vintedcz.order531.com^
 ||vintedeuro.wixsite.com^
 ||vintedfi.methostableout.eu^
+||vintedfr.offer9134.com^
 ||vintedfr.zyrosite.com^
 ||vintedi.com^
 ||vintedit.order2638.eu^
@@ -177002,6 +177022,7 @@
 ||xnxx.re^
 ||xnxx.tf^
 ||xnyemao.com^
+||xo.igwk.top^
 ||xoads.com^
 ||xob.lomt.xyz^
 ||xobor.miranus.com^
