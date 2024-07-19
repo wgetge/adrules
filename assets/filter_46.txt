@@ -2,7 +2,7 @@
 ! Title: HaGeZi's Anti-Piracy Blocklist
 ! Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
 ! Homepage: https://github.com/hagezi/dns-blocklists#piracy
-! Last modified: 2024-07-18T16:12:30.667Z
+! Last modified: 2024-07-19T04:14:15.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,10 +16,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 18 Jul 2024 15:17 UTC
-! Version: 2024.0718.1517.37
+! Last modified: 18 Jul 2024 22:40 UTC
+! Version: 2024.0718.2240.38
 ! Syntax: AdBlock
-! Number of entries: 10001
+! Number of entries: 10011
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -755,6 +755,7 @@
 ||ec2-18-191-163-220.us-east-2.compute.amazonaws.com^
 ||ambits.org^
 ||amcomputers.org^
+||tracker.amelia.fun^
 ||americansoccerarchives.com^
 ||amigacity.xyz^
 ||amrbd.com^
@@ -5721,6 +5722,7 @@
 ||mooslo.com^
 ||tracker.morethantv.me^
 ||moriyashrine.org^
+||morpheustvhd.com^
 ||wg.mortis.me^
 ||motivationalhacks.com^
 ||motorworld.net^
@@ -5754,6 +5756,7 @@
 ||db1.moviebox.com^
 ||movieboxbd.com^
 ||moviecracker.net^
+||moviedom.live^
 ||moviedream.ws^
 ||moviefiles.org^
 ||movieforfree.co^
@@ -5893,6 +5896,7 @@
 ||torrent.mp3quran.net^
 ||mp3rally.com^
 ||mp3scene.info^
+||mp3skull.site^
 ||mp3skulls.info^
 ||mp3skulls.to^
 ||mp3songs.us^
@@ -5935,6 +5939,7 @@
 ||mults.info^
 ||murmurs.com^
 ||musgle.com^
+||music-torrent.net^
 ||music-vid.com^
 ||musicatube.net^
 ||musichq.net^
@@ -6013,12 +6018,14 @@
 ||myspleen.net^
 ||myspleen.org^
 ||mystresser.com^
+||mythicalstress.xyz^
 ||mytlinkbd.net^
 ||mytracker.ru^
 ||myustv.com^
 ||myvi.tv^
 ||rfc5746.mywaifu.best^
 ||tracker.mywaifu.best^
+||mywarez.ru^
 ||adminion.n-blade.ru^
 ||nabtor.com^
 ||nachtfalke.biz^
@@ -6272,6 +6279,7 @@
 ||nulled-scripts.cc^
 ||nulledfree.pw^
 ||nullednow.in^
+||nulledwarez.org^
 ||nulljungle.com^
 ||nullphp.net^
 ||nullphpscript.com^
@@ -6284,6 +6292,7 @@
 ||nwanime.tv^
 ||nxbrew.com^
 ||nxtgn.org^
+||nxtiptv.tv^
 ||nyaa.bio^
 ||nyaa.eu^
 ||nyaa.net^
@@ -6436,6 +6445,7 @@
 ||opentor.org^
 ||opentracker.cc^
 ||opentracker.io^
+||opentracker.xyz^
 ||tracker.opentracker.se^
 ||opentrackers.net^
 ||opentrackers.org^
