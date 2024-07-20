@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-20T00:46:09.244Z
+! Last modified: 2024-07-20T03:12:25.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407200006
+! Version: 202407200307
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45331
-! Last modified: 2024-07-20T00:06:56+0000
+! Entries: 45356
+! Last modified: 2024-07-20T03:07:03+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -788,6 +788,7 @@
 ||3f2c49ab2d.265641f673.com^
 ||3fb4026cec.ffbd26c481.com^
 ||3fba1b901c.com^
+||3fc0ebfea0.com^
 ||3g25ko2.de^
 ||3gbqdci2.de^
 ||3gplay.pl^
@@ -7367,6 +7368,7 @@
 ||bashfuladvancedeliberately.com^
 ||bashnourish.com^
 ||bashwhoopflash.com^
+||basicallyspacecraft.com^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
 ||basilisk.kite.pub^
@@ -8279,6 +8281,7 @@
 ||blogcounter.de^
 ||blogger2020.com^
 ||bloggerex.com^
+||blogostock.com^
 ||blogrush.com^
 ||blogstatistics.sapoapps.vn^
 ||blogtoplist.se^
@@ -10922,6 +10925,7 @@
 ||clumperrucksey.life^
 ||clumsinesssinkingmarried.com^
 ||clumsyflint.com^
+||clumsyshare.com^
 ||cluodlfare.com^
 ||cluster.adultworld.com^
 ||clusterdamages.top^
@@ -12229,6 +12233,7 @@
 ||ctydsy.xyz^
 ||cuaeblh.icu^
 ||cubchillysail.com^
+||cubeuptownpert.com^
 ||cubgeographygloomily.com^
 ||cubicnought.com^
 ||cubics.com^
@@ -14965,6 +14970,7 @@
 ||doshellosan.com^
 ||dositsil.net^
 ||dosliggooor.com^
+||dossestarairi.shop^
 ||dossmanaventre.top^
 ||doswinuba.com^
 ||dot.texastribune.org^
@@ -18522,6 +18528,7 @@
 ||fxnmjb.xyz^
 ||fxrbsadtui.com^
 ||fxstyle.net^
+||fyafcyawfevr.com^
 ||fyber.com^
 ||fyblppngxdt.com^
 ||fydczmk.com^
@@ -18604,6 +18611,7 @@
 ||gaizoopi.net^
 ||gak.webtoons.com^
 ||gakairohekoa.com^
+||gakvrqdquo.com^
 ||galaare.com^
 ||galachr.com^
 ||galairo.com^
@@ -20358,6 +20366,7 @@
 ||headlightgranulatedflee.com^
 ||headlightinfinitelyhusband.com^
 ||headline205.fun^
+||headline3452.fun^
 ||headphonedecomposeexcess.com^
 ||headphoneveryoverdose.com^
 ||headquarterinsufficientmaniac.com^
@@ -20599,6 +20608,7 @@
 ||hiadone.com^
 ||hibids10.com^
 ||hibiki-track.logica.bz^
+||hichhereallyw.info^
 ||hickclamour.com^
 ||hickunwilling.com^
 ||hicovjpufo.com^
@@ -22717,6 +22727,7 @@
 ||jeehathu.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeelmuyusa.com^
 ||jeepsaut.com^
 ||jeerinfluencemedical.com^
 ||jeerouse.xyz^
@@ -23664,6 +23675,7 @@
 ||korpeoe.com^
 ||korporatefinau.org^
 ||korununkept.digital^
+||kosininia.com^
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
@@ -26277,6 +26289,7 @@
 ||methodslacca.top^
 ||methoxyunpaled.com^
 ||metminekit.live^
+||metogthr.com^
 ||metorealiukz.org^
 ||metosk.com^
 ||metotreatwithdify.info^
@@ -28641,6 +28654,7 @@
 ||observativus.com^
 ||observedbrainpowerweb.com^
 ||observedlily.com^
+||observer3452.fun^
 ||observer384.fun^
 ||observerdispleasejune.com^
 ||obsesschristening.com^
@@ -29872,6 +29886,7 @@
 ||paintwandering.com^
 ||paipsuto.com^
 ||paitoucaum.com^
+||paiwena.xyz^
 ||paiwhisep.com^
 ||pajamasgnat.com^
 ||pajamasguests.com^
@@ -30216,6 +30231,7 @@
 ||pcapp-data-collect.youku.com^
 ||pcash.imlive.com^
 ||pccasia.xyz^
+||pccjtxsao.com^
 ||pceeyzmqnb.cc^
 ||pcirurrkeazm.com^
 ||pclick.yahoo.com^
@@ -32209,6 +32225,7 @@
 ||pub1.co^
 ||pub2.webmanagercenter.com^
 ||pub2srv.com^
+||pubadx.one^
 ||pubaka5.com^
 ||pubceremony.com^
 ||pubdirecte.com^
@@ -33177,6 +33194,7 @@
 ||rdsddand.com^
 ||rdsgick.icu^
 ||rdtk.io^
+||rdtracer.com^
 ||rdtrck2.com^
 ||rdwmct.com^
 ||rdxmjgp.com^
@@ -34965,6 +34983,7 @@
 ||sandmakingsilver.info^
 ||sandsonair.com^
 ||sandtheircle.com^
+||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
 ||sanggilregard.com^
@@ -34981,6 +35000,7 @@
 ||santoscologne.com^
 ||santosfeltmanager.com^
 ||santosmiddle.com^
+||santtacklingallaso.com^
 ||sanufvuhaf.com^
 ||sapfailedfelon.com^
 ||saptiledispatch.com^
@@ -38179,6 +38199,7 @@
 ||surfeurdor.free.fr^
 ||surfingmister.com^
 ||surfmusik-adserver.de^
+||surfwestlaw.com^
 ||surge.systems^
 ||surgicalhanging.com^
 ||surgicaljunctiontriumph.com^
@@ -42592,6 +42613,7 @@
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
 ||voleryclat.com^
+||volform.online^
 ||volleyballachiever.site^
 ||voltads.com^
 ||volts.shopping.naver.com^
@@ -42999,6 +43021,7 @@
 ||wdvlqbo.com^
 ||weakcompromise.com^
 ||wealthextend.com^
+||wealthsgraphis.com^
 ||wealthyonsethelpless.com^
 ||weanyergravely.com^
 ||weaponsnondescriptperceive.com^
@@ -43191,6 +43214,7 @@
 ||werbung.meteoxpress.com^
 ||weredthechild.info^
 ||wereksbeforebut.info^
+||weremoiety.com^
 ||wererxrzmp.com^
 ||werped.com^
 ||wesicuros.com^
@@ -45077,6 +45101,7 @@
 ||zerodecisive.com^
 ||zetamm.com^
 ||zetheesug.com^
+||zetutsooz.net^
 ||zeuqmpe.icu^
 ||zeus.developershed.com^
 ||zeusadx.com^
