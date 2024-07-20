@@ -2,7 +2,7 @@
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2024-07-19T15:11:27.675Z
+! Last modified: 2024-07-20T00:46:17.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -15,8 +15,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Total count: 122282
-! Update: 2024-07-19 23:03:07(GMT+8)
+! Total count: 122307
+! Update: 2024-07-20 08:03:21(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -1660,6 +1660,7 @@
 ||3f2c49ab2d.265641f673.com^
 ||3fa244b7eb.com^
 ||3fb4026cec.ffbd26c481.com^
+||3fc0ebfea0.com^
 ||3fcce9277a.5029bb74f2.com^
 ||3fns.com^
 ||3fwlr7frbb.pro^
@@ -16663,6 +16664,7 @@
 ||bashfuladvancedeliberately.com^
 ||bashnourish.com^
 ||bashwhoopflash.com^
+||basicallyspacecraft.com^
 ||basicflownetowork.co.in^
 ||basictreadcontract.com^
 ||basicwhenpear.com^
@@ -22505,6 +22507,7 @@
 ||chantmaftir.uno^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||chaoshackss.com^
+||chaoyumiao.com^
 ||chapcompletefire.com^
 ||chapelalanine.com^
 ||chapseel.com^
@@ -24284,6 +24287,7 @@
 ||clumsyninjahack.com^
 ||clumsyninjahack.goblogz.net^
 ||clumsyrock.com^
+||clumsyshare.com^
 ||cluodlfare.com^
 ||clurvypxvji.com^
 ||cluster.adultworld.com^
@@ -27049,6 +27053,7 @@
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
+||crtlisf.top^
 ||crtracklink.com^
 ||crtv.mate1.com^
 ||crubtokopat.top^
@@ -27730,6 +27735,7 @@
 ||cubchillysail.com^
 ||cubegaming.net^
 ||cubeslichees.com^
+||cubeuptownpert.com^
 ||cubeworld-download.org^
 ||cubeworld-free.com^
 ||cubeworld-freedownload.com^
@@ -34306,6 +34312,7 @@
 ||dositsil.net^
 ||dosliggooor.com^
 ||dosre12.xyz^
+||dossestarairi.shop^
 ||dossmanaventre.top^
 ||dossouwe.net^
 ||dosugcz.biz^
@@ -40535,6 +40542,7 @@
 ||fhiwyq.axiory.com^
 ||fhjvhupv.com^
 ||fhlceugidb.xyz^
+||fhnbrx.xyz^
 ||fhngty.vetsecurite.com^
 ||fhoa365.com^
 ||fhqrnb.feelway.com^
@@ -43336,6 +43344,7 @@
 ||fxxrllt.com^
 ||fxyvcz.thecompanystore.com^
 ||fy14.cn^
+||fyafcyawfevr.com^
 ||fyber.com^
 ||fybkhsfntvuyat.com^
 ||fyblppngxdt.com^
@@ -43542,6 +43551,7 @@
 ||gak.webtoons.com^
 ||gakairohekoa.com^
 ||gakimi.ru^
+||gakvrqdquo.com^
 ||galaare.com^
 ||galachr.com^
 ||galairo.com^
@@ -48871,6 +48881,7 @@
 ||headlightgranulatedflee.com^
 ||headlightinfinitelyhusband.com^
 ||headline205.fun^
+||headline3452.fun^
 ||headphonedecomposeexcess.com^
 ||headphoneveryoverdose.com^
 ||headquarterinsufficientmaniac.com^
@@ -49418,6 +49429,7 @@
 ||hicam.net^
 ||hicawxojvcc.com^
 ||hiccupcotman.com^
+||hichhereallyw.info^
 ||hickclamour.com^
 ||hickeyhsu.top^
 ||hickunwilling.com^
@@ -51497,6 +51509,7 @@
 ||ieapak.xyz^
 ||iebar.baidu.com^
 ||iebsmqevw.com^
+||iecmca.xyz^
 ||iedc.fitbit.com^
 ||iedivhtgisumbsy.com^
 ||iee5.com^
@@ -55656,6 +55669,7 @@
 ||jeejeetauz.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeelmuyusa.com^
 ||jeeng.com^
 ||jeephiney.net^
 ||jeerinfluencemedical.com^
@@ -58196,6 +58210,7 @@
 ||korununkept.digital^
 ||kos.interseek.si^
 ||kosatec.fr^
+||kosininia.com^
 ||kostprice.com^
 ||kotikinar2ko8tiki09.com^
 ||kotnvzp.com^
@@ -73957,6 +73972,7 @@
 ||observedbrainpowerweb.com^
 ||observedlily.com^
 ||observer.ip-label.net^
+||observer3452.fun^
 ||observer384.fun^
 ||observerdispleasejune.com^
 ||obsesschristening.com^
@@ -76905,6 +76921,7 @@
 ||paipsuto.com^
 ||pairschorus.com^
 ||paiwaupseto.com^
+||paiwena.xyz^
 ||paiwhisep.com^
 ||paiwhoki.com^
 ||pajamasgnat.com^
@@ -78021,6 +78038,7 @@
 ||pcash.imlive.com^
 ||pccasia.xyz^
 ||pcci.pccinnovation.org^
+||pccjtxsao.com^
 ||pcdgninekvch.com^
 ||pcdownloadstation.com^
 ||pcdownstation.com^
@@ -86297,6 +86315,7 @@
 ||rodent.livelinor.dk^
 ||rodirgix.com^
 ||rodisons.site^
+||rodmfv.xyz^
 ||rodo.agora.pl^
 ||rodplayed.com^
 ||rodrergi.com^
@@ -88459,6 +88478,7 @@
 ||sandsonair.com^
 ||sandtheircle.com^
 ||sandviken.rawww.space^
+||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
@@ -88508,6 +88528,7 @@
 ||santoscologne.com^
 ||santosfeltmanager.com^
 ||santosmiddle.com^
+||santtacklingallaso.com^
 ||sanya1.com^
 ||saol.co^
 ||sapcagarhb.com^
@@ -110426,6 +110447,7 @@
 ||u33011.com^
 ||u40cc3twb.com^
 ||u47.pnc.com^
+||u4ccj.icu^
 ||u55011.com^
 ||u566.chron.com^
 ||u578.wlwt.com^
@@ -112148,6 +112170,7 @@
 ||uvbyty.com^
 ||uvccpk.1800petmeds.com^
 ||uveaopqrttvukl.com^
+||uvekyvs.icu^
 ||uvgxhu.ezgif.com^
 ||uvgxhu.sharemods.com^
 ||uviajpcewsv.com^
@@ -113723,6 +113746,7 @@
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
 ||voleryclat.com^
+||volform.online^
 ||volgreal.com^
 ||volifern.ru^
 ||volksaddiction.nl^
@@ -114766,6 +114790,7 @@
 ||weakwiki.com^
 ||wealth.informabi.com^
 ||wealthextend.com^
+||wealthsgraphis.com^
 ||wealthyamomal.com^
 ||wealthyonsethelpless.com^
 ||weanersporta.com^
