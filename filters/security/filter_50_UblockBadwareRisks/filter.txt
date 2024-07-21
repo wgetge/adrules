@@ -2,7 +2,7 @@
 ! Title: uBlock₀ filters – Badware risks
 ! Description: For sites documented to put users at risk of installing adware/crapware/malware, having login credentials stolen, etc. The purpose is to at least ensure a user is warned of the risks ahead.
 ! Homepage: https://github.com/uBlockOrigin/uAssets
-! Last modified: 2024-07-20T14:09:27.378Z
+! Last modified: 2024-07-21T00:52:33.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3548,29 +3548,13 @@ thepiratebay3.com^
 ! https://community.bolster.ai/t/crowdstrike-look-alike-domains-list/217
 ||crowdstrike-helpdesk.com^
 ||crowdstrikebluescreen.com^
-||crowdstrike-bsod.com^
-||crowdstrikedown.site^
 ||crowdstrike0day.com^
 ||crowdstrikedoomsday.com^
-||crowdstrikefix.com^
 ||crowdstriketoken.com^
-||fix-crowdstrike-bsod.com^
 ||bsodsm8r.xamzgjedu.com^
-||crowdstrikebsodfix.blob.core.windows.net^
-||crowdstrikecommuication.app^
-||fix-crowdstrike-apocalypse.com^
-||supportportal-crowdstrike-com.translate.goog^
 ||crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com^
 ||crowdstrikeoutage.info^
-||clownstrike.co.uk^
-||crowdstrikebsod.com^
-||whatiscrowdstrike.com^
-||clownstrike.co^
 ||microsoftcrowdstrike.com^
-||crowdfalcon-immed-update.com^
-||crowdstuck.org^
-||failstrike.com^
-||winsstrike.com^
 ||crowdpass.live^
 ||crowdstrike.life^
 ||crowdstrikeupdate.com^
@@ -3579,8 +3563,6 @@ thepiratebay3.com^
 ||crowdstrike-falcon.online^
 ||crowdstrike-solutions.nl^
 ||crowdstrikeclaim.com^
-||crowdstrikebug.com^
-||crowdstrikeoopsie.com^
 ||crowdstrokeme.me^
 ||crowdstrikeoutage.com^
 ||crowdstrikefix.zip^

@@ -2,7 +2,7 @@
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2024-07-20T09:10:58.437Z
+! Last modified: 2024-07-21T00:52:17.501Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -15,8 +15,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Total count: 122314
-! Update: 2024-07-20 16:18:23(GMT+8)
+! Total count: 122335
+! Update: 2024-07-21 08:04:01(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -2109,6 +2109,7 @@
 ||5advertise.com^
 ||5b10f288ee.com^
 ||5bf0fdacd2.apps.iocnt.de^
+||5brxi.icu^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
 ||5c3ecd55a1.143a91b3e6.com^
@@ -3111,6 +3112,7 @@
 ||9d2cca15e4.com^
 ||9d3464a212.eac77b4889.com^
 ||9d407e803d.com^
+||9d603009eb.com^
 ||9d70e2dcea.c4024c9266.com^
 ||9dccbda825.com^
 ||9dmnv9z0gtoh.com^
@@ -14695,6 +14697,7 @@
 ||asnoibator.com^
 ||asnortsalol.website^
 ||asnothycan.info^
+||asnothycantyou.info^
 ||asnwish.com^
 ||aso1.net^
 ||asoawhum.com^
@@ -15451,6 +15454,7 @@
 ||avocet.io^
 ||avosstart.fr^
 ||avouchamazeddownload.com^
+||avouchuramil.com^
 ||avouse.com^
 ||avowalsannop.com^
 ||avowappear.com^
@@ -24822,6 +24826,7 @@
 ||collect-eu.attraqt.io^
 ||collect-v*.51.la^
 ||collect.adplogger.no^
+||collect.air1.com^
 ||collect.alipay.com^
 ||collect.allianz-technology.ch^
 ||collect.allianz.ch^
@@ -24844,6 +24849,7 @@
 ||collect.hollisterco.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
+||collect.klove.com^
 ||collect.kugou.com^
 ||collect.media.jio.com^
 ||collect.meilleurtaux.com^
@@ -31563,6 +31569,7 @@
 ||datskins.eu^
 ||dattoswitches.com^
 ||datum.appfleet.com^
+||datum.jsdelivr.com^
 ||daubingweekday.com^
 ||daudejuw.com^
 ||daughterinlawrib.com^
@@ -35300,6 +35307,7 @@
 ||dwrlwx.polo-motorrad.de^
 ||dwtkuzo.cn^
 ||dwtpxq.karaca-home.com^
+||dwuxbazvi.com^
 ||dwuzxuvwlq.winticket.jp^
 ||dwvbfnqrbif.com^
 ||dwvxmfscptajtll.com^
@@ -50557,6 +50565,7 @@
 ||hrscompetepickles.com^
 ||hrtennaarn.com^
 ||hrtinqj.cn^
+||hrtlisu.top^
 ||hrtvluy.com^
 ||hrtya.com^
 ||hrtyc.com^
@@ -58871,6 +58880,7 @@
 ||lab.prodesp.sp.gov.br^
 ||lab.sensilia.com^
 ||labadena.com^
+||labapwlkyov.com^
 ||labasa.net.jumia.co.tz^
 ||labbyplop.com^
 ||labeldollars.com^
@@ -61365,6 +61375,7 @@
 ||ljoyjuis.com^
 ||ljpbtjq.xyz^
 ||ljqpvo.hardrock.com^
+||ljr3.site^
 ||ljrtb.cn^
 ||ljtodywdhx.xyz^
 ||ljubleasyu.com^
@@ -73032,6 +73043,7 @@
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
 ||noushe.zevvle.com^
+||nouusup.icu^
 ||nouveau-digital.com^
 ||nouveaulain.com^
 ||nouvelles247.com^
@@ -82810,6 +82822,7 @@
 ||qdwnlkdw.com^
 ||qdzyspjx.com^
 ||qe0ckm024b.com^
+||qebpwkxjz.com^
 ||qebuoxn.com^
 ||qedeczzdt.com^
 ||qedlai.restplatzboerse.com^
@@ -88482,6 +88495,7 @@
 ||sandviken.rawww.space^
 ||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
+||sandyrecordingmeet.com^
 ||sandysuspicions.com^
 ||sanedfalsely.com^
 ||sanfordcessor.space^
@@ -102046,6 +102060,7 @@
 ||tagrec.sphdigital.com^
 ||tagroors.com^
 ||tagrua.xyz^
+||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.aumago.com^
@@ -102065,6 +102080,7 @@
 ||tags.hypeads.org^
 ||tags.igeo.com.bo^
 ||tags.johnlewis.com^
+||tags.klove.com^
 ||tags.master-perf-tools.com^
 ||tags.op-palvelut.fi^
 ||tags.refinery89.com^
@@ -110349,6 +110365,7 @@
 ||tyranpension.com^
 ||tyrds.com^
 ||tyresleep.com^
+||tyretui.top^
 ||tyroo.com^
 ||tyrotation.com^
 ||tyrsn6di.icu^
@@ -111730,6 +111747,7 @@
 ||upzabkw.cn^
 ||upzekroman.com^
 ||uq.skewlyshoggle.com^
+||uqaagi.xyz^
 ||uqckxr.chilli.se^
 ||uqd.io^
 ||uqdoeag.com^
@@ -114320,6 +114338,7 @@
 ||waframedia5.com^
 ||wafvertizing.crazygames.com^
 ||wagecolorful.com^
+||wagenerfevers.com^
 ||wagepulsate.com^
 ||wagerjoint.com^
 ||wagerprocuratorantiterrorist.com^
@@ -121451,6 +121470,7 @@
 ||zemteksu.xyz^
 ||zemuro.ru^
 ||zemydreamsa.info^
+||zemydreamsauk.com^
 ||zemywwm.com^
 ||zen0935.com^
 ||zenadservices.net^
@@ -122264,6 +122284,7 @@
 ||zycaphede.com^
 ||zycnof.distrelec.de^
 ||zyf03k.xyz^
+||zyfnbl.xyz^
 ||zygehty.cn^
 ||zygenidempaper.digital^
 ||zygomasbeaches.guru^
