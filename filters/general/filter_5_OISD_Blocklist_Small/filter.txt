@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Small
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-21T21:09:05.618Z
+! Last modified: 2024-07-22T00:49:59.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Small
 ! Source: https://small.oisd.nl/
 !
-! Version: 202407212107
+! Version: 202407220007
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45159
-! Last modified: 2024-07-21T21:07:15+0000
+! Entries: 45130
+! Last modified: 2024-07-22T00:07:11+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -323,7 +323,6 @@
 ||192.luyouwang.com^
 ||193bde9ab1.com^
 ||19515bia.de^
-||19528681.com^
 ||197ab55c5d.com^
 ||1991482557.rsc.cdn77.org^
 ||1999019.com^
@@ -659,7 +658,6 @@
 ||300daytravel.com^
 ||301848.com^
 ||302kslgdl.de^
-||3034f47ff3.com^
 ||303ag0nc7.de^
 ||303marketplace.com^
 ||305421ba72.com^
@@ -828,7 +826,6 @@
 ||43t53c9e.de^
 ||4406fd3cbb.fad1ef26a9.com^
 ||440t1jcs6utnip.xyz^
-||44288fa514.com^
 ||442fc29954.com^
 ||445d1bd01a.com^
 ||44629.com^
@@ -4072,7 +4069,6 @@
 ||afd.baidu.com^
 ||afdashrafi.com^
 ||afde41b0e1.3dbc026bec.com^
-||afdunaui.com^
 ||afe95832bb.com^
 ||afearprevoid.com^
 ||aferpush.com^
@@ -6778,7 +6774,6 @@
 ||awesome-blocker.com^
 ||awesomeprizedrive.co^
 ||awestatic.com^
-||awesunstroke.com^
 ||awfullypersecution.com^
 ||awfulresolvedraised.com^
 ||awhajdorzawd.com^
@@ -7494,7 +7489,6 @@
 ||be.jambertarry.com^
 ||be023693af.com^
 ||be5fb85a02.com^
-||be8df00f33.com^
 ||bea-s.dinghuoche.com^
 ||beachanatomyheroin.com^
 ||beachinfinitegag.com^
@@ -7775,7 +7769,6 @@
 ||bepolite.eu^
 ||ber2g8e3keley.com^
 ||berchchisel.com^
-||berchsquirrelcomposure.com^
 ||bereaveconsciousscuffle.com^
 ||bereaveundresscrowded.com^
 ||berenicepunch.com^
@@ -9331,7 +9324,6 @@
 ||ca72472d7aee.com^
 ||ca7dacf18e.501a0158d0.com^
 ||caajol.icu^
-||caardinal.com^
 ||cabbagesemestergeoffrey.com^
 ||cabbingdandled.com^
 ||cabhwq.com^
@@ -10426,7 +10418,6 @@
 ||chumsaft.com^
 ||chunkkalmias.com^
 ||chunkstoreycurled.com^
-||chunmiaosh.com^
 ||chunyuqiufeng.com^
 ||chuptuwais.com^
 ||churchalexis.com^
@@ -14801,7 +14792,6 @@
 ||dolefulitaly.com^
 ||dolefulwelcoming.com^
 ||dolemeasuringscratched.com^
-||doleplasticimpending.com^
 ||doleyorpinc.website^
 ||dollarade.com^
 ||dollargrimlytommy.com^
@@ -14955,7 +14945,6 @@
 ||doufoacu.net^
 ||dougale.com^
 ||douhooke.net^
-||doujs010.xyz^
 ||doukoula.com^
 ||douthosh.net^
 ||dove.hoku.nz^
@@ -15815,7 +15804,6 @@
 ||eessoost.net^
 ||eetognauy.net^
 ||eetsooso.net^
-||eewhocmi.com^
 ||eezavops.net^
 ||eezegrip.net^
 ||ef.fanatical.com^
@@ -18278,7 +18266,6 @@
 ||frog.yuanfudao.com^
 ||froggytablier.top^
 ||frogrugby.com^
-||frokbsuagevsy.com^
 ||frolicaugmentcreeper.com^
 ||frolnk.com^
 ||fromjoytohappiness.com^
@@ -18437,7 +18424,6 @@
 ||fweokcgamoj.com^
 ||fwepd.xyz^
 ||fwhhcpj.xyz^
-||fwnxbcogqcjj.com^
 ||fwsoviw.com^
 ||fwtrck.com^
 ||fwukoulnhdlukik.info^
@@ -19972,7 +19958,6 @@
 ||h1.wk2.com^
 ||h12-media.com^
 ||h2aek6rv0ard.com^
-||h353.ncadvertiser.com^
 ||h5.isnssdk.com^
 ||h52ek3i.de^
 ||h5lwvwj.top^
@@ -20071,7 +20056,6 @@
 ||handbagadequate.com^
 ||handboyfriendomnipotent.com^
 ||handcuffglare.com^
-||handerfix.com^
 ||handfuljoggingpatent.com^
 ||handfulnobodytextbook.com^
 ||handfulsobcollections.com^
@@ -20130,7 +20114,6 @@
 ||haribdathesea.com^
 ||hariblockairline.com^
 ||hariheadacheasperity.com^
-||harlequinsleepyfrog.xyz^
 ||harmfulresolution.com^
 ||harmfulsong.pro^
 ||harmlessepic.com^
@@ -23500,7 +23483,6 @@
 ||knownconsider.com^
 ||knownwarn.com^
 ||knowsdcollet.com^
-||knqpyaholceobc.com^
 ||knutenegros.pro^
 ||knxvwxe.cn^
 ||koabapeed.com^
@@ -24067,7 +24049,6 @@
 ||lcfooiqhro.com^
 ||lciapi.ninthdecimal.com^
 ||lckjqtx.xyz^
-||lcmevashrxfh.com^
 ||lcolumnstoodth.info^
 ||lcs.loginfra.com^
 ||lcs.modoo.at^
@@ -24354,7 +24335,6 @@
 ||likelihoodrevolution.com^
 ||likenessmockery.com^
 ||likenewvids.mom^
-||likenewvids.online^
 ||likescenesfocused.com^
 ||likevertising.com^
 ||liktufmruav.com^
@@ -24564,7 +24544,6 @@
 ||lkg6g644.de^
 ||lkhfkjp.com^
 ||lkj-lijn.com^
-||lkkhedpqeduyukj.com^
 ||lkot.top^
 ||lkpmprksau.com^
 ||lkpxzt.xyz^
@@ -25292,7 +25271,6 @@
 ||lw2ofgc2zo.com^
 ||lwdcnz.xyz^
 ||lwgadm.com^
-||lwide.xyz^
 ||lwjje.com^
 ||lwjvyd.com^
 ||lwonclbench.com^
@@ -27095,7 +27073,6 @@
 ||muipe.xyz^
 ||muirpekvl.com^
 ||mujilora.com^
-||mujkdna.xyz^
 ||mukhtarproving.com^
 ||mulaukso.com^
 ||mulberryay.com^
@@ -28825,7 +28802,6 @@
 ||ololenopoteretol.info^
 ||olomonautcatho.info^
 ||olpaeclary.top^
-||olpfeere.com^
 ||olpxupvisl.com^
 ||oltptelifmal.com^
 ||olympicsappointment.com^
@@ -31397,7 +31373,6 @@
 ||precedentadministrator.com^
 ||precedentbasepicky.com^
 ||precedingdippingtune.com^
-||precially.space^
 ||preciousdoctor.pro^
 ||preciousentangledjustified.com^
 ||preciouswornspectacle.com^
@@ -31612,7 +31587,6 @@
 ||probestrike.com^
 ||probitystuck.com^
 ||probtn.com^
-||procedureible.biz^
 ||procedurepurposeassurance.com^
 ||proceduresjeer.com^
 ||proceedingdream.com^
@@ -40883,7 +40857,6 @@
 ||tyranpension.com^
 ||tyrds.com^
 ||tyresleep.com^
-||tyretui.top^
 ||tyrfd.ovh^
 ||tyroo.com^
 ||tytlementwre.info^
@@ -43954,7 +43927,6 @@
 ||xibilitukydteam.info^
 ||xiiepofl.xyz^
 ||xijgedjgg5f55.com^
-||xilbalar.com^
 ||xiloncopmat.com^
 ||ximad.com^
 ||ximybkpxwu.com^
@@ -44860,7 +44832,6 @@
 ||zd.plattedrattons.com^
 ||zd0.top^
 ||zdhq.xyz^
-||zdjtxjp.xyz^
 ||zdw.w8.com.cn^
 ||zeads.com^
 ||zealouscompassionatecranny.com^
