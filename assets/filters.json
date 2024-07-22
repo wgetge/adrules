@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1721609416322
+			"timeUpdated": 1721613857170
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
@@ -719,7 +719,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt",
 			"sourceUrl": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
 			"timeAdded": 1689805499960,
-			"timeUpdated": 1721585566056
+			"timeUpdated": 1721613859549
 		},
 		{
 			"filterId": "curben_phishing_filter",
@@ -799,7 +799,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
 			"sourceUrl": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
 			"timeAdded": 1695145147610,
-			"timeUpdated": 1721603484208
+			"timeUpdated": 1721613867068
 		},
 		{
 			"filterId": "hagezi_encrypted_dns_vpn_tor_proxy_bypass",
