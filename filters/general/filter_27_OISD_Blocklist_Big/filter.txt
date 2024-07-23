@@ -2,7 +2,7 @@
 ! Title: OISD Blocklist Big
 ! Description: List for blocking ads and trackers. Prioritizes functionality over blocking. Risks of incorrect blocking are higher than in the small version of OISD Blocklist.
 ! Homepage: https://oisd.nl/
-! Last modified: 2024-07-23T00:47:40.293Z
+! Last modified: 2024-07-23T03:12:44.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -10,12 +10,12 @@
 ! Source name: OISD Blocklist Big
 ! Source: https://big.oisd.nl/
 !
-! Version: 202407230006
+! Version: 202407230306
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 180281
-! Last modified: 2024-07-23T00:06:54+0000
+! Entries: 180283
+! Last modified: 2024-07-23T03:06:36+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -50059,6 +50059,7 @@
 ||detick.xyz^
 ||detinrubbing.com^
 ||detkreimeier-fotografie.de^
+||detolclean.sbs^
 ||detonabilitysjoage.life^
 ||detour.click^
 ||detourflail.lat^
@@ -176267,6 +176268,7 @@
 ||xolarpannel.click^
 ||xolen.xyz^
 ||xolinera.me^
+||xolo.ecomreviewzone.com^
 ||xomosagency.com^
 ||xoncex.com^
 ||xonderbox.fr^
