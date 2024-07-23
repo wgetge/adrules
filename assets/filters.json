@@ -46,7 +46,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
 			"sourceUrl": "https://big.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1721747506236
+			"timeUpdated": 1721761696215
 		},
 		{
 			"filterId": "steven_blacks_list",
@@ -110,7 +110,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt",
 			"sourceUrl": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1721733037264
+			"timeUpdated": 1721761700300
 		},
 		{
 			"filterId": "hagezi_pro",
@@ -222,7 +222,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
 			"sourceUrl": "https://small.oisd.nl/",
 			"timeAdded": 1640082678993,
-			"timeUpdated": 1721747518904
+			"timeUpdated": 1721761707676
 		},
 		{
 			"filterId": "windowsspyblocker_hosts_spy_rules",
@@ -638,7 +638,7 @@
 			"downloadUrl": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_41.txt",
 			"sourceUrl": "https://hole.cert.pl/domains/domains_adblock.txt",
 			"timeAdded": 1678201318112,
-			"timeUpdated": 1721758446982
+			"timeUpdated": 1721761722870
 		},
 		{
 			"filterId": "ISR_easyList_hebrew",
